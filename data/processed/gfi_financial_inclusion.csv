@@ -1,0 +1,307 @@
+Country Name,Country Code,Series Name,Series Code,2011 [YR2011],2014 [YR2014],2017 [YR2017],2021 [YR2021],2022 [YR2022]
+World,WLD,Account (% age 15+),account.t.d,50.63,61.92,68.5,76.2,..
+World,WLD,"Account, female (% age 15+)",account.t.d.1,46.62,58.4,64.85,73.99,..
+World,WLD,"Account, male (% age 15+)",account.t.d.2,54.75,65.49,72.24,78.35,..
+World,WLD,"Account, rural (% age 15+)",account.t.d.9,..,..,..,..,..
+World,WLD,"Account, urban (% age 15+)",account.t.d.10,..,..,..,..,..
+World,WLD,Financial institution account (% age 15+),fin1.t.d,50.63,61.12,67.1,73.97,..
+World,WLD,"Financial institution account, female (% age 15+)",fin1.t.d.1,46.62,57.68,63.69,71.9,..
+World,WLD,"Financial institution account, male (% age 15+)",fin1.t.d.2,54.75,64.59,70.61,76,..
+World,WLD,"Financial institution account, rural (% age 15+)",fin1.t.d.9,..,..,..,..,..
+World,WLD,"Financial institution account, urban (% age 15+)",fin1.t.d.10,..,..,..,..,..
+World,WLD,Mobile money account (% age 15+),mobileaccount.t.d,..,2.06,4.35,10.24,..
+World,WLD,"Mobile money account, female (% age 15+)",mobileaccount.t.d.1,..,1.6,3.29,8.35,..
+World,WLD,"Mobile money account, male (% age 15+)",mobileaccount.t.d.2,..,2.53,5.43,12.09,..
+World,WLD,"Mobile money account, rural (% age 15+)",mobileaccount.t.d.9,..,..,..,..,..
+World,WLD,"Mobile money account, urban (% age 15+)",mobileaccount.t.d.10,..,..,..,..,..
+World,WLD,Own a mobile phone (% age 15+),Own.phone,..,..,..,85.64,..
+World,WLD,Owns a debit or credit card (% age 15+),fin2.7.t.d,34.59,43.01,49.49,54.67,..
+India,IND,Account (% age 15+),account.t.d,35.23,53.14,79.88,77.53,..
+India,IND,"Account, female (% age 15+)",account.t.d.1,26.49,43.13,76.64,77.55,..
+India,IND,"Account, male (% age 15+)",account.t.d.2,43.74,62.76,83.01,77.51,..
+India,IND,"Account, rural (% age 15+)",account.t.d.9,..,..,..,77.26,..
+India,IND,"Account, urban (% age 15+)",account.t.d.10,..,..,..,77.83,..
+India,IND,Financial institution account (% age 15+),fin1.t.d,35.23,52.75,79.84,77.3,..
+India,IND,"Financial institution account, female (% age 15+)",fin1.t.d.1,26.49,42.64,76.64,77.47,..
+India,IND,"Financial institution account, male (% age 15+)",fin1.t.d.2,43.74,62.47,82.94,77.15,..
+India,IND,"Financial institution account, rural (% age 15+)",fin1.t.d.9,..,..,..,77.03,..
+India,IND,"Financial institution account, urban (% age 15+)",fin1.t.d.10,..,..,..,77.62,..
+India,IND,Mobile money account (% age 15+),mobileaccount.t.d,..,2.35,1.99,10.44,..
+India,IND,"Mobile money account, female (% age 15+)",mobileaccount.t.d.1,..,1.17,0.86,5.12,..
+India,IND,"Mobile money account, male (% age 15+)",mobileaccount.t.d.2,..,3.49,3.1,15.41,..
+India,IND,"Mobile money account, rural (% age 15+)",mobileaccount.t.d.9,..,..,..,7.2,..
+India,IND,"Mobile money account, urban (% age 15+)",mobileaccount.t.d.10,..,..,..,14.17,..
+India,IND,Own a mobile phone (% age 15+),Own.phone,..,..,..,65.57,..
+India,IND,Owns a debit or credit card (% age 15+),fin2.7.t.d,9.13,22.26,33.5,27.83,..
+Bangladesh,BGD,Account (% age 15+),account.t.d,31.74,30.99,50.05,52.81,..
+Bangladesh,BGD,"Account, female (% age 15+)",account.t.d.1,26.01,26.45,35.84,43.46,..
+Bangladesh,BGD,"Account, male (% age 15+)",account.t.d.2,37.29,35.37,64.59,62.86,..
+Bangladesh,BGD,"Account, rural (% age 15+)",account.t.d.9,..,..,..,49.99,..
+Bangladesh,BGD,"Account, urban (% age 15+)",account.t.d.10,..,..,..,53.7,..
+Bangladesh,BGD,Financial institution account (% age 15+),fin1.t.d,31.74,29.14,40.97,37.69,..
+Bangladesh,BGD,"Financial institution account, female (% age 15+)",fin1.t.d.1,26.01,25.22,31.91,30.58,..
+Bangladesh,BGD,"Financial institution account, male (% age 15+)",fin1.t.d.2,37.29,32.93,50.24,45.33,..
+Bangladesh,BGD,"Financial institution account, rural (% age 15+)",fin1.t.d.9,..,..,..,30.1,..
+Bangladesh,BGD,"Financial institution account, urban (% age 15+)",fin1.t.d.10,..,..,..,40.08,..
+Bangladesh,BGD,Mobile money account (% age 15+),mobileaccount.t.d,..,2.69,21.25,29.01,..
+Bangladesh,BGD,"Mobile money account, female (% age 15+)",mobileaccount.t.d.1,..,2.12,10.27,20.28,..
+Bangladesh,BGD,"Mobile money account, male (% age 15+)",mobileaccount.t.d.2,..,3.24,32.47,38.39,..
+Bangladesh,BGD,"Mobile money account, rural (% age 15+)",mobileaccount.t.d.9,..,..,..,34.06,..
+Bangladesh,BGD,"Mobile money account, urban (% age 15+)",mobileaccount.t.d.10,..,..,..,27.41,..
+Bangladesh,BGD,Own a mobile phone (% age 15+),Own.phone,..,..,..,78.94,..
+Bangladesh,BGD,Owns a debit or credit card (% age 15+),fin2.7.t.d,2.49,5.17,6.2,4.94,..
+Bhutan,BTN,Account (% age 15+),account.t.d,..,33.67,..,..,..
+Bhutan,BTN,"Account, female (% age 15+)",account.t.d.1,..,27.68,..,..,..
+Bhutan,BTN,"Account, male (% age 15+)",account.t.d.2,..,38.99,..,..,..
+Bhutan,BTN,"Account, rural (% age 15+)",account.t.d.9,..,..,..,..,..
+Bhutan,BTN,"Account, urban (% age 15+)",account.t.d.10,..,..,..,..,..
+Bhutan,BTN,Financial institution account (% age 15+),fin1.t.d,..,33.67,..,..,..
+Bhutan,BTN,"Financial institution account, female (% age 15+)",fin1.t.d.1,..,27.68,..,..,..
+Bhutan,BTN,"Financial institution account, male (% age 15+)",fin1.t.d.2,..,38.99,..,..,..
+Bhutan,BTN,"Financial institution account, rural (% age 15+)",fin1.t.d.9,..,..,..,..,..
+Bhutan,BTN,"Financial institution account, urban (% age 15+)",fin1.t.d.10,..,..,..,..,..
+Bhutan,BTN,Mobile money account (% age 15+),mobileaccount.t.d,..,..,..,..,..
+Bhutan,BTN,"Mobile money account, female (% age 15+)",mobileaccount.t.d.1,..,..,..,..,..
+Bhutan,BTN,"Mobile money account, male (% age 15+)",mobileaccount.t.d.2,..,..,..,..,..
+Bhutan,BTN,"Mobile money account, rural (% age 15+)",mobileaccount.t.d.9,..,..,..,..,..
+Bhutan,BTN,"Mobile money account, urban (% age 15+)",mobileaccount.t.d.10,..,..,..,..,..
+Bhutan,BTN,Own a mobile phone (% age 15+),Own.phone,..,..,..,..,..
+Bhutan,BTN,Owns a debit or credit card (% age 15+),fin2.7.t.d,..,17.45,..,..,..
+Pakistan,PAK,Account (% age 15+),account.t.d,10.31,13.04,21.29,20.98,..
+Pakistan,PAK,"Account, female (% age 15+)",account.t.d.1,2.95,4.84,7.03,13.48,..
+Pakistan,PAK,"Account, male (% age 15+)",account.t.d.2,17.28,20.97,34.61,28.18,..
+Pakistan,PAK,"Account, rural (% age 15+)",account.t.d.9,..,..,..,15.56,..
+Pakistan,PAK,"Account, urban (% age 15+)",account.t.d.10,..,..,..,24.51,..
+Pakistan,PAK,Financial institution account (% age 15+),fin1.t.d,10.31,8.71,18.05,16.29,..
+Pakistan,PAK,"Financial institution account, female (% age 15+)",fin1.t.d.1,2.95,3.02,6.28,11.48,..
+Pakistan,PAK,"Financial institution account, male (% age 15+)",fin1.t.d.2,17.28,14.21,29.03,20.9,..
+Pakistan,PAK,"Financial institution account, rural (% age 15+)",fin1.t.d.9,..,..,..,11.93,..
+Pakistan,PAK,"Financial institution account, urban (% age 15+)",fin1.t.d.10,..,..,..,19.13,..
+Pakistan,PAK,Mobile money account (% age 15+),mobileaccount.t.d,..,5.8,6.89,8.54,..
+Pakistan,PAK,"Mobile money account, female (% age 15+)",mobileaccount.t.d.1,..,2.17,0.79,2.98,..
+Pakistan,PAK,"Mobile money account, male (% age 15+)",mobileaccount.t.d.2,..,9.32,12.57,13.87,..
+Pakistan,PAK,"Mobile money account, rural (% age 15+)",mobileaccount.t.d.9,..,..,..,6.06,..
+Pakistan,PAK,"Mobile money account, urban (% age 15+)",mobileaccount.t.d.10,..,..,..,10.15,..
+Pakistan,PAK,Own a mobile phone (% age 15+),Own.phone,..,..,..,62.99,..
+Pakistan,PAK,Owns a debit or credit card (% age 15+),fin2.7.t.d,3.17,3.03,8.44,7.74,..
+Nepal,NPL,Account (% age 15+),account.t.d,25.31,33.8,45.39,54,..
+Nepal,NPL,"Account, female (% age 15+)",account.t.d.1,21.22,31.27,41.6,49.9,..
+Nepal,NPL,"Account, male (% age 15+)",account.t.d.2,29.56,36.72,49.98,58.61,..
+Nepal,NPL,"Account, rural (% age 15+)",account.t.d.9,..,..,..,51.59,..
+Nepal,NPL,"Account, urban (% age 15+)",account.t.d.10,..,..,..,61.52,..
+Nepal,NPL,Financial institution account (% age 15+),fin1.t.d,25.31,33.8,45.39,52.8,..
+Nepal,NPL,"Financial institution account, female (% age 15+)",fin1.t.d.1,21.22,31.27,41.6,49.66,..
+Nepal,NPL,"Financial institution account, male (% age 15+)",fin1.t.d.2,29.56,36.72,49.98,56.33,..
+Nepal,NPL,"Financial institution account, rural (% age 15+)",fin1.t.d.9,..,..,..,50.47,..
+Nepal,NPL,"Financial institution account, urban (% age 15+)",fin1.t.d.10,..,..,..,60.06,..
+Nepal,NPL,Mobile money account (% age 15+),mobileaccount.t.d,..,0.34,..,6.09,..
+Nepal,NPL,"Mobile money account, female (% age 15+)",mobileaccount.t.d.1,..,0.28,..,3.69,..
+Nepal,NPL,"Mobile money account, male (% age 15+)",mobileaccount.t.d.2,..,0.4,..,8.8,..
+Nepal,NPL,"Mobile money account, rural (% age 15+)",mobileaccount.t.d.9,..,..,..,5,..
+Nepal,NPL,"Mobile money account, urban (% age 15+)",mobileaccount.t.d.10,..,..,..,9.5,..
+Nepal,NPL,Own a mobile phone (% age 15+),Own.phone,..,..,..,79.57,..
+Nepal,NPL,Owns a debit or credit card (% age 15+),fin2.7.t.d,4.07,6.95,9.11,14.18,..
+Sri Lanka,LKA,Account (% age 15+),account.t.d,68.53,82.69,73.65,89.27,..
+Sri Lanka,LKA,"Account, female (% age 15+)",account.t.d.1,67.24,83.11,73.44,89.28,..
+Sri Lanka,LKA,"Account, male (% age 15+)",account.t.d.2,69.99,82.23,73.89,89.26,..
+Sri Lanka,LKA,"Account, rural (% age 15+)",account.t.d.9,..,..,..,..,..
+Sri Lanka,LKA,"Account, urban (% age 15+)",account.t.d.10,..,..,..,..,..
+Sri Lanka,LKA,Financial institution account (% age 15+),fin1.t.d,68.53,82.69,73.59,88.93,..
+Sri Lanka,LKA,"Financial institution account, female (% age 15+)",fin1.t.d.1,67.24,83.11,73.44,89.24,..
+Sri Lanka,LKA,"Financial institution account, male (% age 15+)",fin1.t.d.2,69.99,82.23,73.77,88.58,..
+Sri Lanka,LKA,"Financial institution account, rural (% age 15+)",fin1.t.d.9,..,..,..,..,..
+Sri Lanka,LKA,"Financial institution account, urban (% age 15+)",fin1.t.d.10,..,..,..,..,..
+Sri Lanka,LKA,Mobile money account (% age 15+),mobileaccount.t.d,..,0.08,2.42,3.13,..
+Sri Lanka,LKA,"Mobile money account, female (% age 15+)",mobileaccount.t.d.1,..,0.05,0.96,1.83,..
+Sri Lanka,LKA,"Mobile money account, male (% age 15+)",mobileaccount.t.d.2,..,0.11,4.15,4.53,..
+Sri Lanka,LKA,"Mobile money account, rural (% age 15+)",mobileaccount.t.d.9,..,..,..,..,..
+Sri Lanka,LKA,"Mobile money account, urban (% age 15+)",mobileaccount.t.d.10,..,..,..,..,..
+Sri Lanka,LKA,Own a mobile phone (% age 15+),Own.phone,..,..,..,95.94,..
+Sri Lanka,LKA,Owns a debit or credit card (% age 15+),fin2.7.t.d,10.97,24.94,32.44,52.85,..
+South Asia,(South Asia),Account (% age 15+),account.t.d,..,..,..,..,..
+South Asia,(South Asia),"Account, female (% age 15+)",account.t.d.1,..,..,..,..,..
+South Asia,(South Asia),"Account, male (% age 15+)",account.t.d.2,..,..,..,..,..
+South Asia,(South Asia),"Account, rural (% age 15+)",account.t.d.9,..,..,..,..,..
+South Asia,(South Asia),"Account, urban (% age 15+)",account.t.d.10,..,..,..,..,..
+South Asia,(South Asia),Financial institution account (% age 15+),fin1.t.d,..,..,..,..,..
+South Asia,(South Asia),"Financial institution account, female (% age 15+)",fin1.t.d.1,..,..,..,..,..
+South Asia,(South Asia),"Financial institution account, male (% age 15+)",fin1.t.d.2,..,..,..,..,..
+South Asia,(South Asia),"Financial institution account, rural (% age 15+)",fin1.t.d.9,..,..,..,..,..
+South Asia,(South Asia),"Financial institution account, urban (% age 15+)",fin1.t.d.10,..,..,..,..,..
+South Asia,(South Asia),Mobile money account (% age 15+),mobileaccount.t.d,..,..,..,..,..
+South Asia,(South Asia),"Mobile money account, female (% age 15+)",mobileaccount.t.d.1,..,..,..,..,..
+South Asia,(South Asia),"Mobile money account, male (% age 15+)",mobileaccount.t.d.2,..,..,..,..,..
+South Asia,(South Asia),"Mobile money account, rural (% age 15+)",mobileaccount.t.d.9,..,..,..,..,..
+South Asia,(South Asia),"Mobile money account, urban (% age 15+)",mobileaccount.t.d.10,..,..,..,..,..
+South Asia,(South Asia),Own a mobile phone (% age 15+),Own.phone,..,..,..,..,..
+South Asia,(South Asia),Owns a debit or credit card (% age 15+),fin2.7.t.d,..,..,..,..,..
+Cambodia,KHM,Account (% age 15+),account.t.d,3.66,22.17,21.67,33.39,..
+Cambodia,KHM,"Account, female (% age 15+)",account.t.d.1,3.71,20.5,21.53,32.52,..
+Cambodia,KHM,"Account, male (% age 15+)",account.t.d.2,3.6,24.29,21.85,34.41,..
+Cambodia,KHM,"Account, rural (% age 15+)",account.t.d.9,..,..,..,27.7,..
+Cambodia,KHM,"Account, urban (% age 15+)",account.t.d.10,..,..,..,52.56,..
+Cambodia,KHM,Financial institution account (% age 15+),fin1.t.d,3.66,12.56,17.8,32.6,..
+Cambodia,KHM,"Financial institution account, female (% age 15+)",fin1.t.d.1,3.71,10.68,17.24,31.3,..
+Cambodia,KHM,"Financial institution account, male (% age 15+)",fin1.t.d.2,3.6,14.94,18.48,34.12,..
+Cambodia,KHM,"Financial institution account, rural (% age 15+)",fin1.t.d.9,..,..,..,27.26,..
+Cambodia,KHM,"Financial institution account, urban (% age 15+)",fin1.t.d.10,..,..,..,50.54,..
+Cambodia,KHM,Mobile money account (% age 15+),mobileaccount.t.d,..,13.29,5.66,6.6,..
+Cambodia,KHM,"Mobile money account, female (% age 15+)",mobileaccount.t.d.1,..,12.8,5.34,5.16,..
+Cambodia,KHM,"Mobile money account, male (% age 15+)",mobileaccount.t.d.2,..,13.92,6.04,8.28,..
+Cambodia,KHM,"Mobile money account, rural (% age 15+)",mobileaccount.t.d.9,..,..,..,4.31,..
+Cambodia,KHM,"Mobile money account, urban (% age 15+)",mobileaccount.t.d.10,..,..,..,14.31,..
+Cambodia,KHM,Own a mobile phone (% age 15+),Own.phone,..,..,..,81.44,..
+Cambodia,KHM,Owns a debit or credit card (% age 15+),fin2.7.t.d,2.95,7.4,7.56,14.79,..
+Indonesia,IDN,Account (% age 15+),account.t.d,19.58,36.06,48.86,51.76,..
+Indonesia,IDN,"Account, female (% age 15+)",account.t.d.1,19.21,37.46,51.35,52.3,..
+Indonesia,IDN,"Account, male (% age 15+)",account.t.d.2,19.97,34.62,46.25,51.18,..
+Indonesia,IDN,"Account, rural (% age 15+)",account.t.d.9,..,..,..,45.86,..
+Indonesia,IDN,"Account, urban (% age 15+)",account.t.d.10,..,..,..,54.58,..
+Indonesia,IDN,Financial institution account (% age 15+),fin1.t.d,19.58,35.95,48.39,50.51,..
+Indonesia,IDN,"Financial institution account, female (% age 15+)",fin1.t.d.1,19.21,37.24,51.14,51.67,..
+Indonesia,IDN,"Financial institution account, male (% age 15+)",fin1.t.d.2,19.97,34.62,45.52,49.29,..
+Indonesia,IDN,"Financial institution account, rural (% age 15+)",fin1.t.d.9,..,..,..,45.21,..
+Indonesia,IDN,"Financial institution account, urban (% age 15+)",fin1.t.d.10,..,..,..,53.04,..
+Indonesia,IDN,Mobile money account (% age 15+),mobileaccount.t.d,..,0.45,3.12,9.29,..
+Indonesia,IDN,"Mobile money account, female (% age 15+)",mobileaccount.t.d.1,..,0.66,2.73,9.91,..
+Indonesia,IDN,"Mobile money account, male (% age 15+)",mobileaccount.t.d.2,..,0.23,3.53,8.65,..
+Indonesia,IDN,"Mobile money account, rural (% age 15+)",mobileaccount.t.d.9,..,..,..,4.44,..
+Indonesia,IDN,"Mobile money account, urban (% age 15+)",mobileaccount.t.d.10,..,..,..,11.62,..
+Indonesia,IDN,Own a mobile phone (% age 15+),Own.phone,..,..,..,73.17,..
+Indonesia,IDN,Owns a debit or credit card (% age 15+),fin2.7.t.d,10.68,26.21,30.85,35.25,..
+Lao PDR,LAO,Account (% age 15+),account.t.d,26.77,..,29.06,37.32,..
+Lao PDR,LAO,"Account, female (% age 15+)",account.t.d.1,26.16,..,31.87,37.85,..
+Lao PDR,LAO,"Account, male (% age 15+)",account.t.d.2,27.44,..,26.12,36.75,..
+Lao PDR,LAO,"Account, rural (% age 15+)",account.t.d.9,..,..,..,30.08,..
+Lao PDR,LAO,"Account, urban (% age 15+)",account.t.d.10,..,..,..,68.84,..
+Lao PDR,LAO,Financial institution account (% age 15+),fin1.t.d,26.77,..,29.06,37.32,..
+Lao PDR,LAO,"Financial institution account, female (% age 15+)",fin1.t.d.1,26.16,..,31.87,37.85,..
+Lao PDR,LAO,"Financial institution account, male (% age 15+)",fin1.t.d.2,27.44,..,26.12,36.75,..
+Lao PDR,LAO,"Financial institution account, rural (% age 15+)",fin1.t.d.9,..,..,..,30.08,..
+Lao PDR,LAO,"Financial institution account, urban (% age 15+)",fin1.t.d.10,..,..,..,68.84,..
+Lao PDR,LAO,Mobile money account (% age 15+),mobileaccount.t.d,..,..,..,5.48,..
+Lao PDR,LAO,"Mobile money account, female (% age 15+)",mobileaccount.t.d.1,..,..,..,4.32,..
+Lao PDR,LAO,"Mobile money account, male (% age 15+)",mobileaccount.t.d.2,..,..,..,6.71,..
+Lao PDR,LAO,"Mobile money account, rural (% age 15+)",mobileaccount.t.d.9,..,..,..,3.62,..
+Lao PDR,LAO,"Mobile money account, urban (% age 15+)",mobileaccount.t.d.10,..,..,..,13.59,..
+Lao PDR,LAO,Own a mobile phone (% age 15+),Own.phone,..,..,..,82.8,..
+Lao PDR,LAO,Owns a debit or credit card (% age 15+),fin2.7.t.d,8.31,..,12.81,23.45,..
+Malaysia,MYS,Account (% age 15+),account.t.d,66.17,80.67,85.34,88.37,..
+Malaysia,MYS,"Account, female (% age 15+)",account.t.d.1,63.1,78.09,82.48,87.51,..
+Malaysia,MYS,"Account, male (% age 15+)",account.t.d.2,69.22,83.01,87.92,89.23,..
+Malaysia,MYS,"Account, rural (% age 15+)",account.t.d.9,..,..,..,88.1,..
+Malaysia,MYS,"Account, urban (% age 15+)",account.t.d.10,..,..,..,88.46,..
+Malaysia,MYS,Financial institution account (% age 15+),fin1.t.d,66.17,80.67,85.13,88.17,..
+Malaysia,MYS,"Financial institution account, female (% age 15+)",fin1.t.d.1,63.1,78.09,82.09,87.51,..
+Malaysia,MYS,"Financial institution account, male (% age 15+)",fin1.t.d.2,69.22,83.01,87.86,88.81,..
+Malaysia,MYS,"Financial institution account, rural (% age 15+)",fin1.t.d.9,..,..,..,88.1,..
+Malaysia,MYS,"Financial institution account, urban (% age 15+)",fin1.t.d.10,..,..,..,88.19,..
+Malaysia,MYS,Mobile money account (% age 15+),mobileaccount.t.d,..,2.83,10.88,27.98,..
+Malaysia,MYS,"Mobile money account, female (% age 15+)",mobileaccount.t.d.1,..,2.55,8.74,29,..
+Malaysia,MYS,"Mobile money account, male (% age 15+)",mobileaccount.t.d.2,..,3.08,12.79,26.96,..
+Malaysia,MYS,"Mobile money account, rural (% age 15+)",mobileaccount.t.d.9,..,..,..,19.88,..
+Malaysia,MYS,"Mobile money account, urban (% age 15+)",mobileaccount.t.d.10,..,..,..,30.4,..
+Malaysia,MYS,Own a mobile phone (% age 15+),Own.phone,..,..,..,91.69,..
+Malaysia,MYS,Owns a debit or credit card (% age 15+),fin2.7.t.d,27.97,48.19,75.49,83.57,..
+Myanmar,MMR,Account (% age 15+),account.t.d,..,22.78,25.99,47.79,..
+Myanmar,MMR,"Account, female (% age 15+)",account.t.d.1,..,17.4,25.98,46.15,..
+Myanmar,MMR,"Account, male (% age 15+)",account.t.d.2,..,28.6,26.01,49.52,..
+Myanmar,MMR,"Account, rural (% age 15+)",account.t.d.9,..,..,..,..,..
+Myanmar,MMR,"Account, urban (% age 15+)",account.t.d.10,..,..,..,..,..
+Myanmar,MMR,Financial institution account (% age 15+),fin1.t.d,..,22.62,25.61,36.14,..
+Myanmar,MMR,"Financial institution account, female (% age 15+)",fin1.t.d.1,..,17.08,25.74,34.85,..
+Myanmar,MMR,"Financial institution account, male (% age 15+)",fin1.t.d.2,..,28.6,25.46,37.51,..
+Myanmar,MMR,"Financial institution account, rural (% age 15+)",fin1.t.d.9,..,..,..,..,..
+Myanmar,MMR,"Financial institution account, urban (% age 15+)",fin1.t.d.10,..,..,..,..,..
+Myanmar,MMR,Mobile money account (% age 15+),mobileaccount.t.d,..,0.16,0.69,29.03,..
+Myanmar,MMR,"Mobile money account, female (% age 15+)",mobileaccount.t.d.1,..,0.32,0.51,27.46,..
+Myanmar,MMR,"Mobile money account, male (% age 15+)",mobileaccount.t.d.2,..,0,0.89,30.68,..
+Myanmar,MMR,"Mobile money account, rural (% age 15+)",mobileaccount.t.d.9,..,..,..,..,..
+Myanmar,MMR,"Mobile money account, urban (% age 15+)",mobileaccount.t.d.10,..,..,..,..,..
+Myanmar,MMR,Own a mobile phone (% age 15+),Own.phone,..,..,..,96.17,..
+Myanmar,MMR,Owns a debit or credit card (% age 15+),fin2.7.t.d,..,1.7,4.88,25.86,..
+Philippines,PHL,Account (% age 15+),account.t.d,26.56,31.29,34.5,51.37,..
+Philippines,PHL,"Account, female (% age 15+)",account.t.d.1,33.71,37.85,38.85,47.42,..
+Philippines,PHL,"Account, male (% age 15+)",account.t.d.2,19,24.4,30.02,55.59,..
+Philippines,PHL,"Account, rural (% age 15+)",account.t.d.9,..,..,..,..,..
+Philippines,PHL,"Account, urban (% age 15+)",account.t.d.10,..,..,..,..,..
+Philippines,PHL,Financial institution account (% age 15+),fin1.t.d,26.56,28.07,31.8,45.98,..
+Philippines,PHL,"Financial institution account, female (% age 15+)",fin1.t.d.1,33.71,33.88,35.47,40.91,..
+Philippines,PHL,"Financial institution account, male (% age 15+)",fin1.t.d.2,19,21.97,28.02,51.4,..
+Philippines,PHL,"Financial institution account, rural (% age 15+)",fin1.t.d.9,..,..,..,..,..
+Philippines,PHL,"Financial institution account, urban (% age 15+)",fin1.t.d.10,..,..,..,..,..
+Philippines,PHL,Mobile money account (% age 15+),mobileaccount.t.d,..,4.23,4.52,21.74,..
+Philippines,PHL,"Mobile money account, female (% age 15+)",mobileaccount.t.d.1,..,4.92,4.33,18.91,..
+Philippines,PHL,"Mobile money account, male (% age 15+)",mobileaccount.t.d.2,..,3.49,4.72,24.76,..
+Philippines,PHL,"Mobile money account, rural (% age 15+)",mobileaccount.t.d.9,..,..,..,..,..
+Philippines,PHL,"Mobile money account, urban (% age 15+)",mobileaccount.t.d.10,..,..,..,..,..
+Philippines,PHL,Own a mobile phone (% age 15+),Own.phone,..,..,..,92.11,..
+Philippines,PHL,Owns a debit or credit card (% age 15+),fin2.7.t.d,14.77,21.08,21.28,30.05,..
+Singapore,SGP,Account (% age 15+),account.t.d,98.22,96.35,97.93,97.55,..
+Singapore,SGP,"Account, female (% age 15+)",account.t.d.1,98.21,96.07,96.31,96.87,..
+Singapore,SGP,"Account, male (% age 15+)",account.t.d.2,98.23,96.64,99.68,98.27,..
+Singapore,SGP,"Account, rural (% age 15+)",account.t.d.9,..,..,..,..,..
+Singapore,SGP,"Account, urban (% age 15+)",account.t.d.10,..,..,..,97.55,..
+Singapore,SGP,Financial institution account (% age 15+),fin1.t.d,98.22,96.35,97.81,97.19,..
+Singapore,SGP,"Financial institution account, female (% age 15+)",fin1.t.d.1,98.21,96.07,96.31,96.87,..
+Singapore,SGP,"Financial institution account, male (% age 15+)",fin1.t.d.2,98.23,96.64,99.44,97.53,..
+Singapore,SGP,"Financial institution account, rural (% age 15+)",fin1.t.d.9,..,..,..,..,..
+Singapore,SGP,"Financial institution account, urban (% age 15+)",fin1.t.d.10,..,..,..,97.19,..
+Singapore,SGP,Mobile money account (% age 15+),mobileaccount.t.d,..,6.15,9.55,30.6,..
+Singapore,SGP,"Mobile money account, female (% age 15+)",mobileaccount.t.d.1,..,5.19,7.86,27.07,..
+Singapore,SGP,"Mobile money account, male (% age 15+)",mobileaccount.t.d.2,..,7.14,11.38,34.37,..
+Singapore,SGP,"Mobile money account, rural (% age 15+)",mobileaccount.t.d.9,..,..,..,..,..
+Singapore,SGP,"Mobile money account, urban (% age 15+)",mobileaccount.t.d.10,..,..,..,30.6,..
+Singapore,SGP,Own a mobile phone (% age 15+),Own.phone,..,..,..,96.81,..
+Singapore,SGP,Owns a debit or credit card (% age 15+),fin2.7.t.d,48.9,89.99,92.1,93.72,..
+Thailand,THA,Account (% age 15+),account.t.d,72.67,78.14,81.59,95.58,..
+Thailand,THA,"Account, female (% age 15+)",account.t.d.1,72.64,75.44,79.78,92.7,..
+Thailand,THA,"Account, male (% age 15+)",account.t.d.2,72.7,81.24,83.69,98.61,..
+Thailand,THA,"Account, rural (% age 15+)",account.t.d.9,..,..,..,..,..
+Thailand,THA,"Account, urban (% age 15+)",account.t.d.10,..,..,..,..,..
+Thailand,THA,Financial institution account (% age 15+),fin1.t.d,72.67,78.14,80.96,94.15,..
+Thailand,THA,"Financial institution account, female (% age 15+)",fin1.t.d.1,72.64,75.44,79.48,92.09,..
+Thailand,THA,"Financial institution account, male (% age 15+)",fin1.t.d.2,72.7,81.24,82.66,96.31,..
+Thailand,THA,"Financial institution account, rural (% age 15+)",fin1.t.d.9,..,..,..,..,..
+Thailand,THA,"Financial institution account, urban (% age 15+)",fin1.t.d.10,..,..,..,..,..
+Thailand,THA,Mobile money account (% age 15+),mobileaccount.t.d,..,1.3,8.26,60,..
+Thailand,THA,"Mobile money account, female (% age 15+)",mobileaccount.t.d.1,..,1.73,5.63,56.61,..
+Thailand,THA,"Mobile money account, male (% age 15+)",mobileaccount.t.d.2,..,0.81,11.29,63.57,..
+Thailand,THA,"Mobile money account, rural (% age 15+)",mobileaccount.t.d.9,..,..,..,..,..
+Thailand,THA,"Mobile money account, urban (% age 15+)",mobileaccount.t.d.10,..,..,..,..,..
+Thailand,THA,Own a mobile phone (% age 15+),Own.phone,..,..,..,100,..
+Thailand,THA,Owns a debit or credit card (% age 15+),fin2.7.t.d,43.43,55.16,60.64,67.67,..
+Vietnam,VNM,Account (% age 15+),account.t.d,21.37,30.95,30.8,..,56.27
+Vietnam,VNM,"Account, female (% age 15+)",account.t.d.1,18.91,32.03,30.42,..,52.78
+Vietnam,VNM,"Account, male (% age 15+)",account.t.d.2,24,29.82,31.21,..,59.96
+Vietnam,VNM,"Account, rural (% age 15+)",account.t.d.9,..,..,..,..,..
+Vietnam,VNM,"Account, urban (% age 15+)",account.t.d.10,..,..,..,..,..
+Vietnam,VNM,Financial institution account (% age 15+),fin1.t.d,21.37,30.86,30.02,..,56.06
+Vietnam,VNM,"Financial institution account, female (% age 15+)",fin1.t.d.1,18.91,31.86,29.45,..,52.46
+Vietnam,VNM,"Financial institution account, male (% age 15+)",fin1.t.d.2,24,29.82,30.64,..,59.88
+Vietnam,VNM,"Financial institution account, rural (% age 15+)",fin1.t.d.9,..,..,..,..,..
+Vietnam,VNM,"Financial institution account, urban (% age 15+)",fin1.t.d.10,..,..,..,..,..
+Vietnam,VNM,Mobile money account (% age 15+),mobileaccount.t.d,..,0.5,3.5,..,16.47
+Vietnam,VNM,"Mobile money account, female (% age 15+)",mobileaccount.t.d.1,..,0.52,3.63,..,14.74
+Vietnam,VNM,"Mobile money account, male (% age 15+)",mobileaccount.t.d.2,..,0.48,3.36,..,18.29
+Vietnam,VNM,"Mobile money account, rural (% age 15+)",mobileaccount.t.d.9,..,..,..,..,..
+Vietnam,VNM,"Mobile money account, urban (% age 15+)",mobileaccount.t.d.10,..,..,..,..,..
+Vietnam,VNM,Own a mobile phone (% age 15+),Own.phone,..,..,..,..,95.74
+Vietnam,VNM,Owns a debit or credit card (% age 15+),fin2.7.t.d,14.96,26.75,27.44,..,49.24
+Southeast Asia,(Southeast Asia),Account (% age 15+),account.t.d,..,..,..,..,..
+Southeast Asia,(Southeast Asia),"Account, female (% age 15+)",account.t.d.1,..,..,..,..,..
+Southeast Asia,(Southeast Asia),"Account, male (% age 15+)",account.t.d.2,..,..,..,..,..
+Southeast Asia,(Southeast Asia),"Account, rural (% age 15+)",account.t.d.9,..,..,..,..,..
+Southeast Asia,(Southeast Asia),"Account, urban (% age 15+)",account.t.d.10,..,..,..,..,..
+Southeast Asia,(Southeast Asia),Financial institution account (% age 15+),fin1.t.d,..,..,..,..,..
+Southeast Asia,(Southeast Asia),"Financial institution account, female (% age 15+)",fin1.t.d.1,..,..,..,..,..
+Southeast Asia,(Southeast Asia),"Financial institution account, male (% age 15+)",fin1.t.d.2,..,..,..,..,..
+Southeast Asia,(Southeast Asia),"Financial institution account, rural (% age 15+)",fin1.t.d.9,..,..,..,..,..
+Southeast Asia,(Southeast Asia),"Financial institution account, urban (% age 15+)",fin1.t.d.10,..,..,..,..,..
+Southeast Asia,(Southeast Asia),Mobile money account (% age 15+),mobileaccount.t.d,..,..,..,..,..
+Southeast Asia,(Southeast Asia),"Mobile money account, female (% age 15+)",mobileaccount.t.d.1,..,..,..,..,..
+Southeast Asia,(Southeast Asia),"Mobile money account, male (% age 15+)",mobileaccount.t.d.2,..,..,..,..,..
+Southeast Asia,(Southeast Asia),"Mobile money account, rural (% age 15+)",mobileaccount.t.d.9,..,..,..,..,..
+Southeast Asia,(Southeast Asia),"Mobile money account, urban (% age 15+)",mobileaccount.t.d.10,..,..,..,..,..
+Southeast Asia,(Southeast Asia),Own a mobile phone (% age 15+),Own.phone,..,..,..,..,..
+Southeast Asia,(Southeast Asia),Owns a debit or credit card (% age 15+),fin2.7.t.d,..,..,..,..,..

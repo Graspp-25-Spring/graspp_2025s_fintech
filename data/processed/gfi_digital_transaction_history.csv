@@ -1,0 +1,271 @@
+Country Name,Country Code,Series Name,Series Code,2011 [YR2011],2014 [YR2014],2017 [YR2017],2021 [YR2021],2022 [YR2022]
+World,WLD,"Made a deposit (% with a financial institution account, age 15+)",fin9.t.s,..,74.35,64.23,64.8,..
+World,WLD,Made a digital merchant payment (% age 15+),merchant.pay,..,..,..,38.29,..
+World,WLD,Made a digital online merchant payment for an online purchase (% age 15+),fin14c.t,..,..,..,..,..
+World,WLD,Made a digital payment (% age 15+),g20.made.t.d,..,36.46,44.9,58.84,..
+World,WLD,Made a utility payment (% age 15+),fin30.t.d,..,60.21,57.16,54.28,..
+World,WLD,Made a utility payment: using a financial institution account (% age 15+),fin31a.t,..,16.92,21.5,24.94,..
+World,WLD,Made a utility payment: using a mobile phone (% age 15+),fin31b.t,..,2.2,8.24,10.45,..
+World,WLD,"Made a withdrawal (% with a financial institution account, age 15+)",fin10.t.s,..,73.07,66.93,67.49,..
+World,WLD,Made or received a digital payment (% age 15+),g20.t.d,..,44.35,52.1,64.11,..
+World,WLD,Received digital payments (% age 15+),g20.receive.t.d,..,33.22,34.1,42.59,..
+World,WLD,Saved at a financial institution or using a mobile money account (% age 15+),fin17a.17a1.d,..,..,..,30.84,..
+World,WLD,Saved money using a mobile money account (% age 15+),fin17a1.d,..,..,..,5.25,..
+World,WLD,Store money using a financial institution or a mobile money account (% age 15+),fin10b.13b,..,..,..,47.95,..
+World,WLD,Used a mobile phone or the internet to buy something online (% age 15+),fin14b.t.d,..,..,24.39,38.97,..
+World,WLD,Used a mobile phone or the internet to send money (% age 15+),fin14a1.d,..,..,..,35.17,..
+India,IND,"Made a deposit (% with a financial institution account, age 15+)",fin9.t.s,..,46.63,41.63,28.89,..
+India,IND,Made a digital merchant payment (% age 15+),merchant.pay,..,..,..,11.9,..
+India,IND,Made a digital online merchant payment for an online purchase (% age 15+),fin14c.t,..,..,..,..,..
+India,IND,Made a digital payment (% age 15+),g20.made.t.d,..,15.72,19.97,24.69,..
+India,IND,Made a utility payment (% age 15+),fin30.t.d,..,39.4,41.82,33.67,..
+India,IND,Made a utility payment: using a financial institution account (% age 15+),fin31a.t,..,3.41,6.36,7.38,..
+India,IND,Made a utility payment: using a mobile phone (% age 15+),fin31b.t,..,0.18,1.33,5.25,..
+India,IND,"Made a withdrawal (% with a financial institution account, age 15+)",fin10.t.s,..,40.2,42.4,39.22,..
+India,IND,Made or received a digital payment (% age 15+),g20.t.d,..,22.24,28.69,34.93,..
+India,IND,Received digital payments (% age 15+),g20.receive.t.d,..,11.61,16.46,19.4,..
+India,IND,Saved at a financial institution or using a mobile money account (% age 15+),fin17a.17a1.d,..,..,..,14.09,..
+India,IND,Saved money using a mobile money account (% age 15+),fin17a1.d,..,..,..,3.48,..
+India,IND,Store money using a financial institution or a mobile money account (% age 15+),fin10b.13b,..,..,..,34.52,..
+India,IND,Used a mobile phone or the internet to buy something online (% age 15+),fin14b.t.d,..,..,2.86,8.28,..
+India,IND,Used a mobile phone or the internet to send money (% age 15+),fin14a1.d,..,..,..,10.24,..
+Bangladesh,BGD,"Made a deposit (% with a financial institution account, age 15+)",fin9.t.s,..,58.9,43.5,24.91,..
+Bangladesh,BGD,Made a digital merchant payment (% age 15+),merchant.pay,..,..,..,2.78,..
+Bangladesh,BGD,Made a digital online merchant payment for an online purchase (% age 15+),fin14c.t,..,..,..,..,..
+Bangladesh,BGD,Made a digital payment (% age 15+),g20.made.t.d,..,5.94,30.13,40.58,..
+Bangladesh,BGD,Made a utility payment (% age 15+),fin30.t.d,..,18.34,31.48,38.39,..
+Bangladesh,BGD,Made a utility payment: using a financial institution account (% age 15+),fin31a.t,..,0.72,9.76,17.57,..
+Bangladesh,BGD,Made a utility payment: using a mobile phone (% age 15+),fin31b.t,..,0.73,2.37,10.86,..
+Bangladesh,BGD,"Made a withdrawal (% with a financial institution account, age 15+)",fin10.t.s,..,53.23,45.17,28.04,..
+Bangladesh,BGD,Made or received a digital payment (% age 15+),g20.t.d,..,7.68,34.11,45.26,..
+Bangladesh,BGD,Received digital payments (% age 15+),g20.receive.t.d,..,2.79,15.6,26.28,..
+Bangladesh,BGD,Saved at a financial institution or using a mobile money account (% age 15+),fin17a.17a1.d,..,..,..,7.25,..
+Bangladesh,BGD,Saved money using a mobile money account (% age 15+),fin17a1.d,..,..,..,1.73,..
+Bangladesh,BGD,Store money using a financial institution or a mobile money account (% age 15+),fin10b.13b,..,..,..,14.66,..
+Bangladesh,BGD,Used a mobile phone or the internet to buy something online (% age 15+),fin14b.t.d,..,..,1.27,3.05,..
+Bangladesh,BGD,Used a mobile phone or the internet to send money (% age 15+),fin14a1.d,..,..,..,17.58,..
+Bhutan,BTN,"Made a deposit (% with a financial institution account, age 15+)",fin9.t.s,..,79,..,..,..
+Bhutan,BTN,Made a digital merchant payment (% age 15+),merchant.pay,..,..,..,..,..
+Bhutan,BTN,Made a digital online merchant payment for an online purchase (% age 15+),fin14c.t,..,..,..,..,..
+Bhutan,BTN,Made a digital payment (% age 15+),g20.made.t.d,..,12.91,..,..,..
+Bhutan,BTN,Made a utility payment (% age 15+),fin30.t.d,..,63.01,..,..,..
+Bhutan,BTN,Made a utility payment: using a financial institution account (% age 15+),fin31a.t,..,1.07,..,..,..
+Bhutan,BTN,Made a utility payment: using a mobile phone (% age 15+),fin31b.t,..,0.4,..,..,..
+Bhutan,BTN,"Made a withdrawal (% with a financial institution account, age 15+)",fin10.t.s,..,59.83,..,..,..
+Bhutan,BTN,Made or received a digital payment (% age 15+),g20.t.d,..,17.23,..,..,..
+Bhutan,BTN,Received digital payments (% age 15+),g20.receive.t.d,..,9.66,..,..,..
+Bhutan,BTN,Saved at a financial institution or using a mobile money account (% age 15+),fin17a.17a1.d,..,..,..,..,..
+Bhutan,BTN,Saved money using a mobile money account (% age 15+),fin17a1.d,..,..,..,..,..
+Bhutan,BTN,Store money using a financial institution or a mobile money account (% age 15+),fin10b.13b,..,..,..,..,..
+Bhutan,BTN,Used a mobile phone or the internet to buy something online (% age 15+),fin14b.t.d,..,..,..,..,..
+Bhutan,BTN,Used a mobile phone or the internet to send money (% age 15+),fin14a1.d,..,..,..,..,..
+Pakistan,PAK,"Made a deposit (% with a financial institution account, age 15+)",fin9.t.s,..,..,36.84,34.04,..
+Pakistan,PAK,Made a digital merchant payment (% age 15+),merchant.pay,..,..,..,1.07,..
+Pakistan,PAK,Made a digital online merchant payment for an online purchase (% age 15+),fin14c.t,..,..,..,..,..
+Pakistan,PAK,Made a digital payment (% age 15+),g20.made.t.d,..,6.19,14.32,14.9,..
+Pakistan,PAK,Made a utility payment (% age 15+),fin30.t.d,..,36.04,31.14,52.94,..
+Pakistan,PAK,Made a utility payment: using a financial institution account (% age 15+),fin31a.t,..,0.41,7.36,5.34,..
+Pakistan,PAK,Made a utility payment: using a mobile phone (% age 15+),fin31b.t,..,0.29,3.48,3.02,..
+Pakistan,PAK,"Made a withdrawal (% with a financial institution account, age 15+)",fin10.t.s,..,..,42.96,45.55,..
+Pakistan,PAK,Made or received a digital payment (% age 15+),g20.t.d,..,9.45,17.69,17.62,..
+Pakistan,PAK,Received digital payments (% age 15+),g20.receive.t.d,..,6.11,8.51,8.13,..
+Pakistan,PAK,Saved at a financial institution or using a mobile money account (% age 15+),fin17a.17a1.d,..,..,..,2.83,..
+Pakistan,PAK,Saved money using a mobile money account (% age 15+),fin17a1.d,..,..,..,0.81,..
+Pakistan,PAK,Store money using a financial institution or a mobile money account (% age 15+),fin10b.13b,..,..,..,7.89,..
+Pakistan,PAK,Used a mobile phone or the internet to buy something online (% age 15+),fin14b.t.d,..,..,0.85,0.64,..
+Pakistan,PAK,Used a mobile phone or the internet to send money (% age 15+),fin14a1.d,..,..,..,5.97,..
+Nepal,NPL,"Made a deposit (% with a financial institution account, age 15+)",fin9.t.s,..,70.92,53.5,45.01,..
+Nepal,NPL,Made a digital merchant payment (% age 15+),merchant.pay,..,..,..,5.41,..
+Nepal,NPL,Made a digital online merchant payment for an online purchase (% age 15+),fin14c.t,..,..,..,..,..
+Nepal,NPL,Made a digital payment (% age 15+),g20.made.t.d,..,5.62,9.11,18.78,..
+Nepal,NPL,Made a utility payment (% age 15+),fin30.t.d,..,38.07,43.06,43.51,..
+Nepal,NPL,Made a utility payment: using a financial institution account (% age 15+),fin31a.t,..,0.04,1.84,3.36,..
+Nepal,NPL,Made a utility payment: using a mobile phone (% age 15+),fin31b.t,..,0.31,0.18,3.18,..
+Nepal,NPL,"Made a withdrawal (% with a financial institution account, age 15+)",fin10.t.s,..,58.54,49.26,46.33,..
+Nepal,NPL,Made or received a digital payment (% age 15+),g20.t.d,..,9.86,16.31,28.58,..
+Nepal,NPL,Received digital payments (% age 15+),g20.receive.t.d,..,6.57,11.08,19.43,..
+Nepal,NPL,Saved at a financial institution or using a mobile money account (% age 15+),fin17a.17a1.d,..,..,..,16.76,..
+Nepal,NPL,Saved money using a mobile money account (% age 15+),fin17a1.d,..,..,..,1.74,..
+Nepal,NPL,Store money using a financial institution or a mobile money account (% age 15+),fin10b.13b,..,..,..,29.83,..
+Nepal,NPL,Used a mobile phone or the internet to buy something online (% age 15+),fin14b.t.d,..,..,1.75,4.41,..
+Nepal,NPL,Used a mobile phone or the internet to send money (% age 15+),fin14a1.d,..,..,..,8.48,..
+Sri Lanka,LKA,"Made a deposit (% with a financial institution account, age 15+)",fin9.t.s,..,51.09,47.92,49.94,..
+Sri Lanka,LKA,Made a digital merchant payment (% age 15+),merchant.pay,..,..,..,18.09,..
+Sri Lanka,LKA,Made a digital online merchant payment for an online purchase (% age 15+),fin14c.t,..,..,..,3.96,..
+Sri Lanka,LKA,Made a digital payment (% age 15+),g20.made.t.d,..,13.79,37.35,43.49,..
+Sri Lanka,LKA,Made a utility payment (% age 15+),fin30.t.d,..,62.87,41.43,47.26,..
+Sri Lanka,LKA,Made a utility payment: using a financial institution account (% age 15+),fin31a.t,..,1.14,21.04,18.96,..
+Sri Lanka,LKA,Made a utility payment: using a mobile phone (% age 15+),fin31b.t,..,0.07,1.42,3.29,..
+Sri Lanka,LKA,"Made a withdrawal (% with a financial institution account, age 15+)",fin10.t.s,..,55.6,44.48,57.33,..
+Sri Lanka,LKA,Made or received a digital payment (% age 15+),g20.t.d,..,25.24,47.16,55.06,..
+Sri Lanka,LKA,Received digital payments (% age 15+),g20.receive.t.d,..,17.62,21.59,29.74,..
+Sri Lanka,LKA,Saved at a financial institution or using a mobile money account (% age 15+),fin17a.17a1.d,..,..,..,33.91,..
+Sri Lanka,LKA,Saved money using a mobile money account (% age 15+),fin17a1.d,..,..,..,0.59,..
+Sri Lanka,LKA,Store money using a financial institution or a mobile money account (% age 15+),fin10b.13b,..,..,..,50.96,..
+Sri Lanka,LKA,Used a mobile phone or the internet to buy something online (% age 15+),fin14b.t.d,..,..,2.72,11.11,..
+Sri Lanka,LKA,Used a mobile phone or the internet to send money (% age 15+),fin14a1.d,..,..,..,6.84,..
+South Asia,(South Asia),"Made a deposit (% with a financial institution account, age 15+)",fin9.t.s,..,..,..,..,..
+South Asia,(South Asia),Made a digital merchant payment (% age 15+),merchant.pay,..,..,..,..,..
+South Asia,(South Asia),Made a digital online merchant payment for an online purchase (% age 15+),fin14c.t,..,..,..,..,..
+South Asia,(South Asia),Made a digital payment (% age 15+),g20.made.t.d,..,..,..,..,..
+South Asia,(South Asia),Made a utility payment (% age 15+),fin30.t.d,..,..,..,..,..
+South Asia,(South Asia),Made a utility payment: using a financial institution account (% age 15+),fin31a.t,..,..,..,..,..
+South Asia,(South Asia),Made a utility payment: using a mobile phone (% age 15+),fin31b.t,..,..,..,..,..
+South Asia,(South Asia),"Made a withdrawal (% with a financial institution account, age 15+)",fin10.t.s,..,..,..,..,..
+South Asia,(South Asia),Made or received a digital payment (% age 15+),g20.t.d,..,..,..,..,..
+South Asia,(South Asia),Received digital payments (% age 15+),g20.receive.t.d,..,..,..,..,..
+South Asia,(South Asia),Saved at a financial institution or using a mobile money account (% age 15+),fin17a.17a1.d,..,..,..,..,..
+South Asia,(South Asia),Saved money using a mobile money account (% age 15+),fin17a1.d,..,..,..,..,..
+South Asia,(South Asia),Store money using a financial institution or a mobile money account (% age 15+),fin10b.13b,..,..,..,..,..
+South Asia,(South Asia),Used a mobile phone or the internet to buy something online (% age 15+),fin14b.t.d,..,..,..,..,..
+South Asia,(South Asia),Used a mobile phone or the internet to send money (% age 15+),fin14a1.d,..,..,..,..,..
+Cambodia,KHM,"Made a deposit (% with a financial institution account, age 15+)",fin9.t.s,..,32.37,33.03,42.95,..
+Cambodia,KHM,Made a digital merchant payment (% age 15+),merchant.pay,..,..,..,2.75,..
+Cambodia,KHM,Made a digital online merchant payment for an online purchase (% age 15+),fin14c.t,..,..,..,..,..
+Cambodia,KHM,Made a digital payment (% age 15+),g20.made.t.d,..,15.61,12.47,19.06,..
+Cambodia,KHM,Made a utility payment (% age 15+),fin30.t.d,..,60.31,52.69,81.22,..
+Cambodia,KHM,Made a utility payment: using a financial institution account (% age 15+),fin31a.t,..,1.67,5.49,14.51,..
+Cambodia,KHM,Made a utility payment: using a mobile phone (% age 15+),fin31b.t,..,1.65,0.87,1.26,..
+Cambodia,KHM,"Made a withdrawal (% with a financial institution account, age 15+)",fin10.t.s,..,37.69,38.52,42.46,..
+Cambodia,KHM,Made or received a digital payment (% age 15+),g20.t.d,..,17.65,15.57,26.08,..
+Cambodia,KHM,Received digital payments (% age 15+),g20.receive.t.d,..,9.26,6.51,15.1,..
+Cambodia,KHM,Saved at a financial institution or using a mobile money account (% age 15+),fin17a.17a1.d,..,..,..,6.67,..
+Cambodia,KHM,Saved money using a mobile money account (% age 15+),fin17a1.d,..,..,..,0.98,..
+Cambodia,KHM,Store money using a financial institution or a mobile money account (% age 15+),fin10b.13b,..,..,..,13.08,..
+Cambodia,KHM,Used a mobile phone or the internet to buy something online (% age 15+),fin14b.t.d,..,..,3.05,4.38,..
+Cambodia,KHM,Used a mobile phone or the internet to send money (% age 15+),fin14a1.d,..,..,..,3.94,..
+Indonesia,IDN,"Made a deposit (% with a financial institution account, age 15+)",fin9.t.s,..,78.9,44.36,42.69,..
+Indonesia,IDN,Made a digital merchant payment (% age 15+),merchant.pay,..,..,..,12.95,..
+Indonesia,IDN,Made a digital online merchant payment for an online purchase (% age 15+),fin14c.t,..,..,..,5.88,..
+Indonesia,IDN,Made a digital payment (% age 15+),g20.made.t.d,..,16.39,26.76,29.13,..
+Indonesia,IDN,Made a utility payment (% age 15+),fin30.t.d,..,60,73.97,73.06,..
+Indonesia,IDN,Made a utility payment: using a financial institution account (% age 15+),fin31a.t,..,2.91,11.85,10.22,..
+Indonesia,IDN,Made a utility payment: using a mobile phone (% age 15+),fin31b.t,..,0.44,3.22,5.7,..
+Indonesia,IDN,"Made a withdrawal (% with a financial institution account, age 15+)",fin10.t.s,..,77.89,48.05,46.5,..
+Indonesia,IDN,Made or received a digital payment (% age 15+),g20.t.d,..,23.31,34.61,37.19,..
+Indonesia,IDN,Received digital payments (% age 15+),g20.receive.t.d,..,17.73,21.4,23,..
+Indonesia,IDN,Saved at a financial institution or using a mobile money account (% age 15+),fin17a.17a1.d,..,..,..,20.5,..
+Indonesia,IDN,Saved money using a mobile money account (% age 15+),fin17a1.d,..,..,..,3.3,..
+Indonesia,IDN,Store money using a financial institution or a mobile money account (% age 15+),fin10b.13b,..,..,..,26.01,..
+Indonesia,IDN,Used a mobile phone or the internet to buy something online (% age 15+),fin14b.t.d,..,..,9.88,18.22,..
+Indonesia,IDN,Used a mobile phone or the internet to send money (% age 15+),fin14a1.d,..,..,..,8.12,..
+Lao PDR,LAO,"Made a deposit (% with a financial institution account, age 15+)",fin9.t.s,..,..,57.8,49.36,..
+Lao PDR,LAO,Made a digital merchant payment (% age 15+),merchant.pay,..,..,..,8.96,..
+Lao PDR,LAO,Made a digital online merchant payment for an online purchase (% age 15+),fin14c.t,..,..,..,..,..
+Lao PDR,LAO,Made a digital payment (% age 15+),g20.made.t.d,..,..,7.55,15.9,..
+Lao PDR,LAO,Made a utility payment (% age 15+),fin30.t.d,..,..,60.4,62.15,..
+Lao PDR,LAO,Made a utility payment: using a financial institution account (% age 15+),fin31a.t,..,..,0.64,3.1,..
+Lao PDR,LAO,Made a utility payment: using a mobile phone (% age 15+),fin31b.t,..,..,0.54,3.34,..
+Lao PDR,LAO,"Made a withdrawal (% with a financial institution account, age 15+)",fin10.t.s,..,..,49.61,59.99,..
+Lao PDR,LAO,Made or received a digital payment (% age 15+),g20.t.d,..,..,13.35,21.25,..
+Lao PDR,LAO,Received digital payments (% age 15+),g20.receive.t.d,..,..,9.64,13.33,..
+Lao PDR,LAO,Saved at a financial institution or using a mobile money account (% age 15+),fin17a.17a1.d,..,..,..,17.21,..
+Lao PDR,LAO,Saved money using a mobile money account (% age 15+),fin17a1.d,..,..,..,1.53,..
+Lao PDR,LAO,Store money using a financial institution or a mobile money account (% age 15+),fin10b.13b,..,..,..,21.9,..
+Lao PDR,LAO,Used a mobile phone or the internet to buy something online (% age 15+),fin14b.t.d,..,..,5.57,9.66,..
+Lao PDR,LAO,Used a mobile phone or the internet to send money (% age 15+),fin14a1.d,..,..,..,8.28,..
+Malaysia,MYS,"Made a deposit (% with a financial institution account, age 15+)",fin9.t.s,..,68.59,65.43,77.5,..
+Malaysia,MYS,Made a digital merchant payment (% age 15+),merchant.pay,..,..,..,50.31,..
+Malaysia,MYS,Made a digital online merchant payment for an online purchase (% age 15+),fin14c.t,..,..,16.54,43.65,..
+Malaysia,MYS,Made a digital payment (% age 15+),g20.made.t.d,..,45.57,60.1,65.51,..
+Malaysia,MYS,Made a utility payment (% age 15+),fin30.t.d,..,54.85,43.84,59.69,..
+Malaysia,MYS,Made a utility payment: using a financial institution account (% age 15+),fin31a.t,..,12.69,25.16,30.91,..
+Malaysia,MYS,Made a utility payment: using a mobile phone (% age 15+),fin31b.t,..,3.17,9.6,23.49,..
+Malaysia,MYS,"Made a withdrawal (% with a financial institution account, age 15+)",fin10.t.s,..,68.19,66.16,83.79,..
+Malaysia,MYS,Made or received a digital payment (% age 15+),g20.t.d,..,62.6,70.42,79.3,..
+Malaysia,MYS,Received digital payments (% age 15+),g20.receive.t.d,..,51.28,44.34,63.23,..
+Malaysia,MYS,Saved at a financial institution or using a mobile money account (% age 15+),fin17a.17a1.d,..,..,..,49.1,..
+Malaysia,MYS,Saved money using a mobile money account (% age 15+),fin17a1.d,..,..,..,9.29,..
+Malaysia,MYS,Store money using a financial institution or a mobile money account (% age 15+),fin10b.13b,..,..,..,66.22,..
+Malaysia,MYS,Used a mobile phone or the internet to buy something online (% age 15+),fin14b.t.d,..,..,33.9,50.39,..
+Malaysia,MYS,Used a mobile phone or the internet to send money (% age 15+),fin14a1.d,..,..,..,32.71,..
+Myanmar,MMR,"Made a deposit (% with a financial institution account, age 15+)",fin9.t.s,..,53.83,38.82,40.93,..
+Myanmar,MMR,Made a digital merchant payment (% age 15+),merchant.pay,..,..,..,16.26,..
+Myanmar,MMR,Made a digital online merchant payment for an online purchase (% age 15+),fin14c.t,..,..,..,10.91,..
+Myanmar,MMR,Made a digital payment (% age 15+),g20.made.t.d,..,2.02,3.56,37.25,..
+Myanmar,MMR,Made a utility payment (% age 15+),fin30.t.d,..,30.69,28.45,29.94,..
+Myanmar,MMR,Made a utility payment: using a financial institution account (% age 15+),fin31a.t,..,0,0.38,1.92,..
+Myanmar,MMR,Made a utility payment: using a mobile phone (% age 15+),fin31b.t,..,0,0.14,3.08,..
+Myanmar,MMR,"Made a withdrawal (% with a financial institution account, age 15+)",fin10.t.s,..,67.43,42.51,52.25,..
+Myanmar,MMR,Made or received a digital payment (% age 15+),g20.t.d,..,4.32,7.71,39.91,..
+Myanmar,MMR,Received digital payments (% age 15+),g20.receive.t.d,..,2.92,5.66,20.83,..
+Myanmar,MMR,Saved at a financial institution or using a mobile money account (% age 15+),fin17a.17a1.d,..,..,..,12.83,..
+Myanmar,MMR,Saved money using a mobile money account (% age 15+),fin17a1.d,..,..,..,6.59,..
+Myanmar,MMR,Store money using a financial institution or a mobile money account (% age 15+),fin10b.13b,..,..,..,22.74,..
+Myanmar,MMR,Used a mobile phone or the internet to buy something online (% age 15+),fin14b.t.d,..,..,2.65,19.68,..
+Myanmar,MMR,Used a mobile phone or the internet to send money (% age 15+),fin14a1.d,..,..,..,25.87,..
+Philippines,PHL,"Made a deposit (% with a financial institution account, age 15+)",fin9.t.s,..,63.21,68.88,53.51,..
+Philippines,PHL,Made a digital merchant payment (% age 15+),merchant.pay,..,..,..,18.48,..
+Philippines,PHL,Made a digital online merchant payment for an online purchase (% age 15+),fin14c.t,..,..,..,8.28,..
+Philippines,PHL,Made a digital payment (% age 15+),g20.made.t.d,..,17.55,13.64,38.53,..
+Philippines,PHL,Made a utility payment (% age 15+),fin30.t.d,..,55.21,53.05,62.8,..
+Philippines,PHL,Made a utility payment: using a financial institution account (% age 15+),fin31a.t,..,1.04,2.14,14.41,..
+Philippines,PHL,Made a utility payment: using a mobile phone (% age 15+),fin31b.t,..,0.31,0.28,11.72,..
+Philippines,PHL,"Made a withdrawal (% with a financial institution account, age 15+)",fin10.t.s,..,60.98,65.46,52.79,..
+Philippines,PHL,Made or received a digital payment (% age 15+),g20.t.d,..,21.36,25.09,43.45,..
+Philippines,PHL,Received digital payments (% age 15+),g20.receive.t.d,..,13.84,20.13,28.5,..
+Philippines,PHL,Saved at a financial institution or using a mobile money account (% age 15+),fin17a.17a1.d,..,..,..,20.77,..
+Philippines,PHL,Saved money using a mobile money account (% age 15+),fin17a1.d,..,..,..,8.46,..
+Philippines,PHL,Store money using a financial institution or a mobile money account (% age 15+),fin10b.13b,..,..,..,24.88,..
+Philippines,PHL,Used a mobile phone or the internet to buy something online (% age 15+),fin14b.t.d,..,..,9.09,35.91,..
+Philippines,PHL,Used a mobile phone or the internet to send money (% age 15+),fin14a1.d,..,..,..,27.05,..
+Singapore,SGP,"Made a deposit (% with a financial institution account, age 15+)",fin9.t.s,..,85.14,89.9,88.18,..
+Singapore,SGP,Made a digital merchant payment (% age 15+),merchant.pay,..,..,..,82.98,..
+Singapore,SGP,Made a digital online merchant payment for an online purchase (% age 15+),fin14c.t,..,..,42.92,56.63,..
+Singapore,SGP,Made a digital payment (% age 15+),g20.made.t.d,..,85.44,84.44,91.04,..
+Singapore,SGP,Made a utility payment (% age 15+),fin30.t.d,..,52.24,55.77,62.25,..
+Singapore,SGP,Made a utility payment: using a financial institution account (% age 15+),fin31a.t,..,37.89,44.12,47.15,..
+Singapore,SGP,Made a utility payment: using a mobile phone (% age 15+),fin31b.t,..,2.53,8.34,17.53,..
+Singapore,SGP,"Made a withdrawal (% with a financial institution account, age 15+)",fin10.t.s,..,83.79,91.1,93.54,..
+Singapore,SGP,Made or received a digital payment (% age 15+),g20.t.d,..,90.16,90.1,94.84,..
+Singapore,SGP,Received digital payments (% age 15+),g20.receive.t.d,..,67.3,69.35,77.68,..
+Singapore,SGP,Saved at a financial institution or using a mobile money account (% age 15+),fin17a.17a1.d,..,..,..,60.47,..
+Singapore,SGP,Saved money using a mobile money account (% age 15+),fin17a1.d,..,..,..,2.27,..
+Singapore,SGP,Store money using a financial institution or a mobile money account (% age 15+),fin10b.13b,..,..,..,93.05,..
+Singapore,SGP,Used a mobile phone or the internet to buy something online (% age 15+),fin14b.t.d,..,..,48.03,58.41,..
+Singapore,SGP,Used a mobile phone or the internet to send money (% age 15+),fin14a1.d,..,..,..,53.95,..
+Thailand,THA,"Made a deposit (% with a financial institution account, age 15+)",fin9.t.s,..,89.29,67.69,80.6,..
+Thailand,THA,Made a digital merchant payment (% age 15+),merchant.pay,..,..,..,63.27,..
+Thailand,THA,Made a digital online merchant payment for an online purchase (% age 15+),fin14c.t,..,..,8.36,38.96,..
+Thailand,THA,Made a digital payment (% age 15+),g20.made.t.d,..,21.94,43.15,80.13,..
+Thailand,THA,Made a utility payment (% age 15+),fin30.t.d,..,86.15,80.27,64.89,..
+Thailand,THA,Made a utility payment: using a financial institution account (% age 15+),fin31a.t,..,1.74,9.98,23.09,..
+Thailand,THA,Made a utility payment: using a mobile phone (% age 15+),fin31b.t,..,0.78,4.19,27.25,..
+Thailand,THA,"Made a withdrawal (% with a financial institution account, age 15+)",fin10.t.s,..,91.03,69.76,85.87,..
+Thailand,THA,Made or received a digital payment (% age 15+),g20.t.d,..,36.77,62.27,92.03,..
+Thailand,THA,Received digital payments (% age 15+),g20.receive.t.d,..,27.3,47.93,83.53,..
+Thailand,THA,Saved at a financial institution or using a mobile money account (% age 15+),fin17a.17a1.d,..,..,..,54.23,..
+Thailand,THA,Saved money using a mobile money account (% age 15+),fin17a1.d,..,..,..,17.09,..
+Thailand,THA,Store money using a financial institution or a mobile money account (% age 15+),fin10b.13b,..,..,..,67.49,..
+Thailand,THA,Used a mobile phone or the internet to buy something online (% age 15+),fin14b.t.d,..,..,16.82,50.97,..
+Thailand,THA,Used a mobile phone or the internet to send money (% age 15+),fin14a1.d,..,..,..,59.72,..
+Vietnam,VNM,"Made a deposit (% with a financial institution account, age 15+)",fin9.t.s,..,67.66,64.01,..,77.21
+Vietnam,VNM,Made a digital merchant payment (% age 15+),merchant.pay,..,..,..,..,24.26
+Vietnam,VNM,Made a digital online merchant payment for an online purchase (% age 15+),fin14c.t,..,..,1.69,..,16.02
+Vietnam,VNM,Made a digital payment (% age 15+),g20.made.t.d,..,10.59,16.1,..,41.98
+Vietnam,VNM,Made a utility payment (% age 15+),fin30.t.d,..,87.98,73.88,..,55.99
+Vietnam,VNM,Made a utility payment: using a financial institution account (% age 15+),fin31a.t,..,0.49,2.81,..,11.75
+Vietnam,VNM,Made a utility payment: using a mobile phone (% age 15+),fin31b.t,..,0.19,1.58,..,12.19
+Vietnam,VNM,"Made a withdrawal (% with a financial institution account, age 15+)",fin10.t.s,..,67.07,73.24,..,81.06
+Vietnam,VNM,Made or received a digital payment (% age 15+),g20.t.d,..,19.38,22.74,..,45.98
+Vietnam,VNM,Received digital payments (% age 15+),g20.receive.t.d,..,15.67,14.92,..,30.82
+Vietnam,VNM,Saved at a financial institution or using a mobile money account (% age 15+),fin17a.17a1.d,..,..,..,..,20.71
+Vietnam,VNM,Saved money using a mobile money account (% age 15+),fin17a1.d,..,..,..,..,4.6
+Vietnam,VNM,Store money using a financial institution or a mobile money account (% age 15+),fin10b.13b,..,..,..,..,40.6
+Vietnam,VNM,Used a mobile phone or the internet to buy something online (% age 15+),fin14b.t.d,..,..,18.74,..,40.35
+Vietnam,VNM,Used a mobile phone or the internet to send money (% age 15+),fin14a1.d,..,..,..,..,31.6
+Southeast Asia,(Southeast Asia),"Made a deposit (% with a financial institution account, age 15+)",fin9.t.s,..,..,..,..,..
+Southeast Asia,(Southeast Asia),Made a digital merchant payment (% age 15+),merchant.pay,..,..,..,..,..
+Southeast Asia,(Southeast Asia),Made a digital online merchant payment for an online purchase (% age 15+),fin14c.t,..,..,..,..,..
+Southeast Asia,(Southeast Asia),Made a digital payment (% age 15+),g20.made.t.d,..,..,..,..,..
+Southeast Asia,(Southeast Asia),Made a utility payment (% age 15+),fin30.t.d,..,..,..,..,..
+Southeast Asia,(Southeast Asia),Made a utility payment: using a financial institution account (% age 15+),fin31a.t,..,..,..,..,..
+Southeast Asia,(Southeast Asia),Made a utility payment: using a mobile phone (% age 15+),fin31b.t,..,..,..,..,..
+Southeast Asia,(Southeast Asia),"Made a withdrawal (% with a financial institution account, age 15+)",fin10.t.s,..,..,..,..,..
+Southeast Asia,(Southeast Asia),Made or received a digital payment (% age 15+),g20.t.d,..,..,..,..,..
+Southeast Asia,(Southeast Asia),Received digital payments (% age 15+),g20.receive.t.d,..,..,..,..,..
+Southeast Asia,(Southeast Asia),Saved at a financial institution or using a mobile money account (% age 15+),fin17a.17a1.d,..,..,..,..,..
+Southeast Asia,(Southeast Asia),Saved money using a mobile money account (% age 15+),fin17a1.d,..,..,..,..,..
+Southeast Asia,(Southeast Asia),Store money using a financial institution or a mobile money account (% age 15+),fin10b.13b,..,..,..,..,..
+Southeast Asia,(Southeast Asia),Used a mobile phone or the internet to buy something online (% age 15+),fin14b.t.d,..,..,..,..,..
+Southeast Asia,(Southeast Asia),Used a mobile phone or the internet to send money (% age 15+),fin14a1.d,..,..,..,..,..
