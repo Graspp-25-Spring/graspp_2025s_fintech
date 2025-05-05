@@ -11,7 +11,8 @@ df = pd.read_csv(file_path)
 # [3] Filter Southeast Asia & South Asia countries
 southeast_asia_list = ['VNM','LAO','THA','KHM','MYS','SGP','MMR','PHL','BRN','IDN']
 south_asia_list = ['BGD','IND','PAK','NPL','LKA','BTN']
-target_countries = southeast_asia_list + south_asia_list
+world_list = ['WLD']
+target_countries = southeast_asia_list + south_asia_list + world_list
 df = df[df["Country Code"].isin(target_countries)]
 
 # [4] Separate years in wide → long format
