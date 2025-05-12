@@ -1,0 +1,1531 @@
+country,date,indicator,countryiso3code,value,unit,obs_status,decimal,Region
+Bangladesh,2011,Account (% age 15+),BGD,31.74,,,0,South Asia
+Bangladesh,2014,Account (% age 15+),BGD,30.99,,,0,South Asia
+Bangladesh,2017,Account (% age 15+),BGD,50.05,,,0,South Asia
+Bangladesh,2021,Account (% age 15+),BGD,52.81,,,0,South Asia
+Bangladesh,2022,Account (% age 15+),BGD,..,,,0,South Asia
+Bhutan,2011,Account (% age 15+),BTN,..,,,0,South Asia
+Bhutan,2014,Account (% age 15+),BTN,33.67,,,0,South Asia
+Bhutan,2017,Account (% age 15+),BTN,..,,,0,South Asia
+Bhutan,2021,Account (% age 15+),BTN,..,,,0,South Asia
+Bhutan,2022,Account (% age 15+),BTN,..,,,0,South Asia
+Cambodia,2011,Account (% age 15+),KHM,3.66,,,0,ASEAN
+Cambodia,2014,Account (% age 15+),KHM,22.17,,,0,ASEAN
+Cambodia,2017,Account (% age 15+),KHM,21.67,,,0,ASEAN
+Cambodia,2021,Account (% age 15+),KHM,33.39,,,0,ASEAN
+Cambodia,2022,Account (% age 15+),KHM,..,,,0,ASEAN
+India,2011,Account (% age 15+),IND,35.23,,,0,South Asia
+India,2014,Account (% age 15+),IND,53.14,,,0,South Asia
+India,2017,Account (% age 15+),IND,79.88,,,0,South Asia
+India,2021,Account (% age 15+),IND,77.53,,,0,South Asia
+India,2022,Account (% age 15+),IND,..,,,0,South Asia
+Indonesia,2011,Account (% age 15+),IDN,19.58,,,0,ASEAN
+Indonesia,2014,Account (% age 15+),IDN,36.06,,,0,ASEAN
+Indonesia,2017,Account (% age 15+),IDN,48.86,,,0,ASEAN
+Indonesia,2021,Account (% age 15+),IDN,51.76,,,0,ASEAN
+Indonesia,2022,Account (% age 15+),IDN,..,,,0,ASEAN
+Lao PDR,2011,Account (% age 15+),LAO,26.77,,,0,ASEAN
+Lao PDR,2014,Account (% age 15+),LAO,..,,,0,ASEAN
+Lao PDR,2017,Account (% age 15+),LAO,29.06,,,0,ASEAN
+Lao PDR,2021,Account (% age 15+),LAO,37.32,,,0,ASEAN
+Lao PDR,2022,Account (% age 15+),LAO,..,,,0,ASEAN
+Malaysia,2011,Account (% age 15+),MYS,66.17,,,0,ASEAN
+Malaysia,2014,Account (% age 15+),MYS,80.67,,,0,ASEAN
+Malaysia,2017,Account (% age 15+),MYS,85.34,,,0,ASEAN
+Malaysia,2021,Account (% age 15+),MYS,88.37,,,0,ASEAN
+Malaysia,2022,Account (% age 15+),MYS,..,,,0,ASEAN
+Myanmar,2011,Account (% age 15+),MMR,..,,,0,ASEAN
+Myanmar,2014,Account (% age 15+),MMR,22.78,,,0,ASEAN
+Myanmar,2017,Account (% age 15+),MMR,25.99,,,0,ASEAN
+Myanmar,2021,Account (% age 15+),MMR,47.79,,,0,ASEAN
+Myanmar,2022,Account (% age 15+),MMR,..,,,0,ASEAN
+Nepal,2011,Account (% age 15+),NPL,25.31,,,0,South Asia
+Nepal,2014,Account (% age 15+),NPL,33.8,,,0,South Asia
+Nepal,2017,Account (% age 15+),NPL,45.39,,,0,South Asia
+Nepal,2021,Account (% age 15+),NPL,54,,,0,South Asia
+Nepal,2022,Account (% age 15+),NPL,..,,,0,South Asia
+Pakistan,2011,Account (% age 15+),PAK,10.31,,,0,South Asia
+Pakistan,2014,Account (% age 15+),PAK,13.04,,,0,South Asia
+Pakistan,2017,Account (% age 15+),PAK,21.29,,,0,South Asia
+Pakistan,2021,Account (% age 15+),PAK,20.98,,,0,South Asia
+Pakistan,2022,Account (% age 15+),PAK,..,,,0,South Asia
+Philippines,2011,Account (% age 15+),PHL,26.56,,,0,ASEAN
+Philippines,2014,Account (% age 15+),PHL,31.29,,,0,ASEAN
+Philippines,2017,Account (% age 15+),PHL,34.5,,,0,ASEAN
+Philippines,2021,Account (% age 15+),PHL,51.37,,,0,ASEAN
+Philippines,2022,Account (% age 15+),PHL,..,,,0,ASEAN
+Singapore,2011,Account (% age 15+),SGP,98.22,,,0,ASEAN
+Singapore,2014,Account (% age 15+),SGP,96.35,,,0,ASEAN
+Singapore,2017,Account (% age 15+),SGP,97.93,,,0,ASEAN
+Singapore,2021,Account (% age 15+),SGP,97.55,,,0,ASEAN
+Singapore,2022,Account (% age 15+),SGP,..,,,0,ASEAN
+South Asia,2011,Account (% age 15+),(South Asia),..,,,0,Other
+South Asia,2014,Account (% age 15+),(South Asia),..,,,0,Other
+South Asia,2017,Account (% age 15+),(South Asia),..,,,0,Other
+South Asia,2021,Account (% age 15+),(South Asia),..,,,0,Other
+South Asia,2022,Account (% age 15+),(South Asia),..,,,0,Other
+Southeast Asia,2011,Account (% age 15+),(Southeast Asia),..,,,0,Other
+Southeast Asia,2014,Account (% age 15+),(Southeast Asia),..,,,0,Other
+Southeast Asia,2017,Account (% age 15+),(Southeast Asia),..,,,0,Other
+Southeast Asia,2021,Account (% age 15+),(Southeast Asia),..,,,0,Other
+Southeast Asia,2022,Account (% age 15+),(Southeast Asia),..,,,0,Other
+Sri Lanka,2011,Account (% age 15+),LKA,68.53,,,0,South Asia
+Sri Lanka,2014,Account (% age 15+),LKA,82.69,,,0,South Asia
+Sri Lanka,2017,Account (% age 15+),LKA,73.65,,,0,South Asia
+Sri Lanka,2021,Account (% age 15+),LKA,89.27,,,0,South Asia
+Sri Lanka,2022,Account (% age 15+),LKA,..,,,0,South Asia
+Thailand,2011,Account (% age 15+),THA,72.67,,,0,ASEAN
+Thailand,2014,Account (% age 15+),THA,78.14,,,0,ASEAN
+Thailand,2017,Account (% age 15+),THA,81.59,,,0,ASEAN
+Thailand,2021,Account (% age 15+),THA,95.58,,,0,ASEAN
+Thailand,2022,Account (% age 15+),THA,..,,,0,ASEAN
+Vietnam,2011,Account (% age 15+),VNM,21.37,,,0,Other
+Vietnam,2014,Account (% age 15+),VNM,30.95,,,0,Other
+Vietnam,2017,Account (% age 15+),VNM,30.8,,,0,Other
+Vietnam,2021,Account (% age 15+),VNM,..,,,0,Other
+Vietnam,2022,Account (% age 15+),VNM,56.27,,,0,Other
+World,2011,Account (% age 15+),WLD,50.63,,,0,Other
+World,2014,Account (% age 15+),WLD,61.92,,,0,Other
+World,2017,Account (% age 15+),WLD,68.5,,,0,Other
+World,2021,Account (% age 15+),WLD,76.2,,,0,Other
+World,2022,Account (% age 15+),WLD,..,,,0,Other
+Bangladesh,2011,"Account, female (% age 15+)",BGD,26.01,,,0,South Asia
+Bangladesh,2014,"Account, female (% age 15+)",BGD,26.45,,,0,South Asia
+Bangladesh,2017,"Account, female (% age 15+)",BGD,35.84,,,0,South Asia
+Bangladesh,2021,"Account, female (% age 15+)",BGD,43.46,,,0,South Asia
+Bangladesh,2022,"Account, female (% age 15+)",BGD,..,,,0,South Asia
+Bhutan,2011,"Account, female (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2014,"Account, female (% age 15+)",BTN,27.68,,,0,South Asia
+Bhutan,2017,"Account, female (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2021,"Account, female (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2022,"Account, female (% age 15+)",BTN,..,,,0,South Asia
+Cambodia,2011,"Account, female (% age 15+)",KHM,3.71,,,0,ASEAN
+Cambodia,2014,"Account, female (% age 15+)",KHM,20.5,,,0,ASEAN
+Cambodia,2017,"Account, female (% age 15+)",KHM,21.53,,,0,ASEAN
+Cambodia,2021,"Account, female (% age 15+)",KHM,32.52,,,0,ASEAN
+Cambodia,2022,"Account, female (% age 15+)",KHM,..,,,0,ASEAN
+India,2011,"Account, female (% age 15+)",IND,26.49,,,0,South Asia
+India,2014,"Account, female (% age 15+)",IND,43.13,,,0,South Asia
+India,2017,"Account, female (% age 15+)",IND,76.64,,,0,South Asia
+India,2021,"Account, female (% age 15+)",IND,77.55,,,0,South Asia
+India,2022,"Account, female (% age 15+)",IND,..,,,0,South Asia
+Indonesia,2011,"Account, female (% age 15+)",IDN,19.21,,,0,ASEAN
+Indonesia,2014,"Account, female (% age 15+)",IDN,37.46,,,0,ASEAN
+Indonesia,2017,"Account, female (% age 15+)",IDN,51.35,,,0,ASEAN
+Indonesia,2021,"Account, female (% age 15+)",IDN,52.3,,,0,ASEAN
+Indonesia,2022,"Account, female (% age 15+)",IDN,..,,,0,ASEAN
+Lao PDR,2011,"Account, female (% age 15+)",LAO,26.16,,,0,ASEAN
+Lao PDR,2014,"Account, female (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2017,"Account, female (% age 15+)",LAO,31.87,,,0,ASEAN
+Lao PDR,2021,"Account, female (% age 15+)",LAO,37.85,,,0,ASEAN
+Lao PDR,2022,"Account, female (% age 15+)",LAO,..,,,0,ASEAN
+Malaysia,2011,"Account, female (% age 15+)",MYS,63.1,,,0,ASEAN
+Malaysia,2014,"Account, female (% age 15+)",MYS,78.09,,,0,ASEAN
+Malaysia,2017,"Account, female (% age 15+)",MYS,82.48,,,0,ASEAN
+Malaysia,2021,"Account, female (% age 15+)",MYS,87.51,,,0,ASEAN
+Malaysia,2022,"Account, female (% age 15+)",MYS,..,,,0,ASEAN
+Myanmar,2011,"Account, female (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2014,"Account, female (% age 15+)",MMR,17.4,,,0,ASEAN
+Myanmar,2017,"Account, female (% age 15+)",MMR,25.98,,,0,ASEAN
+Myanmar,2021,"Account, female (% age 15+)",MMR,46.15,,,0,ASEAN
+Myanmar,2022,"Account, female (% age 15+)",MMR,..,,,0,ASEAN
+Nepal,2011,"Account, female (% age 15+)",NPL,21.22,,,0,South Asia
+Nepal,2014,"Account, female (% age 15+)",NPL,31.27,,,0,South Asia
+Nepal,2017,"Account, female (% age 15+)",NPL,41.6,,,0,South Asia
+Nepal,2021,"Account, female (% age 15+)",NPL,49.9,,,0,South Asia
+Nepal,2022,"Account, female (% age 15+)",NPL,..,,,0,South Asia
+Pakistan,2011,"Account, female (% age 15+)",PAK,2.95,,,0,South Asia
+Pakistan,2014,"Account, female (% age 15+)",PAK,4.84,,,0,South Asia
+Pakistan,2017,"Account, female (% age 15+)",PAK,7.03,,,0,South Asia
+Pakistan,2021,"Account, female (% age 15+)",PAK,13.48,,,0,South Asia
+Pakistan,2022,"Account, female (% age 15+)",PAK,..,,,0,South Asia
+Philippines,2011,"Account, female (% age 15+)",PHL,33.71,,,0,ASEAN
+Philippines,2014,"Account, female (% age 15+)",PHL,37.85,,,0,ASEAN
+Philippines,2017,"Account, female (% age 15+)",PHL,38.85,,,0,ASEAN
+Philippines,2021,"Account, female (% age 15+)",PHL,47.42,,,0,ASEAN
+Philippines,2022,"Account, female (% age 15+)",PHL,..,,,0,ASEAN
+Singapore,2011,"Account, female (% age 15+)",SGP,98.21,,,0,ASEAN
+Singapore,2014,"Account, female (% age 15+)",SGP,96.07,,,0,ASEAN
+Singapore,2017,"Account, female (% age 15+)",SGP,96.31,,,0,ASEAN
+Singapore,2021,"Account, female (% age 15+)",SGP,96.87,,,0,ASEAN
+Singapore,2022,"Account, female (% age 15+)",SGP,..,,,0,ASEAN
+South Asia,2011,"Account, female (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2014,"Account, female (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2017,"Account, female (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2021,"Account, female (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2022,"Account, female (% age 15+)",(South Asia),..,,,0,Other
+Southeast Asia,2011,"Account, female (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2014,"Account, female (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2017,"Account, female (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2021,"Account, female (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2022,"Account, female (% age 15+)",(Southeast Asia),..,,,0,Other
+Sri Lanka,2011,"Account, female (% age 15+)",LKA,67.24,,,0,South Asia
+Sri Lanka,2014,"Account, female (% age 15+)",LKA,83.11,,,0,South Asia
+Sri Lanka,2017,"Account, female (% age 15+)",LKA,73.44,,,0,South Asia
+Sri Lanka,2021,"Account, female (% age 15+)",LKA,89.28,,,0,South Asia
+Sri Lanka,2022,"Account, female (% age 15+)",LKA,..,,,0,South Asia
+Thailand,2011,"Account, female (% age 15+)",THA,72.64,,,0,ASEAN
+Thailand,2014,"Account, female (% age 15+)",THA,75.44,,,0,ASEAN
+Thailand,2017,"Account, female (% age 15+)",THA,79.78,,,0,ASEAN
+Thailand,2021,"Account, female (% age 15+)",THA,92.7,,,0,ASEAN
+Thailand,2022,"Account, female (% age 15+)",THA,..,,,0,ASEAN
+Vietnam,2011,"Account, female (% age 15+)",VNM,18.91,,,0,Other
+Vietnam,2014,"Account, female (% age 15+)",VNM,32.03,,,0,Other
+Vietnam,2017,"Account, female (% age 15+)",VNM,30.42,,,0,Other
+Vietnam,2021,"Account, female (% age 15+)",VNM,..,,,0,Other
+Vietnam,2022,"Account, female (% age 15+)",VNM,52.78,,,0,Other
+World,2011,"Account, female (% age 15+)",WLD,46.62,,,0,Other
+World,2014,"Account, female (% age 15+)",WLD,58.4,,,0,Other
+World,2017,"Account, female (% age 15+)",WLD,64.85,,,0,Other
+World,2021,"Account, female (% age 15+)",WLD,73.99,,,0,Other
+World,2022,"Account, female (% age 15+)",WLD,..,,,0,Other
+Bangladesh,2011,"Account, male (% age 15+)",BGD,37.29,,,0,South Asia
+Bangladesh,2014,"Account, male (% age 15+)",BGD,35.37,,,0,South Asia
+Bangladesh,2017,"Account, male (% age 15+)",BGD,64.59,,,0,South Asia
+Bangladesh,2021,"Account, male (% age 15+)",BGD,62.86,,,0,South Asia
+Bangladesh,2022,"Account, male (% age 15+)",BGD,..,,,0,South Asia
+Bhutan,2011,"Account, male (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2014,"Account, male (% age 15+)",BTN,38.99,,,0,South Asia
+Bhutan,2017,"Account, male (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2021,"Account, male (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2022,"Account, male (% age 15+)",BTN,..,,,0,South Asia
+Cambodia,2011,"Account, male (% age 15+)",KHM,3.6,,,0,ASEAN
+Cambodia,2014,"Account, male (% age 15+)",KHM,24.29,,,0,ASEAN
+Cambodia,2017,"Account, male (% age 15+)",KHM,21.85,,,0,ASEAN
+Cambodia,2021,"Account, male (% age 15+)",KHM,34.41,,,0,ASEAN
+Cambodia,2022,"Account, male (% age 15+)",KHM,..,,,0,ASEAN
+India,2011,"Account, male (% age 15+)",IND,43.74,,,0,South Asia
+India,2014,"Account, male (% age 15+)",IND,62.76,,,0,South Asia
+India,2017,"Account, male (% age 15+)",IND,83.01,,,0,South Asia
+India,2021,"Account, male (% age 15+)",IND,77.51,,,0,South Asia
+India,2022,"Account, male (% age 15+)",IND,..,,,0,South Asia
+Indonesia,2011,"Account, male (% age 15+)",IDN,19.97,,,0,ASEAN
+Indonesia,2014,"Account, male (% age 15+)",IDN,34.62,,,0,ASEAN
+Indonesia,2017,"Account, male (% age 15+)",IDN,46.25,,,0,ASEAN
+Indonesia,2021,"Account, male (% age 15+)",IDN,51.18,,,0,ASEAN
+Indonesia,2022,"Account, male (% age 15+)",IDN,..,,,0,ASEAN
+Lao PDR,2011,"Account, male (% age 15+)",LAO,27.44,,,0,ASEAN
+Lao PDR,2014,"Account, male (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2017,"Account, male (% age 15+)",LAO,26.12,,,0,ASEAN
+Lao PDR,2021,"Account, male (% age 15+)",LAO,36.75,,,0,ASEAN
+Lao PDR,2022,"Account, male (% age 15+)",LAO,..,,,0,ASEAN
+Malaysia,2011,"Account, male (% age 15+)",MYS,69.22,,,0,ASEAN
+Malaysia,2014,"Account, male (% age 15+)",MYS,83.01,,,0,ASEAN
+Malaysia,2017,"Account, male (% age 15+)",MYS,87.92,,,0,ASEAN
+Malaysia,2021,"Account, male (% age 15+)",MYS,89.23,,,0,ASEAN
+Malaysia,2022,"Account, male (% age 15+)",MYS,..,,,0,ASEAN
+Myanmar,2011,"Account, male (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2014,"Account, male (% age 15+)",MMR,28.6,,,0,ASEAN
+Myanmar,2017,"Account, male (% age 15+)",MMR,26.01,,,0,ASEAN
+Myanmar,2021,"Account, male (% age 15+)",MMR,49.52,,,0,ASEAN
+Myanmar,2022,"Account, male (% age 15+)",MMR,..,,,0,ASEAN
+Nepal,2011,"Account, male (% age 15+)",NPL,29.56,,,0,South Asia
+Nepal,2014,"Account, male (% age 15+)",NPL,36.72,,,0,South Asia
+Nepal,2017,"Account, male (% age 15+)",NPL,49.98,,,0,South Asia
+Nepal,2021,"Account, male (% age 15+)",NPL,58.61,,,0,South Asia
+Nepal,2022,"Account, male (% age 15+)",NPL,..,,,0,South Asia
+Pakistan,2011,"Account, male (% age 15+)",PAK,17.28,,,0,South Asia
+Pakistan,2014,"Account, male (% age 15+)",PAK,20.97,,,0,South Asia
+Pakistan,2017,"Account, male (% age 15+)",PAK,34.61,,,0,South Asia
+Pakistan,2021,"Account, male (% age 15+)",PAK,28.18,,,0,South Asia
+Pakistan,2022,"Account, male (% age 15+)",PAK,..,,,0,South Asia
+Philippines,2011,"Account, male (% age 15+)",PHL,19,,,0,ASEAN
+Philippines,2014,"Account, male (% age 15+)",PHL,24.4,,,0,ASEAN
+Philippines,2017,"Account, male (% age 15+)",PHL,30.02,,,0,ASEAN
+Philippines,2021,"Account, male (% age 15+)",PHL,55.59,,,0,ASEAN
+Philippines,2022,"Account, male (% age 15+)",PHL,..,,,0,ASEAN
+Singapore,2011,"Account, male (% age 15+)",SGP,98.23,,,0,ASEAN
+Singapore,2014,"Account, male (% age 15+)",SGP,96.64,,,0,ASEAN
+Singapore,2017,"Account, male (% age 15+)",SGP,99.68,,,0,ASEAN
+Singapore,2021,"Account, male (% age 15+)",SGP,98.27,,,0,ASEAN
+Singapore,2022,"Account, male (% age 15+)",SGP,..,,,0,ASEAN
+South Asia,2011,"Account, male (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2014,"Account, male (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2017,"Account, male (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2021,"Account, male (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2022,"Account, male (% age 15+)",(South Asia),..,,,0,Other
+Southeast Asia,2011,"Account, male (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2014,"Account, male (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2017,"Account, male (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2021,"Account, male (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2022,"Account, male (% age 15+)",(Southeast Asia),..,,,0,Other
+Sri Lanka,2011,"Account, male (% age 15+)",LKA,69.99,,,0,South Asia
+Sri Lanka,2014,"Account, male (% age 15+)",LKA,82.23,,,0,South Asia
+Sri Lanka,2017,"Account, male (% age 15+)",LKA,73.89,,,0,South Asia
+Sri Lanka,2021,"Account, male (% age 15+)",LKA,89.26,,,0,South Asia
+Sri Lanka,2022,"Account, male (% age 15+)",LKA,..,,,0,South Asia
+Thailand,2011,"Account, male (% age 15+)",THA,72.7,,,0,ASEAN
+Thailand,2014,"Account, male (% age 15+)",THA,81.24,,,0,ASEAN
+Thailand,2017,"Account, male (% age 15+)",THA,83.69,,,0,ASEAN
+Thailand,2021,"Account, male (% age 15+)",THA,98.61,,,0,ASEAN
+Thailand,2022,"Account, male (% age 15+)",THA,..,,,0,ASEAN
+Vietnam,2011,"Account, male (% age 15+)",VNM,24,,,0,Other
+Vietnam,2014,"Account, male (% age 15+)",VNM,29.82,,,0,Other
+Vietnam,2017,"Account, male (% age 15+)",VNM,31.21,,,0,Other
+Vietnam,2021,"Account, male (% age 15+)",VNM,..,,,0,Other
+Vietnam,2022,"Account, male (% age 15+)",VNM,59.96,,,0,Other
+World,2011,"Account, male (% age 15+)",WLD,54.75,,,0,Other
+World,2014,"Account, male (% age 15+)",WLD,65.49,,,0,Other
+World,2017,"Account, male (% age 15+)",WLD,72.24,,,0,Other
+World,2021,"Account, male (% age 15+)",WLD,78.35,,,0,Other
+World,2022,"Account, male (% age 15+)",WLD,..,,,0,Other
+Bangladesh,2011,"Account, rural (% age 15+)",BGD,..,,,0,South Asia
+Bangladesh,2014,"Account, rural (% age 15+)",BGD,..,,,0,South Asia
+Bangladesh,2017,"Account, rural (% age 15+)",BGD,..,,,0,South Asia
+Bangladesh,2021,"Account, rural (% age 15+)",BGD,49.99,,,0,South Asia
+Bangladesh,2022,"Account, rural (% age 15+)",BGD,..,,,0,South Asia
+Bhutan,2011,"Account, rural (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2014,"Account, rural (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2017,"Account, rural (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2021,"Account, rural (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2022,"Account, rural (% age 15+)",BTN,..,,,0,South Asia
+Cambodia,2011,"Account, rural (% age 15+)",KHM,..,,,0,ASEAN
+Cambodia,2014,"Account, rural (% age 15+)",KHM,..,,,0,ASEAN
+Cambodia,2017,"Account, rural (% age 15+)",KHM,..,,,0,ASEAN
+Cambodia,2021,"Account, rural (% age 15+)",KHM,27.7,,,0,ASEAN
+Cambodia,2022,"Account, rural (% age 15+)",KHM,..,,,0,ASEAN
+India,2011,"Account, rural (% age 15+)",IND,..,,,0,South Asia
+India,2014,"Account, rural (% age 15+)",IND,..,,,0,South Asia
+India,2017,"Account, rural (% age 15+)",IND,..,,,0,South Asia
+India,2021,"Account, rural (% age 15+)",IND,77.26,,,0,South Asia
+India,2022,"Account, rural (% age 15+)",IND,..,,,0,South Asia
+Indonesia,2011,"Account, rural (% age 15+)",IDN,..,,,0,ASEAN
+Indonesia,2014,"Account, rural (% age 15+)",IDN,..,,,0,ASEAN
+Indonesia,2017,"Account, rural (% age 15+)",IDN,..,,,0,ASEAN
+Indonesia,2021,"Account, rural (% age 15+)",IDN,45.86,,,0,ASEAN
+Indonesia,2022,"Account, rural (% age 15+)",IDN,..,,,0,ASEAN
+Lao PDR,2011,"Account, rural (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2014,"Account, rural (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2017,"Account, rural (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2021,"Account, rural (% age 15+)",LAO,30.08,,,0,ASEAN
+Lao PDR,2022,"Account, rural (% age 15+)",LAO,..,,,0,ASEAN
+Malaysia,2011,"Account, rural (% age 15+)",MYS,..,,,0,ASEAN
+Malaysia,2014,"Account, rural (% age 15+)",MYS,..,,,0,ASEAN
+Malaysia,2017,"Account, rural (% age 15+)",MYS,..,,,0,ASEAN
+Malaysia,2021,"Account, rural (% age 15+)",MYS,88.1,,,0,ASEAN
+Malaysia,2022,"Account, rural (% age 15+)",MYS,..,,,0,ASEAN
+Myanmar,2011,"Account, rural (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2014,"Account, rural (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2017,"Account, rural (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2021,"Account, rural (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2022,"Account, rural (% age 15+)",MMR,..,,,0,ASEAN
+Nepal,2011,"Account, rural (% age 15+)",NPL,..,,,0,South Asia
+Nepal,2014,"Account, rural (% age 15+)",NPL,..,,,0,South Asia
+Nepal,2017,"Account, rural (% age 15+)",NPL,..,,,0,South Asia
+Nepal,2021,"Account, rural (% age 15+)",NPL,51.59,,,0,South Asia
+Nepal,2022,"Account, rural (% age 15+)",NPL,..,,,0,South Asia
+Pakistan,2011,"Account, rural (% age 15+)",PAK,..,,,0,South Asia
+Pakistan,2014,"Account, rural (% age 15+)",PAK,..,,,0,South Asia
+Pakistan,2017,"Account, rural (% age 15+)",PAK,..,,,0,South Asia
+Pakistan,2021,"Account, rural (% age 15+)",PAK,15.56,,,0,South Asia
+Pakistan,2022,"Account, rural (% age 15+)",PAK,..,,,0,South Asia
+Philippines,2011,"Account, rural (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2014,"Account, rural (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2017,"Account, rural (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2021,"Account, rural (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2022,"Account, rural (% age 15+)",PHL,..,,,0,ASEAN
+Singapore,2011,"Account, rural (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2014,"Account, rural (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2017,"Account, rural (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2021,"Account, rural (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2022,"Account, rural (% age 15+)",SGP,..,,,0,ASEAN
+South Asia,2011,"Account, rural (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2014,"Account, rural (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2017,"Account, rural (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2021,"Account, rural (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2022,"Account, rural (% age 15+)",(South Asia),..,,,0,Other
+Southeast Asia,2011,"Account, rural (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2014,"Account, rural (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2017,"Account, rural (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2021,"Account, rural (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2022,"Account, rural (% age 15+)",(Southeast Asia),..,,,0,Other
+Sri Lanka,2011,"Account, rural (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2014,"Account, rural (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2017,"Account, rural (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2021,"Account, rural (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2022,"Account, rural (% age 15+)",LKA,..,,,0,South Asia
+Thailand,2011,"Account, rural (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2014,"Account, rural (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2017,"Account, rural (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2021,"Account, rural (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2022,"Account, rural (% age 15+)",THA,..,,,0,ASEAN
+Vietnam,2011,"Account, rural (% age 15+)",VNM,..,,,0,Other
+Vietnam,2014,"Account, rural (% age 15+)",VNM,..,,,0,Other
+Vietnam,2017,"Account, rural (% age 15+)",VNM,..,,,0,Other
+Vietnam,2021,"Account, rural (% age 15+)",VNM,..,,,0,Other
+Vietnam,2022,"Account, rural (% age 15+)",VNM,..,,,0,Other
+World,2011,"Account, rural (% age 15+)",WLD,..,,,0,Other
+World,2014,"Account, rural (% age 15+)",WLD,..,,,0,Other
+World,2017,"Account, rural (% age 15+)",WLD,..,,,0,Other
+World,2021,"Account, rural (% age 15+)",WLD,..,,,0,Other
+World,2022,"Account, rural (% age 15+)",WLD,..,,,0,Other
+Bangladesh,2011,"Account, urban (% age 15+)",BGD,..,,,0,South Asia
+Bangladesh,2014,"Account, urban (% age 15+)",BGD,..,,,0,South Asia
+Bangladesh,2017,"Account, urban (% age 15+)",BGD,..,,,0,South Asia
+Bangladesh,2021,"Account, urban (% age 15+)",BGD,53.7,,,0,South Asia
+Bangladesh,2022,"Account, urban (% age 15+)",BGD,..,,,0,South Asia
+Bhutan,2011,"Account, urban (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2014,"Account, urban (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2017,"Account, urban (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2021,"Account, urban (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2022,"Account, urban (% age 15+)",BTN,..,,,0,South Asia
+Cambodia,2011,"Account, urban (% age 15+)",KHM,..,,,0,ASEAN
+Cambodia,2014,"Account, urban (% age 15+)",KHM,..,,,0,ASEAN
+Cambodia,2017,"Account, urban (% age 15+)",KHM,..,,,0,ASEAN
+Cambodia,2021,"Account, urban (% age 15+)",KHM,52.56,,,0,ASEAN
+Cambodia,2022,"Account, urban (% age 15+)",KHM,..,,,0,ASEAN
+India,2011,"Account, urban (% age 15+)",IND,..,,,0,South Asia
+India,2014,"Account, urban (% age 15+)",IND,..,,,0,South Asia
+India,2017,"Account, urban (% age 15+)",IND,..,,,0,South Asia
+India,2021,"Account, urban (% age 15+)",IND,77.83,,,0,South Asia
+India,2022,"Account, urban (% age 15+)",IND,..,,,0,South Asia
+Indonesia,2011,"Account, urban (% age 15+)",IDN,..,,,0,ASEAN
+Indonesia,2014,"Account, urban (% age 15+)",IDN,..,,,0,ASEAN
+Indonesia,2017,"Account, urban (% age 15+)",IDN,..,,,0,ASEAN
+Indonesia,2021,"Account, urban (% age 15+)",IDN,54.58,,,0,ASEAN
+Indonesia,2022,"Account, urban (% age 15+)",IDN,..,,,0,ASEAN
+Lao PDR,2011,"Account, urban (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2014,"Account, urban (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2017,"Account, urban (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2021,"Account, urban (% age 15+)",LAO,68.84,,,0,ASEAN
+Lao PDR,2022,"Account, urban (% age 15+)",LAO,..,,,0,ASEAN
+Malaysia,2011,"Account, urban (% age 15+)",MYS,..,,,0,ASEAN
+Malaysia,2014,"Account, urban (% age 15+)",MYS,..,,,0,ASEAN
+Malaysia,2017,"Account, urban (% age 15+)",MYS,..,,,0,ASEAN
+Malaysia,2021,"Account, urban (% age 15+)",MYS,88.46,,,0,ASEAN
+Malaysia,2022,"Account, urban (% age 15+)",MYS,..,,,0,ASEAN
+Myanmar,2011,"Account, urban (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2014,"Account, urban (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2017,"Account, urban (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2021,"Account, urban (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2022,"Account, urban (% age 15+)",MMR,..,,,0,ASEAN
+Nepal,2011,"Account, urban (% age 15+)",NPL,..,,,0,South Asia
+Nepal,2014,"Account, urban (% age 15+)",NPL,..,,,0,South Asia
+Nepal,2017,"Account, urban (% age 15+)",NPL,..,,,0,South Asia
+Nepal,2021,"Account, urban (% age 15+)",NPL,61.52,,,0,South Asia
+Nepal,2022,"Account, urban (% age 15+)",NPL,..,,,0,South Asia
+Pakistan,2011,"Account, urban (% age 15+)",PAK,..,,,0,South Asia
+Pakistan,2014,"Account, urban (% age 15+)",PAK,..,,,0,South Asia
+Pakistan,2017,"Account, urban (% age 15+)",PAK,..,,,0,South Asia
+Pakistan,2021,"Account, urban (% age 15+)",PAK,24.51,,,0,South Asia
+Pakistan,2022,"Account, urban (% age 15+)",PAK,..,,,0,South Asia
+Philippines,2011,"Account, urban (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2014,"Account, urban (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2017,"Account, urban (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2021,"Account, urban (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2022,"Account, urban (% age 15+)",PHL,..,,,0,ASEAN
+Singapore,2011,"Account, urban (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2014,"Account, urban (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2017,"Account, urban (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2021,"Account, urban (% age 15+)",SGP,97.55,,,0,ASEAN
+Singapore,2022,"Account, urban (% age 15+)",SGP,..,,,0,ASEAN
+South Asia,2011,"Account, urban (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2014,"Account, urban (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2017,"Account, urban (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2021,"Account, urban (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2022,"Account, urban (% age 15+)",(South Asia),..,,,0,Other
+Southeast Asia,2011,"Account, urban (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2014,"Account, urban (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2017,"Account, urban (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2021,"Account, urban (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2022,"Account, urban (% age 15+)",(Southeast Asia),..,,,0,Other
+Sri Lanka,2011,"Account, urban (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2014,"Account, urban (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2017,"Account, urban (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2021,"Account, urban (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2022,"Account, urban (% age 15+)",LKA,..,,,0,South Asia
+Thailand,2011,"Account, urban (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2014,"Account, urban (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2017,"Account, urban (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2021,"Account, urban (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2022,"Account, urban (% age 15+)",THA,..,,,0,ASEAN
+Vietnam,2011,"Account, urban (% age 15+)",VNM,..,,,0,Other
+Vietnam,2014,"Account, urban (% age 15+)",VNM,..,,,0,Other
+Vietnam,2017,"Account, urban (% age 15+)",VNM,..,,,0,Other
+Vietnam,2021,"Account, urban (% age 15+)",VNM,..,,,0,Other
+Vietnam,2022,"Account, urban (% age 15+)",VNM,..,,,0,Other
+World,2011,"Account, urban (% age 15+)",WLD,..,,,0,Other
+World,2014,"Account, urban (% age 15+)",WLD,..,,,0,Other
+World,2017,"Account, urban (% age 15+)",WLD,..,,,0,Other
+World,2021,"Account, urban (% age 15+)",WLD,..,,,0,Other
+World,2022,"Account, urban (% age 15+)",WLD,..,,,0,Other
+Bangladesh,2011,Financial institution account (% age 15+),BGD,31.74,,,0,South Asia
+Bangladesh,2014,Financial institution account (% age 15+),BGD,29.14,,,0,South Asia
+Bangladesh,2017,Financial institution account (% age 15+),BGD,40.97,,,0,South Asia
+Bangladesh,2021,Financial institution account (% age 15+),BGD,37.69,,,0,South Asia
+Bangladesh,2022,Financial institution account (% age 15+),BGD,..,,,0,South Asia
+Bhutan,2011,Financial institution account (% age 15+),BTN,..,,,0,South Asia
+Bhutan,2014,Financial institution account (% age 15+),BTN,33.67,,,0,South Asia
+Bhutan,2017,Financial institution account (% age 15+),BTN,..,,,0,South Asia
+Bhutan,2021,Financial institution account (% age 15+),BTN,..,,,0,South Asia
+Bhutan,2022,Financial institution account (% age 15+),BTN,..,,,0,South Asia
+Cambodia,2011,Financial institution account (% age 15+),KHM,3.66,,,0,ASEAN
+Cambodia,2014,Financial institution account (% age 15+),KHM,12.56,,,0,ASEAN
+Cambodia,2017,Financial institution account (% age 15+),KHM,17.8,,,0,ASEAN
+Cambodia,2021,Financial institution account (% age 15+),KHM,32.6,,,0,ASEAN
+Cambodia,2022,Financial institution account (% age 15+),KHM,..,,,0,ASEAN
+India,2011,Financial institution account (% age 15+),IND,35.23,,,0,South Asia
+India,2014,Financial institution account (% age 15+),IND,52.75,,,0,South Asia
+India,2017,Financial institution account (% age 15+),IND,79.84,,,0,South Asia
+India,2021,Financial institution account (% age 15+),IND,77.3,,,0,South Asia
+India,2022,Financial institution account (% age 15+),IND,..,,,0,South Asia
+Indonesia,2011,Financial institution account (% age 15+),IDN,19.58,,,0,ASEAN
+Indonesia,2014,Financial institution account (% age 15+),IDN,35.95,,,0,ASEAN
+Indonesia,2017,Financial institution account (% age 15+),IDN,48.39,,,0,ASEAN
+Indonesia,2021,Financial institution account (% age 15+),IDN,50.51,,,0,ASEAN
+Indonesia,2022,Financial institution account (% age 15+),IDN,..,,,0,ASEAN
+Lao PDR,2011,Financial institution account (% age 15+),LAO,26.77,,,0,ASEAN
+Lao PDR,2014,Financial institution account (% age 15+),LAO,..,,,0,ASEAN
+Lao PDR,2017,Financial institution account (% age 15+),LAO,29.06,,,0,ASEAN
+Lao PDR,2021,Financial institution account (% age 15+),LAO,37.32,,,0,ASEAN
+Lao PDR,2022,Financial institution account (% age 15+),LAO,..,,,0,ASEAN
+Malaysia,2011,Financial institution account (% age 15+),MYS,66.17,,,0,ASEAN
+Malaysia,2014,Financial institution account (% age 15+),MYS,80.67,,,0,ASEAN
+Malaysia,2017,Financial institution account (% age 15+),MYS,85.13,,,0,ASEAN
+Malaysia,2021,Financial institution account (% age 15+),MYS,88.17,,,0,ASEAN
+Malaysia,2022,Financial institution account (% age 15+),MYS,..,,,0,ASEAN
+Myanmar,2011,Financial institution account (% age 15+),MMR,..,,,0,ASEAN
+Myanmar,2014,Financial institution account (% age 15+),MMR,22.62,,,0,ASEAN
+Myanmar,2017,Financial institution account (% age 15+),MMR,25.61,,,0,ASEAN
+Myanmar,2021,Financial institution account (% age 15+),MMR,36.14,,,0,ASEAN
+Myanmar,2022,Financial institution account (% age 15+),MMR,..,,,0,ASEAN
+Nepal,2011,Financial institution account (% age 15+),NPL,25.31,,,0,South Asia
+Nepal,2014,Financial institution account (% age 15+),NPL,33.8,,,0,South Asia
+Nepal,2017,Financial institution account (% age 15+),NPL,45.39,,,0,South Asia
+Nepal,2021,Financial institution account (% age 15+),NPL,52.8,,,0,South Asia
+Nepal,2022,Financial institution account (% age 15+),NPL,..,,,0,South Asia
+Pakistan,2011,Financial institution account (% age 15+),PAK,10.31,,,0,South Asia
+Pakistan,2014,Financial institution account (% age 15+),PAK,8.71,,,0,South Asia
+Pakistan,2017,Financial institution account (% age 15+),PAK,18.05,,,0,South Asia
+Pakistan,2021,Financial institution account (% age 15+),PAK,16.29,,,0,South Asia
+Pakistan,2022,Financial institution account (% age 15+),PAK,..,,,0,South Asia
+Philippines,2011,Financial institution account (% age 15+),PHL,26.56,,,0,ASEAN
+Philippines,2014,Financial institution account (% age 15+),PHL,28.07,,,0,ASEAN
+Philippines,2017,Financial institution account (% age 15+),PHL,31.8,,,0,ASEAN
+Philippines,2021,Financial institution account (% age 15+),PHL,45.98,,,0,ASEAN
+Philippines,2022,Financial institution account (% age 15+),PHL,..,,,0,ASEAN
+Singapore,2011,Financial institution account (% age 15+),SGP,98.22,,,0,ASEAN
+Singapore,2014,Financial institution account (% age 15+),SGP,96.35,,,0,ASEAN
+Singapore,2017,Financial institution account (% age 15+),SGP,97.81,,,0,ASEAN
+Singapore,2021,Financial institution account (% age 15+),SGP,97.19,,,0,ASEAN
+Singapore,2022,Financial institution account (% age 15+),SGP,..,,,0,ASEAN
+South Asia,2011,Financial institution account (% age 15+),(South Asia),..,,,0,Other
+South Asia,2014,Financial institution account (% age 15+),(South Asia),..,,,0,Other
+South Asia,2017,Financial institution account (% age 15+),(South Asia),..,,,0,Other
+South Asia,2021,Financial institution account (% age 15+),(South Asia),..,,,0,Other
+South Asia,2022,Financial institution account (% age 15+),(South Asia),..,,,0,Other
+Southeast Asia,2011,Financial institution account (% age 15+),(Southeast Asia),..,,,0,Other
+Southeast Asia,2014,Financial institution account (% age 15+),(Southeast Asia),..,,,0,Other
+Southeast Asia,2017,Financial institution account (% age 15+),(Southeast Asia),..,,,0,Other
+Southeast Asia,2021,Financial institution account (% age 15+),(Southeast Asia),..,,,0,Other
+Southeast Asia,2022,Financial institution account (% age 15+),(Southeast Asia),..,,,0,Other
+Sri Lanka,2011,Financial institution account (% age 15+),LKA,68.53,,,0,South Asia
+Sri Lanka,2014,Financial institution account (% age 15+),LKA,82.69,,,0,South Asia
+Sri Lanka,2017,Financial institution account (% age 15+),LKA,73.59,,,0,South Asia
+Sri Lanka,2021,Financial institution account (% age 15+),LKA,88.93,,,0,South Asia
+Sri Lanka,2022,Financial institution account (% age 15+),LKA,..,,,0,South Asia
+Thailand,2011,Financial institution account (% age 15+),THA,72.67,,,0,ASEAN
+Thailand,2014,Financial institution account (% age 15+),THA,78.14,,,0,ASEAN
+Thailand,2017,Financial institution account (% age 15+),THA,80.96,,,0,ASEAN
+Thailand,2021,Financial institution account (% age 15+),THA,94.15,,,0,ASEAN
+Thailand,2022,Financial institution account (% age 15+),THA,..,,,0,ASEAN
+Vietnam,2011,Financial institution account (% age 15+),VNM,21.37,,,0,Other
+Vietnam,2014,Financial institution account (% age 15+),VNM,30.86,,,0,Other
+Vietnam,2017,Financial institution account (% age 15+),VNM,30.02,,,0,Other
+Vietnam,2021,Financial institution account (% age 15+),VNM,..,,,0,Other
+Vietnam,2022,Financial institution account (% age 15+),VNM,56.06,,,0,Other
+World,2011,Financial institution account (% age 15+),WLD,50.63,,,0,Other
+World,2014,Financial institution account (% age 15+),WLD,61.12,,,0,Other
+World,2017,Financial institution account (% age 15+),WLD,67.1,,,0,Other
+World,2021,Financial institution account (% age 15+),WLD,73.97,,,0,Other
+World,2022,Financial institution account (% age 15+),WLD,..,,,0,Other
+Bangladesh,2011,"Financial institution account, female (% age 15+)",BGD,26.01,,,0,South Asia
+Bangladesh,2014,"Financial institution account, female (% age 15+)",BGD,25.22,,,0,South Asia
+Bangladesh,2017,"Financial institution account, female (% age 15+)",BGD,31.91,,,0,South Asia
+Bangladesh,2021,"Financial institution account, female (% age 15+)",BGD,30.58,,,0,South Asia
+Bangladesh,2022,"Financial institution account, female (% age 15+)",BGD,..,,,0,South Asia
+Bhutan,2011,"Financial institution account, female (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2014,"Financial institution account, female (% age 15+)",BTN,27.68,,,0,South Asia
+Bhutan,2017,"Financial institution account, female (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2021,"Financial institution account, female (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2022,"Financial institution account, female (% age 15+)",BTN,..,,,0,South Asia
+Cambodia,2011,"Financial institution account, female (% age 15+)",KHM,3.71,,,0,ASEAN
+Cambodia,2014,"Financial institution account, female (% age 15+)",KHM,10.68,,,0,ASEAN
+Cambodia,2017,"Financial institution account, female (% age 15+)",KHM,17.24,,,0,ASEAN
+Cambodia,2021,"Financial institution account, female (% age 15+)",KHM,31.3,,,0,ASEAN
+Cambodia,2022,"Financial institution account, female (% age 15+)",KHM,..,,,0,ASEAN
+India,2011,"Financial institution account, female (% age 15+)",IND,26.49,,,0,South Asia
+India,2014,"Financial institution account, female (% age 15+)",IND,42.64,,,0,South Asia
+India,2017,"Financial institution account, female (% age 15+)",IND,76.64,,,0,South Asia
+India,2021,"Financial institution account, female (% age 15+)",IND,77.47,,,0,South Asia
+India,2022,"Financial institution account, female (% age 15+)",IND,..,,,0,South Asia
+Indonesia,2011,"Financial institution account, female (% age 15+)",IDN,19.21,,,0,ASEAN
+Indonesia,2014,"Financial institution account, female (% age 15+)",IDN,37.24,,,0,ASEAN
+Indonesia,2017,"Financial institution account, female (% age 15+)",IDN,51.14,,,0,ASEAN
+Indonesia,2021,"Financial institution account, female (% age 15+)",IDN,51.67,,,0,ASEAN
+Indonesia,2022,"Financial institution account, female (% age 15+)",IDN,..,,,0,ASEAN
+Lao PDR,2011,"Financial institution account, female (% age 15+)",LAO,26.16,,,0,ASEAN
+Lao PDR,2014,"Financial institution account, female (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2017,"Financial institution account, female (% age 15+)",LAO,31.87,,,0,ASEAN
+Lao PDR,2021,"Financial institution account, female (% age 15+)",LAO,37.85,,,0,ASEAN
+Lao PDR,2022,"Financial institution account, female (% age 15+)",LAO,..,,,0,ASEAN
+Malaysia,2011,"Financial institution account, female (% age 15+)",MYS,63.1,,,0,ASEAN
+Malaysia,2014,"Financial institution account, female (% age 15+)",MYS,78.09,,,0,ASEAN
+Malaysia,2017,"Financial institution account, female (% age 15+)",MYS,82.09,,,0,ASEAN
+Malaysia,2021,"Financial institution account, female (% age 15+)",MYS,87.51,,,0,ASEAN
+Malaysia,2022,"Financial institution account, female (% age 15+)",MYS,..,,,0,ASEAN
+Myanmar,2011,"Financial institution account, female (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2014,"Financial institution account, female (% age 15+)",MMR,17.08,,,0,ASEAN
+Myanmar,2017,"Financial institution account, female (% age 15+)",MMR,25.74,,,0,ASEAN
+Myanmar,2021,"Financial institution account, female (% age 15+)",MMR,34.85,,,0,ASEAN
+Myanmar,2022,"Financial institution account, female (% age 15+)",MMR,..,,,0,ASEAN
+Nepal,2011,"Financial institution account, female (% age 15+)",NPL,21.22,,,0,South Asia
+Nepal,2014,"Financial institution account, female (% age 15+)",NPL,31.27,,,0,South Asia
+Nepal,2017,"Financial institution account, female (% age 15+)",NPL,41.6,,,0,South Asia
+Nepal,2021,"Financial institution account, female (% age 15+)",NPL,49.66,,,0,South Asia
+Nepal,2022,"Financial institution account, female (% age 15+)",NPL,..,,,0,South Asia
+Pakistan,2011,"Financial institution account, female (% age 15+)",PAK,2.95,,,0,South Asia
+Pakistan,2014,"Financial institution account, female (% age 15+)",PAK,3.02,,,0,South Asia
+Pakistan,2017,"Financial institution account, female (% age 15+)",PAK,6.28,,,0,South Asia
+Pakistan,2021,"Financial institution account, female (% age 15+)",PAK,11.48,,,0,South Asia
+Pakistan,2022,"Financial institution account, female (% age 15+)",PAK,..,,,0,South Asia
+Philippines,2011,"Financial institution account, female (% age 15+)",PHL,33.71,,,0,ASEAN
+Philippines,2014,"Financial institution account, female (% age 15+)",PHL,33.88,,,0,ASEAN
+Philippines,2017,"Financial institution account, female (% age 15+)",PHL,35.47,,,0,ASEAN
+Philippines,2021,"Financial institution account, female (% age 15+)",PHL,40.91,,,0,ASEAN
+Philippines,2022,"Financial institution account, female (% age 15+)",PHL,..,,,0,ASEAN
+Singapore,2011,"Financial institution account, female (% age 15+)",SGP,98.21,,,0,ASEAN
+Singapore,2014,"Financial institution account, female (% age 15+)",SGP,96.07,,,0,ASEAN
+Singapore,2017,"Financial institution account, female (% age 15+)",SGP,96.31,,,0,ASEAN
+Singapore,2021,"Financial institution account, female (% age 15+)",SGP,96.87,,,0,ASEAN
+Singapore,2022,"Financial institution account, female (% age 15+)",SGP,..,,,0,ASEAN
+South Asia,2011,"Financial institution account, female (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2014,"Financial institution account, female (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2017,"Financial institution account, female (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2021,"Financial institution account, female (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2022,"Financial institution account, female (% age 15+)",(South Asia),..,,,0,Other
+Southeast Asia,2011,"Financial institution account, female (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2014,"Financial institution account, female (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2017,"Financial institution account, female (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2021,"Financial institution account, female (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2022,"Financial institution account, female (% age 15+)",(Southeast Asia),..,,,0,Other
+Sri Lanka,2011,"Financial institution account, female (% age 15+)",LKA,67.24,,,0,South Asia
+Sri Lanka,2014,"Financial institution account, female (% age 15+)",LKA,83.11,,,0,South Asia
+Sri Lanka,2017,"Financial institution account, female (% age 15+)",LKA,73.44,,,0,South Asia
+Sri Lanka,2021,"Financial institution account, female (% age 15+)",LKA,89.24,,,0,South Asia
+Sri Lanka,2022,"Financial institution account, female (% age 15+)",LKA,..,,,0,South Asia
+Thailand,2011,"Financial institution account, female (% age 15+)",THA,72.64,,,0,ASEAN
+Thailand,2014,"Financial institution account, female (% age 15+)",THA,75.44,,,0,ASEAN
+Thailand,2017,"Financial institution account, female (% age 15+)",THA,79.48,,,0,ASEAN
+Thailand,2021,"Financial institution account, female (% age 15+)",THA,92.09,,,0,ASEAN
+Thailand,2022,"Financial institution account, female (% age 15+)",THA,..,,,0,ASEAN
+Vietnam,2011,"Financial institution account, female (% age 15+)",VNM,18.91,,,0,Other
+Vietnam,2014,"Financial institution account, female (% age 15+)",VNM,31.86,,,0,Other
+Vietnam,2017,"Financial institution account, female (% age 15+)",VNM,29.45,,,0,Other
+Vietnam,2021,"Financial institution account, female (% age 15+)",VNM,..,,,0,Other
+Vietnam,2022,"Financial institution account, female (% age 15+)",VNM,52.46,,,0,Other
+World,2011,"Financial institution account, female (% age 15+)",WLD,46.62,,,0,Other
+World,2014,"Financial institution account, female (% age 15+)",WLD,57.68,,,0,Other
+World,2017,"Financial institution account, female (% age 15+)",WLD,63.69,,,0,Other
+World,2021,"Financial institution account, female (% age 15+)",WLD,71.9,,,0,Other
+World,2022,"Financial institution account, female (% age 15+)",WLD,..,,,0,Other
+Bangladesh,2011,"Financial institution account, male (% age 15+)",BGD,37.29,,,0,South Asia
+Bangladesh,2014,"Financial institution account, male (% age 15+)",BGD,32.93,,,0,South Asia
+Bangladesh,2017,"Financial institution account, male (% age 15+)",BGD,50.24,,,0,South Asia
+Bangladesh,2021,"Financial institution account, male (% age 15+)",BGD,45.33,,,0,South Asia
+Bangladesh,2022,"Financial institution account, male (% age 15+)",BGD,..,,,0,South Asia
+Bhutan,2011,"Financial institution account, male (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2014,"Financial institution account, male (% age 15+)",BTN,38.99,,,0,South Asia
+Bhutan,2017,"Financial institution account, male (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2021,"Financial institution account, male (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2022,"Financial institution account, male (% age 15+)",BTN,..,,,0,South Asia
+Cambodia,2011,"Financial institution account, male (% age 15+)",KHM,3.6,,,0,ASEAN
+Cambodia,2014,"Financial institution account, male (% age 15+)",KHM,14.94,,,0,ASEAN
+Cambodia,2017,"Financial institution account, male (% age 15+)",KHM,18.48,,,0,ASEAN
+Cambodia,2021,"Financial institution account, male (% age 15+)",KHM,34.12,,,0,ASEAN
+Cambodia,2022,"Financial institution account, male (% age 15+)",KHM,..,,,0,ASEAN
+India,2011,"Financial institution account, male (% age 15+)",IND,43.74,,,0,South Asia
+India,2014,"Financial institution account, male (% age 15+)",IND,62.47,,,0,South Asia
+India,2017,"Financial institution account, male (% age 15+)",IND,82.94,,,0,South Asia
+India,2021,"Financial institution account, male (% age 15+)",IND,77.15,,,0,South Asia
+India,2022,"Financial institution account, male (% age 15+)",IND,..,,,0,South Asia
+Indonesia,2011,"Financial institution account, male (% age 15+)",IDN,19.97,,,0,ASEAN
+Indonesia,2014,"Financial institution account, male (% age 15+)",IDN,34.62,,,0,ASEAN
+Indonesia,2017,"Financial institution account, male (% age 15+)",IDN,45.52,,,0,ASEAN
+Indonesia,2021,"Financial institution account, male (% age 15+)",IDN,49.29,,,0,ASEAN
+Indonesia,2022,"Financial institution account, male (% age 15+)",IDN,..,,,0,ASEAN
+Lao PDR,2011,"Financial institution account, male (% age 15+)",LAO,27.44,,,0,ASEAN
+Lao PDR,2014,"Financial institution account, male (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2017,"Financial institution account, male (% age 15+)",LAO,26.12,,,0,ASEAN
+Lao PDR,2021,"Financial institution account, male (% age 15+)",LAO,36.75,,,0,ASEAN
+Lao PDR,2022,"Financial institution account, male (% age 15+)",LAO,..,,,0,ASEAN
+Malaysia,2011,"Financial institution account, male (% age 15+)",MYS,69.22,,,0,ASEAN
+Malaysia,2014,"Financial institution account, male (% age 15+)",MYS,83.01,,,0,ASEAN
+Malaysia,2017,"Financial institution account, male (% age 15+)",MYS,87.86,,,0,ASEAN
+Malaysia,2021,"Financial institution account, male (% age 15+)",MYS,88.81,,,0,ASEAN
+Malaysia,2022,"Financial institution account, male (% age 15+)",MYS,..,,,0,ASEAN
+Myanmar,2011,"Financial institution account, male (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2014,"Financial institution account, male (% age 15+)",MMR,28.6,,,0,ASEAN
+Myanmar,2017,"Financial institution account, male (% age 15+)",MMR,25.46,,,0,ASEAN
+Myanmar,2021,"Financial institution account, male (% age 15+)",MMR,37.51,,,0,ASEAN
+Myanmar,2022,"Financial institution account, male (% age 15+)",MMR,..,,,0,ASEAN
+Nepal,2011,"Financial institution account, male (% age 15+)",NPL,29.56,,,0,South Asia
+Nepal,2014,"Financial institution account, male (% age 15+)",NPL,36.72,,,0,South Asia
+Nepal,2017,"Financial institution account, male (% age 15+)",NPL,49.98,,,0,South Asia
+Nepal,2021,"Financial institution account, male (% age 15+)",NPL,56.33,,,0,South Asia
+Nepal,2022,"Financial institution account, male (% age 15+)",NPL,..,,,0,South Asia
+Pakistan,2011,"Financial institution account, male (% age 15+)",PAK,17.28,,,0,South Asia
+Pakistan,2014,"Financial institution account, male (% age 15+)",PAK,14.21,,,0,South Asia
+Pakistan,2017,"Financial institution account, male (% age 15+)",PAK,29.03,,,0,South Asia
+Pakistan,2021,"Financial institution account, male (% age 15+)",PAK,20.9,,,0,South Asia
+Pakistan,2022,"Financial institution account, male (% age 15+)",PAK,..,,,0,South Asia
+Philippines,2011,"Financial institution account, male (% age 15+)",PHL,19,,,0,ASEAN
+Philippines,2014,"Financial institution account, male (% age 15+)",PHL,21.97,,,0,ASEAN
+Philippines,2017,"Financial institution account, male (% age 15+)",PHL,28.02,,,0,ASEAN
+Philippines,2021,"Financial institution account, male (% age 15+)",PHL,51.4,,,0,ASEAN
+Philippines,2022,"Financial institution account, male (% age 15+)",PHL,..,,,0,ASEAN
+Singapore,2011,"Financial institution account, male (% age 15+)",SGP,98.23,,,0,ASEAN
+Singapore,2014,"Financial institution account, male (% age 15+)",SGP,96.64,,,0,ASEAN
+Singapore,2017,"Financial institution account, male (% age 15+)",SGP,99.44,,,0,ASEAN
+Singapore,2021,"Financial institution account, male (% age 15+)",SGP,97.53,,,0,ASEAN
+Singapore,2022,"Financial institution account, male (% age 15+)",SGP,..,,,0,ASEAN
+South Asia,2011,"Financial institution account, male (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2014,"Financial institution account, male (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2017,"Financial institution account, male (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2021,"Financial institution account, male (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2022,"Financial institution account, male (% age 15+)",(South Asia),..,,,0,Other
+Southeast Asia,2011,"Financial institution account, male (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2014,"Financial institution account, male (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2017,"Financial institution account, male (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2021,"Financial institution account, male (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2022,"Financial institution account, male (% age 15+)",(Southeast Asia),..,,,0,Other
+Sri Lanka,2011,"Financial institution account, male (% age 15+)",LKA,69.99,,,0,South Asia
+Sri Lanka,2014,"Financial institution account, male (% age 15+)",LKA,82.23,,,0,South Asia
+Sri Lanka,2017,"Financial institution account, male (% age 15+)",LKA,73.77,,,0,South Asia
+Sri Lanka,2021,"Financial institution account, male (% age 15+)",LKA,88.58,,,0,South Asia
+Sri Lanka,2022,"Financial institution account, male (% age 15+)",LKA,..,,,0,South Asia
+Thailand,2011,"Financial institution account, male (% age 15+)",THA,72.7,,,0,ASEAN
+Thailand,2014,"Financial institution account, male (% age 15+)",THA,81.24,,,0,ASEAN
+Thailand,2017,"Financial institution account, male (% age 15+)",THA,82.66,,,0,ASEAN
+Thailand,2021,"Financial institution account, male (% age 15+)",THA,96.31,,,0,ASEAN
+Thailand,2022,"Financial institution account, male (% age 15+)",THA,..,,,0,ASEAN
+Vietnam,2011,"Financial institution account, male (% age 15+)",VNM,24,,,0,Other
+Vietnam,2014,"Financial institution account, male (% age 15+)",VNM,29.82,,,0,Other
+Vietnam,2017,"Financial institution account, male (% age 15+)",VNM,30.64,,,0,Other
+Vietnam,2021,"Financial institution account, male (% age 15+)",VNM,..,,,0,Other
+Vietnam,2022,"Financial institution account, male (% age 15+)",VNM,59.88,,,0,Other
+World,2011,"Financial institution account, male (% age 15+)",WLD,54.75,,,0,Other
+World,2014,"Financial institution account, male (% age 15+)",WLD,64.59,,,0,Other
+World,2017,"Financial institution account, male (% age 15+)",WLD,70.61,,,0,Other
+World,2021,"Financial institution account, male (% age 15+)",WLD,76,,,0,Other
+World,2022,"Financial institution account, male (% age 15+)",WLD,..,,,0,Other
+Bangladesh,2011,"Financial institution account, rural (% age 15+)",BGD,..,,,0,South Asia
+Bangladesh,2014,"Financial institution account, rural (% age 15+)",BGD,..,,,0,South Asia
+Bangladesh,2017,"Financial institution account, rural (% age 15+)",BGD,..,,,0,South Asia
+Bangladesh,2021,"Financial institution account, rural (% age 15+)",BGD,30.1,,,0,South Asia
+Bangladesh,2022,"Financial institution account, rural (% age 15+)",BGD,..,,,0,South Asia
+Bhutan,2011,"Financial institution account, rural (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2014,"Financial institution account, rural (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2017,"Financial institution account, rural (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2021,"Financial institution account, rural (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2022,"Financial institution account, rural (% age 15+)",BTN,..,,,0,South Asia
+Cambodia,2011,"Financial institution account, rural (% age 15+)",KHM,..,,,0,ASEAN
+Cambodia,2014,"Financial institution account, rural (% age 15+)",KHM,..,,,0,ASEAN
+Cambodia,2017,"Financial institution account, rural (% age 15+)",KHM,..,,,0,ASEAN
+Cambodia,2021,"Financial institution account, rural (% age 15+)",KHM,27.26,,,0,ASEAN
+Cambodia,2022,"Financial institution account, rural (% age 15+)",KHM,..,,,0,ASEAN
+India,2011,"Financial institution account, rural (% age 15+)",IND,..,,,0,South Asia
+India,2014,"Financial institution account, rural (% age 15+)",IND,..,,,0,South Asia
+India,2017,"Financial institution account, rural (% age 15+)",IND,..,,,0,South Asia
+India,2021,"Financial institution account, rural (% age 15+)",IND,77.03,,,0,South Asia
+India,2022,"Financial institution account, rural (% age 15+)",IND,..,,,0,South Asia
+Indonesia,2011,"Financial institution account, rural (% age 15+)",IDN,..,,,0,ASEAN
+Indonesia,2014,"Financial institution account, rural (% age 15+)",IDN,..,,,0,ASEAN
+Indonesia,2017,"Financial institution account, rural (% age 15+)",IDN,..,,,0,ASEAN
+Indonesia,2021,"Financial institution account, rural (% age 15+)",IDN,45.21,,,0,ASEAN
+Indonesia,2022,"Financial institution account, rural (% age 15+)",IDN,..,,,0,ASEAN
+Lao PDR,2011,"Financial institution account, rural (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2014,"Financial institution account, rural (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2017,"Financial institution account, rural (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2021,"Financial institution account, rural (% age 15+)",LAO,30.08,,,0,ASEAN
+Lao PDR,2022,"Financial institution account, rural (% age 15+)",LAO,..,,,0,ASEAN
+Malaysia,2011,"Financial institution account, rural (% age 15+)",MYS,..,,,0,ASEAN
+Malaysia,2014,"Financial institution account, rural (% age 15+)",MYS,..,,,0,ASEAN
+Malaysia,2017,"Financial institution account, rural (% age 15+)",MYS,..,,,0,ASEAN
+Malaysia,2021,"Financial institution account, rural (% age 15+)",MYS,88.1,,,0,ASEAN
+Malaysia,2022,"Financial institution account, rural (% age 15+)",MYS,..,,,0,ASEAN
+Myanmar,2011,"Financial institution account, rural (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2014,"Financial institution account, rural (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2017,"Financial institution account, rural (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2021,"Financial institution account, rural (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2022,"Financial institution account, rural (% age 15+)",MMR,..,,,0,ASEAN
+Nepal,2011,"Financial institution account, rural (% age 15+)",NPL,..,,,0,South Asia
+Nepal,2014,"Financial institution account, rural (% age 15+)",NPL,..,,,0,South Asia
+Nepal,2017,"Financial institution account, rural (% age 15+)",NPL,..,,,0,South Asia
+Nepal,2021,"Financial institution account, rural (% age 15+)",NPL,50.47,,,0,South Asia
+Nepal,2022,"Financial institution account, rural (% age 15+)",NPL,..,,,0,South Asia
+Pakistan,2011,"Financial institution account, rural (% age 15+)",PAK,..,,,0,South Asia
+Pakistan,2014,"Financial institution account, rural (% age 15+)",PAK,..,,,0,South Asia
+Pakistan,2017,"Financial institution account, rural (% age 15+)",PAK,..,,,0,South Asia
+Pakistan,2021,"Financial institution account, rural (% age 15+)",PAK,11.93,,,0,South Asia
+Pakistan,2022,"Financial institution account, rural (% age 15+)",PAK,..,,,0,South Asia
+Philippines,2011,"Financial institution account, rural (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2014,"Financial institution account, rural (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2017,"Financial institution account, rural (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2021,"Financial institution account, rural (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2022,"Financial institution account, rural (% age 15+)",PHL,..,,,0,ASEAN
+Singapore,2011,"Financial institution account, rural (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2014,"Financial institution account, rural (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2017,"Financial institution account, rural (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2021,"Financial institution account, rural (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2022,"Financial institution account, rural (% age 15+)",SGP,..,,,0,ASEAN
+South Asia,2011,"Financial institution account, rural (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2014,"Financial institution account, rural (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2017,"Financial institution account, rural (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2021,"Financial institution account, rural (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2022,"Financial institution account, rural (% age 15+)",(South Asia),..,,,0,Other
+Southeast Asia,2011,"Financial institution account, rural (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2014,"Financial institution account, rural (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2017,"Financial institution account, rural (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2021,"Financial institution account, rural (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2022,"Financial institution account, rural (% age 15+)",(Southeast Asia),..,,,0,Other
+Sri Lanka,2011,"Financial institution account, rural (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2014,"Financial institution account, rural (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2017,"Financial institution account, rural (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2021,"Financial institution account, rural (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2022,"Financial institution account, rural (% age 15+)",LKA,..,,,0,South Asia
+Thailand,2011,"Financial institution account, rural (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2014,"Financial institution account, rural (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2017,"Financial institution account, rural (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2021,"Financial institution account, rural (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2022,"Financial institution account, rural (% age 15+)",THA,..,,,0,ASEAN
+Vietnam,2011,"Financial institution account, rural (% age 15+)",VNM,..,,,0,Other
+Vietnam,2014,"Financial institution account, rural (% age 15+)",VNM,..,,,0,Other
+Vietnam,2017,"Financial institution account, rural (% age 15+)",VNM,..,,,0,Other
+Vietnam,2021,"Financial institution account, rural (% age 15+)",VNM,..,,,0,Other
+Vietnam,2022,"Financial institution account, rural (% age 15+)",VNM,..,,,0,Other
+World,2011,"Financial institution account, rural (% age 15+)",WLD,..,,,0,Other
+World,2014,"Financial institution account, rural (% age 15+)",WLD,..,,,0,Other
+World,2017,"Financial institution account, rural (% age 15+)",WLD,..,,,0,Other
+World,2021,"Financial institution account, rural (% age 15+)",WLD,..,,,0,Other
+World,2022,"Financial institution account, rural (% age 15+)",WLD,..,,,0,Other
+Bangladesh,2011,"Financial institution account, urban (% age 15+)",BGD,..,,,0,South Asia
+Bangladesh,2014,"Financial institution account, urban (% age 15+)",BGD,..,,,0,South Asia
+Bangladesh,2017,"Financial institution account, urban (% age 15+)",BGD,..,,,0,South Asia
+Bangladesh,2021,"Financial institution account, urban (% age 15+)",BGD,40.08,,,0,South Asia
+Bangladesh,2022,"Financial institution account, urban (% age 15+)",BGD,..,,,0,South Asia
+Bhutan,2011,"Financial institution account, urban (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2014,"Financial institution account, urban (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2017,"Financial institution account, urban (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2021,"Financial institution account, urban (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2022,"Financial institution account, urban (% age 15+)",BTN,..,,,0,South Asia
+Cambodia,2011,"Financial institution account, urban (% age 15+)",KHM,..,,,0,ASEAN
+Cambodia,2014,"Financial institution account, urban (% age 15+)",KHM,..,,,0,ASEAN
+Cambodia,2017,"Financial institution account, urban (% age 15+)",KHM,..,,,0,ASEAN
+Cambodia,2021,"Financial institution account, urban (% age 15+)",KHM,50.54,,,0,ASEAN
+Cambodia,2022,"Financial institution account, urban (% age 15+)",KHM,..,,,0,ASEAN
+India,2011,"Financial institution account, urban (% age 15+)",IND,..,,,0,South Asia
+India,2014,"Financial institution account, urban (% age 15+)",IND,..,,,0,South Asia
+India,2017,"Financial institution account, urban (% age 15+)",IND,..,,,0,South Asia
+India,2021,"Financial institution account, urban (% age 15+)",IND,77.62,,,0,South Asia
+India,2022,"Financial institution account, urban (% age 15+)",IND,..,,,0,South Asia
+Indonesia,2011,"Financial institution account, urban (% age 15+)",IDN,..,,,0,ASEAN
+Indonesia,2014,"Financial institution account, urban (% age 15+)",IDN,..,,,0,ASEAN
+Indonesia,2017,"Financial institution account, urban (% age 15+)",IDN,..,,,0,ASEAN
+Indonesia,2021,"Financial institution account, urban (% age 15+)",IDN,53.04,,,0,ASEAN
+Indonesia,2022,"Financial institution account, urban (% age 15+)",IDN,..,,,0,ASEAN
+Lao PDR,2011,"Financial institution account, urban (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2014,"Financial institution account, urban (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2017,"Financial institution account, urban (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2021,"Financial institution account, urban (% age 15+)",LAO,68.84,,,0,ASEAN
+Lao PDR,2022,"Financial institution account, urban (% age 15+)",LAO,..,,,0,ASEAN
+Malaysia,2011,"Financial institution account, urban (% age 15+)",MYS,..,,,0,ASEAN
+Malaysia,2014,"Financial institution account, urban (% age 15+)",MYS,..,,,0,ASEAN
+Malaysia,2017,"Financial institution account, urban (% age 15+)",MYS,..,,,0,ASEAN
+Malaysia,2021,"Financial institution account, urban (% age 15+)",MYS,88.19,,,0,ASEAN
+Malaysia,2022,"Financial institution account, urban (% age 15+)",MYS,..,,,0,ASEAN
+Myanmar,2011,"Financial institution account, urban (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2014,"Financial institution account, urban (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2017,"Financial institution account, urban (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2021,"Financial institution account, urban (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2022,"Financial institution account, urban (% age 15+)",MMR,..,,,0,ASEAN
+Nepal,2011,"Financial institution account, urban (% age 15+)",NPL,..,,,0,South Asia
+Nepal,2014,"Financial institution account, urban (% age 15+)",NPL,..,,,0,South Asia
+Nepal,2017,"Financial institution account, urban (% age 15+)",NPL,..,,,0,South Asia
+Nepal,2021,"Financial institution account, urban (% age 15+)",NPL,60.06,,,0,South Asia
+Nepal,2022,"Financial institution account, urban (% age 15+)",NPL,..,,,0,South Asia
+Pakistan,2011,"Financial institution account, urban (% age 15+)",PAK,..,,,0,South Asia
+Pakistan,2014,"Financial institution account, urban (% age 15+)",PAK,..,,,0,South Asia
+Pakistan,2017,"Financial institution account, urban (% age 15+)",PAK,..,,,0,South Asia
+Pakistan,2021,"Financial institution account, urban (% age 15+)",PAK,19.13,,,0,South Asia
+Pakistan,2022,"Financial institution account, urban (% age 15+)",PAK,..,,,0,South Asia
+Philippines,2011,"Financial institution account, urban (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2014,"Financial institution account, urban (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2017,"Financial institution account, urban (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2021,"Financial institution account, urban (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2022,"Financial institution account, urban (% age 15+)",PHL,..,,,0,ASEAN
+Singapore,2011,"Financial institution account, urban (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2014,"Financial institution account, urban (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2017,"Financial institution account, urban (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2021,"Financial institution account, urban (% age 15+)",SGP,97.19,,,0,ASEAN
+Singapore,2022,"Financial institution account, urban (% age 15+)",SGP,..,,,0,ASEAN
+South Asia,2011,"Financial institution account, urban (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2014,"Financial institution account, urban (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2017,"Financial institution account, urban (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2021,"Financial institution account, urban (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2022,"Financial institution account, urban (% age 15+)",(South Asia),..,,,0,Other
+Southeast Asia,2011,"Financial institution account, urban (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2014,"Financial institution account, urban (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2017,"Financial institution account, urban (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2021,"Financial institution account, urban (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2022,"Financial institution account, urban (% age 15+)",(Southeast Asia),..,,,0,Other
+Sri Lanka,2011,"Financial institution account, urban (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2014,"Financial institution account, urban (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2017,"Financial institution account, urban (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2021,"Financial institution account, urban (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2022,"Financial institution account, urban (% age 15+)",LKA,..,,,0,South Asia
+Thailand,2011,"Financial institution account, urban (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2014,"Financial institution account, urban (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2017,"Financial institution account, urban (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2021,"Financial institution account, urban (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2022,"Financial institution account, urban (% age 15+)",THA,..,,,0,ASEAN
+Vietnam,2011,"Financial institution account, urban (% age 15+)",VNM,..,,,0,Other
+Vietnam,2014,"Financial institution account, urban (% age 15+)",VNM,..,,,0,Other
+Vietnam,2017,"Financial institution account, urban (% age 15+)",VNM,..,,,0,Other
+Vietnam,2021,"Financial institution account, urban (% age 15+)",VNM,..,,,0,Other
+Vietnam,2022,"Financial institution account, urban (% age 15+)",VNM,..,,,0,Other
+World,2011,"Financial institution account, urban (% age 15+)",WLD,..,,,0,Other
+World,2014,"Financial institution account, urban (% age 15+)",WLD,..,,,0,Other
+World,2017,"Financial institution account, urban (% age 15+)",WLD,..,,,0,Other
+World,2021,"Financial institution account, urban (% age 15+)",WLD,..,,,0,Other
+World,2022,"Financial institution account, urban (% age 15+)",WLD,..,,,0,Other
+Bangladesh,2011,Mobile money account (% age 15+),BGD,..,,,0,South Asia
+Bangladesh,2014,Mobile money account (% age 15+),BGD,2.69,,,0,South Asia
+Bangladesh,2017,Mobile money account (% age 15+),BGD,21.25,,,0,South Asia
+Bangladesh,2021,Mobile money account (% age 15+),BGD,29.01,,,0,South Asia
+Bangladesh,2022,Mobile money account (% age 15+),BGD,..,,,0,South Asia
+Bhutan,2011,Mobile money account (% age 15+),BTN,..,,,0,South Asia
+Bhutan,2014,Mobile money account (% age 15+),BTN,..,,,0,South Asia
+Bhutan,2017,Mobile money account (% age 15+),BTN,..,,,0,South Asia
+Bhutan,2021,Mobile money account (% age 15+),BTN,..,,,0,South Asia
+Bhutan,2022,Mobile money account (% age 15+),BTN,..,,,0,South Asia
+Cambodia,2011,Mobile money account (% age 15+),KHM,..,,,0,ASEAN
+Cambodia,2014,Mobile money account (% age 15+),KHM,13.29,,,0,ASEAN
+Cambodia,2017,Mobile money account (% age 15+),KHM,5.66,,,0,ASEAN
+Cambodia,2021,Mobile money account (% age 15+),KHM,6.6,,,0,ASEAN
+Cambodia,2022,Mobile money account (% age 15+),KHM,..,,,0,ASEAN
+India,2011,Mobile money account (% age 15+),IND,..,,,0,South Asia
+India,2014,Mobile money account (% age 15+),IND,2.35,,,0,South Asia
+India,2017,Mobile money account (% age 15+),IND,1.99,,,0,South Asia
+India,2021,Mobile money account (% age 15+),IND,10.44,,,0,South Asia
+India,2022,Mobile money account (% age 15+),IND,..,,,0,South Asia
+Indonesia,2011,Mobile money account (% age 15+),IDN,..,,,0,ASEAN
+Indonesia,2014,Mobile money account (% age 15+),IDN,0.45,,,0,ASEAN
+Indonesia,2017,Mobile money account (% age 15+),IDN,3.12,,,0,ASEAN
+Indonesia,2021,Mobile money account (% age 15+),IDN,9.29,,,0,ASEAN
+Indonesia,2022,Mobile money account (% age 15+),IDN,..,,,0,ASEAN
+Lao PDR,2011,Mobile money account (% age 15+),LAO,..,,,0,ASEAN
+Lao PDR,2014,Mobile money account (% age 15+),LAO,..,,,0,ASEAN
+Lao PDR,2017,Mobile money account (% age 15+),LAO,..,,,0,ASEAN
+Lao PDR,2021,Mobile money account (% age 15+),LAO,5.48,,,0,ASEAN
+Lao PDR,2022,Mobile money account (% age 15+),LAO,..,,,0,ASEAN
+Malaysia,2011,Mobile money account (% age 15+),MYS,..,,,0,ASEAN
+Malaysia,2014,Mobile money account (% age 15+),MYS,2.83,,,0,ASEAN
+Malaysia,2017,Mobile money account (% age 15+),MYS,10.88,,,0,ASEAN
+Malaysia,2021,Mobile money account (% age 15+),MYS,27.98,,,0,ASEAN
+Malaysia,2022,Mobile money account (% age 15+),MYS,..,,,0,ASEAN
+Myanmar,2011,Mobile money account (% age 15+),MMR,..,,,0,ASEAN
+Myanmar,2014,Mobile money account (% age 15+),MMR,0.16,,,0,ASEAN
+Myanmar,2017,Mobile money account (% age 15+),MMR,0.69,,,0,ASEAN
+Myanmar,2021,Mobile money account (% age 15+),MMR,29.03,,,0,ASEAN
+Myanmar,2022,Mobile money account (% age 15+),MMR,..,,,0,ASEAN
+Nepal,2011,Mobile money account (% age 15+),NPL,..,,,0,South Asia
+Nepal,2014,Mobile money account (% age 15+),NPL,0.34,,,0,South Asia
+Nepal,2017,Mobile money account (% age 15+),NPL,..,,,0,South Asia
+Nepal,2021,Mobile money account (% age 15+),NPL,6.09,,,0,South Asia
+Nepal,2022,Mobile money account (% age 15+),NPL,..,,,0,South Asia
+Pakistan,2011,Mobile money account (% age 15+),PAK,..,,,0,South Asia
+Pakistan,2014,Mobile money account (% age 15+),PAK,5.8,,,0,South Asia
+Pakistan,2017,Mobile money account (% age 15+),PAK,6.89,,,0,South Asia
+Pakistan,2021,Mobile money account (% age 15+),PAK,8.54,,,0,South Asia
+Pakistan,2022,Mobile money account (% age 15+),PAK,..,,,0,South Asia
+Philippines,2011,Mobile money account (% age 15+),PHL,..,,,0,ASEAN
+Philippines,2014,Mobile money account (% age 15+),PHL,4.23,,,0,ASEAN
+Philippines,2017,Mobile money account (% age 15+),PHL,4.52,,,0,ASEAN
+Philippines,2021,Mobile money account (% age 15+),PHL,21.74,,,0,ASEAN
+Philippines,2022,Mobile money account (% age 15+),PHL,..,,,0,ASEAN
+Singapore,2011,Mobile money account (% age 15+),SGP,..,,,0,ASEAN
+Singapore,2014,Mobile money account (% age 15+),SGP,6.15,,,0,ASEAN
+Singapore,2017,Mobile money account (% age 15+),SGP,9.55,,,0,ASEAN
+Singapore,2021,Mobile money account (% age 15+),SGP,30.6,,,0,ASEAN
+Singapore,2022,Mobile money account (% age 15+),SGP,..,,,0,ASEAN
+South Asia,2011,Mobile money account (% age 15+),(South Asia),..,,,0,Other
+South Asia,2014,Mobile money account (% age 15+),(South Asia),..,,,0,Other
+South Asia,2017,Mobile money account (% age 15+),(South Asia),..,,,0,Other
+South Asia,2021,Mobile money account (% age 15+),(South Asia),..,,,0,Other
+South Asia,2022,Mobile money account (% age 15+),(South Asia),..,,,0,Other
+Southeast Asia,2011,Mobile money account (% age 15+),(Southeast Asia),..,,,0,Other
+Southeast Asia,2014,Mobile money account (% age 15+),(Southeast Asia),..,,,0,Other
+Southeast Asia,2017,Mobile money account (% age 15+),(Southeast Asia),..,,,0,Other
+Southeast Asia,2021,Mobile money account (% age 15+),(Southeast Asia),..,,,0,Other
+Southeast Asia,2022,Mobile money account (% age 15+),(Southeast Asia),..,,,0,Other
+Sri Lanka,2011,Mobile money account (% age 15+),LKA,..,,,0,South Asia
+Sri Lanka,2014,Mobile money account (% age 15+),LKA,0.08,,,0,South Asia
+Sri Lanka,2017,Mobile money account (% age 15+),LKA,2.42,,,0,South Asia
+Sri Lanka,2021,Mobile money account (% age 15+),LKA,3.13,,,0,South Asia
+Sri Lanka,2022,Mobile money account (% age 15+),LKA,..,,,0,South Asia
+Thailand,2011,Mobile money account (% age 15+),THA,..,,,0,ASEAN
+Thailand,2014,Mobile money account (% age 15+),THA,1.3,,,0,ASEAN
+Thailand,2017,Mobile money account (% age 15+),THA,8.26,,,0,ASEAN
+Thailand,2021,Mobile money account (% age 15+),THA,60,,,0,ASEAN
+Thailand,2022,Mobile money account (% age 15+),THA,..,,,0,ASEAN
+Vietnam,2011,Mobile money account (% age 15+),VNM,..,,,0,Other
+Vietnam,2014,Mobile money account (% age 15+),VNM,0.5,,,0,Other
+Vietnam,2017,Mobile money account (% age 15+),VNM,3.5,,,0,Other
+Vietnam,2021,Mobile money account (% age 15+),VNM,..,,,0,Other
+Vietnam,2022,Mobile money account (% age 15+),VNM,16.47,,,0,Other
+World,2011,Mobile money account (% age 15+),WLD,..,,,0,Other
+World,2014,Mobile money account (% age 15+),WLD,2.06,,,0,Other
+World,2017,Mobile money account (% age 15+),WLD,4.35,,,0,Other
+World,2021,Mobile money account (% age 15+),WLD,10.24,,,0,Other
+World,2022,Mobile money account (% age 15+),WLD,..,,,0,Other
+Bangladesh,2011,"Mobile money account, female (% age 15+)",BGD,..,,,0,South Asia
+Bangladesh,2014,"Mobile money account, female (% age 15+)",BGD,2.12,,,0,South Asia
+Bangladesh,2017,"Mobile money account, female (% age 15+)",BGD,10.27,,,0,South Asia
+Bangladesh,2021,"Mobile money account, female (% age 15+)",BGD,20.28,,,0,South Asia
+Bangladesh,2022,"Mobile money account, female (% age 15+)",BGD,..,,,0,South Asia
+Bhutan,2011,"Mobile money account, female (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2014,"Mobile money account, female (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2017,"Mobile money account, female (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2021,"Mobile money account, female (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2022,"Mobile money account, female (% age 15+)",BTN,..,,,0,South Asia
+Cambodia,2011,"Mobile money account, female (% age 15+)",KHM,..,,,0,ASEAN
+Cambodia,2014,"Mobile money account, female (% age 15+)",KHM,12.8,,,0,ASEAN
+Cambodia,2017,"Mobile money account, female (% age 15+)",KHM,5.34,,,0,ASEAN
+Cambodia,2021,"Mobile money account, female (% age 15+)",KHM,5.16,,,0,ASEAN
+Cambodia,2022,"Mobile money account, female (% age 15+)",KHM,..,,,0,ASEAN
+India,2011,"Mobile money account, female (% age 15+)",IND,..,,,0,South Asia
+India,2014,"Mobile money account, female (% age 15+)",IND,1.17,,,0,South Asia
+India,2017,"Mobile money account, female (% age 15+)",IND,0.86,,,0,South Asia
+India,2021,"Mobile money account, female (% age 15+)",IND,5.12,,,0,South Asia
+India,2022,"Mobile money account, female (% age 15+)",IND,..,,,0,South Asia
+Indonesia,2011,"Mobile money account, female (% age 15+)",IDN,..,,,0,ASEAN
+Indonesia,2014,"Mobile money account, female (% age 15+)",IDN,0.66,,,0,ASEAN
+Indonesia,2017,"Mobile money account, female (% age 15+)",IDN,2.73,,,0,ASEAN
+Indonesia,2021,"Mobile money account, female (% age 15+)",IDN,9.91,,,0,ASEAN
+Indonesia,2022,"Mobile money account, female (% age 15+)",IDN,..,,,0,ASEAN
+Lao PDR,2011,"Mobile money account, female (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2014,"Mobile money account, female (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2017,"Mobile money account, female (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2021,"Mobile money account, female (% age 15+)",LAO,4.32,,,0,ASEAN
+Lao PDR,2022,"Mobile money account, female (% age 15+)",LAO,..,,,0,ASEAN
+Malaysia,2011,"Mobile money account, female (% age 15+)",MYS,..,,,0,ASEAN
+Malaysia,2014,"Mobile money account, female (% age 15+)",MYS,2.55,,,0,ASEAN
+Malaysia,2017,"Mobile money account, female (% age 15+)",MYS,8.74,,,0,ASEAN
+Malaysia,2021,"Mobile money account, female (% age 15+)",MYS,29,,,0,ASEAN
+Malaysia,2022,"Mobile money account, female (% age 15+)",MYS,..,,,0,ASEAN
+Myanmar,2011,"Mobile money account, female (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2014,"Mobile money account, female (% age 15+)",MMR,0.32,,,0,ASEAN
+Myanmar,2017,"Mobile money account, female (% age 15+)",MMR,0.51,,,0,ASEAN
+Myanmar,2021,"Mobile money account, female (% age 15+)",MMR,27.46,,,0,ASEAN
+Myanmar,2022,"Mobile money account, female (% age 15+)",MMR,..,,,0,ASEAN
+Nepal,2011,"Mobile money account, female (% age 15+)",NPL,..,,,0,South Asia
+Nepal,2014,"Mobile money account, female (% age 15+)",NPL,0.28,,,0,South Asia
+Nepal,2017,"Mobile money account, female (% age 15+)",NPL,..,,,0,South Asia
+Nepal,2021,"Mobile money account, female (% age 15+)",NPL,3.69,,,0,South Asia
+Nepal,2022,"Mobile money account, female (% age 15+)",NPL,..,,,0,South Asia
+Pakistan,2011,"Mobile money account, female (% age 15+)",PAK,..,,,0,South Asia
+Pakistan,2014,"Mobile money account, female (% age 15+)",PAK,2.17,,,0,South Asia
+Pakistan,2017,"Mobile money account, female (% age 15+)",PAK,0.79,,,0,South Asia
+Pakistan,2021,"Mobile money account, female (% age 15+)",PAK,2.98,,,0,South Asia
+Pakistan,2022,"Mobile money account, female (% age 15+)",PAK,..,,,0,South Asia
+Philippines,2011,"Mobile money account, female (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2014,"Mobile money account, female (% age 15+)",PHL,4.92,,,0,ASEAN
+Philippines,2017,"Mobile money account, female (% age 15+)",PHL,4.33,,,0,ASEAN
+Philippines,2021,"Mobile money account, female (% age 15+)",PHL,18.91,,,0,ASEAN
+Philippines,2022,"Mobile money account, female (% age 15+)",PHL,..,,,0,ASEAN
+Singapore,2011,"Mobile money account, female (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2014,"Mobile money account, female (% age 15+)",SGP,5.19,,,0,ASEAN
+Singapore,2017,"Mobile money account, female (% age 15+)",SGP,7.86,,,0,ASEAN
+Singapore,2021,"Mobile money account, female (% age 15+)",SGP,27.07,,,0,ASEAN
+Singapore,2022,"Mobile money account, female (% age 15+)",SGP,..,,,0,ASEAN
+South Asia,2011,"Mobile money account, female (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2014,"Mobile money account, female (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2017,"Mobile money account, female (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2021,"Mobile money account, female (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2022,"Mobile money account, female (% age 15+)",(South Asia),..,,,0,Other
+Southeast Asia,2011,"Mobile money account, female (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2014,"Mobile money account, female (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2017,"Mobile money account, female (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2021,"Mobile money account, female (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2022,"Mobile money account, female (% age 15+)",(Southeast Asia),..,,,0,Other
+Sri Lanka,2011,"Mobile money account, female (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2014,"Mobile money account, female (% age 15+)",LKA,0.05,,,0,South Asia
+Sri Lanka,2017,"Mobile money account, female (% age 15+)",LKA,0.96,,,0,South Asia
+Sri Lanka,2021,"Mobile money account, female (% age 15+)",LKA,1.83,,,0,South Asia
+Sri Lanka,2022,"Mobile money account, female (% age 15+)",LKA,..,,,0,South Asia
+Thailand,2011,"Mobile money account, female (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2014,"Mobile money account, female (% age 15+)",THA,1.73,,,0,ASEAN
+Thailand,2017,"Mobile money account, female (% age 15+)",THA,5.63,,,0,ASEAN
+Thailand,2021,"Mobile money account, female (% age 15+)",THA,56.61,,,0,ASEAN
+Thailand,2022,"Mobile money account, female (% age 15+)",THA,..,,,0,ASEAN
+Vietnam,2011,"Mobile money account, female (% age 15+)",VNM,..,,,0,Other
+Vietnam,2014,"Mobile money account, female (% age 15+)",VNM,0.52,,,0,Other
+Vietnam,2017,"Mobile money account, female (% age 15+)",VNM,3.63,,,0,Other
+Vietnam,2021,"Mobile money account, female (% age 15+)",VNM,..,,,0,Other
+Vietnam,2022,"Mobile money account, female (% age 15+)",VNM,14.74,,,0,Other
+World,2011,"Mobile money account, female (% age 15+)",WLD,..,,,0,Other
+World,2014,"Mobile money account, female (% age 15+)",WLD,1.6,,,0,Other
+World,2017,"Mobile money account, female (% age 15+)",WLD,3.29,,,0,Other
+World,2021,"Mobile money account, female (% age 15+)",WLD,8.35,,,0,Other
+World,2022,"Mobile money account, female (% age 15+)",WLD,..,,,0,Other
+Bangladesh,2011,"Mobile money account, male (% age 15+)",BGD,..,,,0,South Asia
+Bangladesh,2014,"Mobile money account, male (% age 15+)",BGD,3.24,,,0,South Asia
+Bangladesh,2017,"Mobile money account, male (% age 15+)",BGD,32.47,,,0,South Asia
+Bangladesh,2021,"Mobile money account, male (% age 15+)",BGD,38.39,,,0,South Asia
+Bangladesh,2022,"Mobile money account, male (% age 15+)",BGD,..,,,0,South Asia
+Bhutan,2011,"Mobile money account, male (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2014,"Mobile money account, male (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2017,"Mobile money account, male (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2021,"Mobile money account, male (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2022,"Mobile money account, male (% age 15+)",BTN,..,,,0,South Asia
+Cambodia,2011,"Mobile money account, male (% age 15+)",KHM,..,,,0,ASEAN
+Cambodia,2014,"Mobile money account, male (% age 15+)",KHM,13.92,,,0,ASEAN
+Cambodia,2017,"Mobile money account, male (% age 15+)",KHM,6.04,,,0,ASEAN
+Cambodia,2021,"Mobile money account, male (% age 15+)",KHM,8.28,,,0,ASEAN
+Cambodia,2022,"Mobile money account, male (% age 15+)",KHM,..,,,0,ASEAN
+India,2011,"Mobile money account, male (% age 15+)",IND,..,,,0,South Asia
+India,2014,"Mobile money account, male (% age 15+)",IND,3.49,,,0,South Asia
+India,2017,"Mobile money account, male (% age 15+)",IND,3.1,,,0,South Asia
+India,2021,"Mobile money account, male (% age 15+)",IND,15.41,,,0,South Asia
+India,2022,"Mobile money account, male (% age 15+)",IND,..,,,0,South Asia
+Indonesia,2011,"Mobile money account, male (% age 15+)",IDN,..,,,0,ASEAN
+Indonesia,2014,"Mobile money account, male (% age 15+)",IDN,0.23,,,0,ASEAN
+Indonesia,2017,"Mobile money account, male (% age 15+)",IDN,3.53,,,0,ASEAN
+Indonesia,2021,"Mobile money account, male (% age 15+)",IDN,8.65,,,0,ASEAN
+Indonesia,2022,"Mobile money account, male (% age 15+)",IDN,..,,,0,ASEAN
+Lao PDR,2011,"Mobile money account, male (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2014,"Mobile money account, male (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2017,"Mobile money account, male (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2021,"Mobile money account, male (% age 15+)",LAO,6.71,,,0,ASEAN
+Lao PDR,2022,"Mobile money account, male (% age 15+)",LAO,..,,,0,ASEAN
+Malaysia,2011,"Mobile money account, male (% age 15+)",MYS,..,,,0,ASEAN
+Malaysia,2014,"Mobile money account, male (% age 15+)",MYS,3.08,,,0,ASEAN
+Malaysia,2017,"Mobile money account, male (% age 15+)",MYS,12.79,,,0,ASEAN
+Malaysia,2021,"Mobile money account, male (% age 15+)",MYS,26.96,,,0,ASEAN
+Malaysia,2022,"Mobile money account, male (% age 15+)",MYS,..,,,0,ASEAN
+Myanmar,2011,"Mobile money account, male (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2014,"Mobile money account, male (% age 15+)",MMR,0,,,0,ASEAN
+Myanmar,2017,"Mobile money account, male (% age 15+)",MMR,0.89,,,0,ASEAN
+Myanmar,2021,"Mobile money account, male (% age 15+)",MMR,30.68,,,0,ASEAN
+Myanmar,2022,"Mobile money account, male (% age 15+)",MMR,..,,,0,ASEAN
+Nepal,2011,"Mobile money account, male (% age 15+)",NPL,..,,,0,South Asia
+Nepal,2014,"Mobile money account, male (% age 15+)",NPL,0.4,,,0,South Asia
+Nepal,2017,"Mobile money account, male (% age 15+)",NPL,..,,,0,South Asia
+Nepal,2021,"Mobile money account, male (% age 15+)",NPL,8.8,,,0,South Asia
+Nepal,2022,"Mobile money account, male (% age 15+)",NPL,..,,,0,South Asia
+Pakistan,2011,"Mobile money account, male (% age 15+)",PAK,..,,,0,South Asia
+Pakistan,2014,"Mobile money account, male (% age 15+)",PAK,9.32,,,0,South Asia
+Pakistan,2017,"Mobile money account, male (% age 15+)",PAK,12.57,,,0,South Asia
+Pakistan,2021,"Mobile money account, male (% age 15+)",PAK,13.87,,,0,South Asia
+Pakistan,2022,"Mobile money account, male (% age 15+)",PAK,..,,,0,South Asia
+Philippines,2011,"Mobile money account, male (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2014,"Mobile money account, male (% age 15+)",PHL,3.49,,,0,ASEAN
+Philippines,2017,"Mobile money account, male (% age 15+)",PHL,4.72,,,0,ASEAN
+Philippines,2021,"Mobile money account, male (% age 15+)",PHL,24.76,,,0,ASEAN
+Philippines,2022,"Mobile money account, male (% age 15+)",PHL,..,,,0,ASEAN
+Singapore,2011,"Mobile money account, male (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2014,"Mobile money account, male (% age 15+)",SGP,7.14,,,0,ASEAN
+Singapore,2017,"Mobile money account, male (% age 15+)",SGP,11.38,,,0,ASEAN
+Singapore,2021,"Mobile money account, male (% age 15+)",SGP,34.37,,,0,ASEAN
+Singapore,2022,"Mobile money account, male (% age 15+)",SGP,..,,,0,ASEAN
+South Asia,2011,"Mobile money account, male (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2014,"Mobile money account, male (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2017,"Mobile money account, male (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2021,"Mobile money account, male (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2022,"Mobile money account, male (% age 15+)",(South Asia),..,,,0,Other
+Southeast Asia,2011,"Mobile money account, male (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2014,"Mobile money account, male (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2017,"Mobile money account, male (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2021,"Mobile money account, male (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2022,"Mobile money account, male (% age 15+)",(Southeast Asia),..,,,0,Other
+Sri Lanka,2011,"Mobile money account, male (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2014,"Mobile money account, male (% age 15+)",LKA,0.11,,,0,South Asia
+Sri Lanka,2017,"Mobile money account, male (% age 15+)",LKA,4.15,,,0,South Asia
+Sri Lanka,2021,"Mobile money account, male (% age 15+)",LKA,4.53,,,0,South Asia
+Sri Lanka,2022,"Mobile money account, male (% age 15+)",LKA,..,,,0,South Asia
+Thailand,2011,"Mobile money account, male (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2014,"Mobile money account, male (% age 15+)",THA,0.81,,,0,ASEAN
+Thailand,2017,"Mobile money account, male (% age 15+)",THA,11.29,,,0,ASEAN
+Thailand,2021,"Mobile money account, male (% age 15+)",THA,63.57,,,0,ASEAN
+Thailand,2022,"Mobile money account, male (% age 15+)",THA,..,,,0,ASEAN
+Vietnam,2011,"Mobile money account, male (% age 15+)",VNM,..,,,0,Other
+Vietnam,2014,"Mobile money account, male (% age 15+)",VNM,0.48,,,0,Other
+Vietnam,2017,"Mobile money account, male (% age 15+)",VNM,3.36,,,0,Other
+Vietnam,2021,"Mobile money account, male (% age 15+)",VNM,..,,,0,Other
+Vietnam,2022,"Mobile money account, male (% age 15+)",VNM,18.29,,,0,Other
+World,2011,"Mobile money account, male (% age 15+)",WLD,..,,,0,Other
+World,2014,"Mobile money account, male (% age 15+)",WLD,2.53,,,0,Other
+World,2017,"Mobile money account, male (% age 15+)",WLD,5.43,,,0,Other
+World,2021,"Mobile money account, male (% age 15+)",WLD,12.09,,,0,Other
+World,2022,"Mobile money account, male (% age 15+)",WLD,..,,,0,Other
+Bangladesh,2011,"Mobile money account, rural (% age 15+)",BGD,..,,,0,South Asia
+Bangladesh,2014,"Mobile money account, rural (% age 15+)",BGD,..,,,0,South Asia
+Bangladesh,2017,"Mobile money account, rural (% age 15+)",BGD,..,,,0,South Asia
+Bangladesh,2021,"Mobile money account, rural (% age 15+)",BGD,34.06,,,0,South Asia
+Bangladesh,2022,"Mobile money account, rural (% age 15+)",BGD,..,,,0,South Asia
+Bhutan,2011,"Mobile money account, rural (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2014,"Mobile money account, rural (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2017,"Mobile money account, rural (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2021,"Mobile money account, rural (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2022,"Mobile money account, rural (% age 15+)",BTN,..,,,0,South Asia
+Cambodia,2011,"Mobile money account, rural (% age 15+)",KHM,..,,,0,ASEAN
+Cambodia,2014,"Mobile money account, rural (% age 15+)",KHM,..,,,0,ASEAN
+Cambodia,2017,"Mobile money account, rural (% age 15+)",KHM,..,,,0,ASEAN
+Cambodia,2021,"Mobile money account, rural (% age 15+)",KHM,4.31,,,0,ASEAN
+Cambodia,2022,"Mobile money account, rural (% age 15+)",KHM,..,,,0,ASEAN
+India,2011,"Mobile money account, rural (% age 15+)",IND,..,,,0,South Asia
+India,2014,"Mobile money account, rural (% age 15+)",IND,..,,,0,South Asia
+India,2017,"Mobile money account, rural (% age 15+)",IND,..,,,0,South Asia
+India,2021,"Mobile money account, rural (% age 15+)",IND,7.2,,,0,South Asia
+India,2022,"Mobile money account, rural (% age 15+)",IND,..,,,0,South Asia
+Indonesia,2011,"Mobile money account, rural (% age 15+)",IDN,..,,,0,ASEAN
+Indonesia,2014,"Mobile money account, rural (% age 15+)",IDN,..,,,0,ASEAN
+Indonesia,2017,"Mobile money account, rural (% age 15+)",IDN,..,,,0,ASEAN
+Indonesia,2021,"Mobile money account, rural (% age 15+)",IDN,4.44,,,0,ASEAN
+Indonesia,2022,"Mobile money account, rural (% age 15+)",IDN,..,,,0,ASEAN
+Lao PDR,2011,"Mobile money account, rural (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2014,"Mobile money account, rural (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2017,"Mobile money account, rural (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2021,"Mobile money account, rural (% age 15+)",LAO,3.62,,,0,ASEAN
+Lao PDR,2022,"Mobile money account, rural (% age 15+)",LAO,..,,,0,ASEAN
+Malaysia,2011,"Mobile money account, rural (% age 15+)",MYS,..,,,0,ASEAN
+Malaysia,2014,"Mobile money account, rural (% age 15+)",MYS,..,,,0,ASEAN
+Malaysia,2017,"Mobile money account, rural (% age 15+)",MYS,..,,,0,ASEAN
+Malaysia,2021,"Mobile money account, rural (% age 15+)",MYS,19.88,,,0,ASEAN
+Malaysia,2022,"Mobile money account, rural (% age 15+)",MYS,..,,,0,ASEAN
+Myanmar,2011,"Mobile money account, rural (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2014,"Mobile money account, rural (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2017,"Mobile money account, rural (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2021,"Mobile money account, rural (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2022,"Mobile money account, rural (% age 15+)",MMR,..,,,0,ASEAN
+Nepal,2011,"Mobile money account, rural (% age 15+)",NPL,..,,,0,South Asia
+Nepal,2014,"Mobile money account, rural (% age 15+)",NPL,..,,,0,South Asia
+Nepal,2017,"Mobile money account, rural (% age 15+)",NPL,..,,,0,South Asia
+Nepal,2021,"Mobile money account, rural (% age 15+)",NPL,5,,,0,South Asia
+Nepal,2022,"Mobile money account, rural (% age 15+)",NPL,..,,,0,South Asia
+Pakistan,2011,"Mobile money account, rural (% age 15+)",PAK,..,,,0,South Asia
+Pakistan,2014,"Mobile money account, rural (% age 15+)",PAK,..,,,0,South Asia
+Pakistan,2017,"Mobile money account, rural (% age 15+)",PAK,..,,,0,South Asia
+Pakistan,2021,"Mobile money account, rural (% age 15+)",PAK,6.06,,,0,South Asia
+Pakistan,2022,"Mobile money account, rural (% age 15+)",PAK,..,,,0,South Asia
+Philippines,2011,"Mobile money account, rural (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2014,"Mobile money account, rural (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2017,"Mobile money account, rural (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2021,"Mobile money account, rural (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2022,"Mobile money account, rural (% age 15+)",PHL,..,,,0,ASEAN
+Singapore,2011,"Mobile money account, rural (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2014,"Mobile money account, rural (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2017,"Mobile money account, rural (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2021,"Mobile money account, rural (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2022,"Mobile money account, rural (% age 15+)",SGP,..,,,0,ASEAN
+South Asia,2011,"Mobile money account, rural (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2014,"Mobile money account, rural (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2017,"Mobile money account, rural (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2021,"Mobile money account, rural (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2022,"Mobile money account, rural (% age 15+)",(South Asia),..,,,0,Other
+Southeast Asia,2011,"Mobile money account, rural (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2014,"Mobile money account, rural (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2017,"Mobile money account, rural (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2021,"Mobile money account, rural (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2022,"Mobile money account, rural (% age 15+)",(Southeast Asia),..,,,0,Other
+Sri Lanka,2011,"Mobile money account, rural (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2014,"Mobile money account, rural (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2017,"Mobile money account, rural (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2021,"Mobile money account, rural (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2022,"Mobile money account, rural (% age 15+)",LKA,..,,,0,South Asia
+Thailand,2011,"Mobile money account, rural (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2014,"Mobile money account, rural (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2017,"Mobile money account, rural (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2021,"Mobile money account, rural (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2022,"Mobile money account, rural (% age 15+)",THA,..,,,0,ASEAN
+Vietnam,2011,"Mobile money account, rural (% age 15+)",VNM,..,,,0,Other
+Vietnam,2014,"Mobile money account, rural (% age 15+)",VNM,..,,,0,Other
+Vietnam,2017,"Mobile money account, rural (% age 15+)",VNM,..,,,0,Other
+Vietnam,2021,"Mobile money account, rural (% age 15+)",VNM,..,,,0,Other
+Vietnam,2022,"Mobile money account, rural (% age 15+)",VNM,..,,,0,Other
+World,2011,"Mobile money account, rural (% age 15+)",WLD,..,,,0,Other
+World,2014,"Mobile money account, rural (% age 15+)",WLD,..,,,0,Other
+World,2017,"Mobile money account, rural (% age 15+)",WLD,..,,,0,Other
+World,2021,"Mobile money account, rural (% age 15+)",WLD,..,,,0,Other
+World,2022,"Mobile money account, rural (% age 15+)",WLD,..,,,0,Other
+Bangladesh,2011,"Mobile money account, urban (% age 15+)",BGD,..,,,0,South Asia
+Bangladesh,2014,"Mobile money account, urban (% age 15+)",BGD,..,,,0,South Asia
+Bangladesh,2017,"Mobile money account, urban (% age 15+)",BGD,..,,,0,South Asia
+Bangladesh,2021,"Mobile money account, urban (% age 15+)",BGD,27.41,,,0,South Asia
+Bangladesh,2022,"Mobile money account, urban (% age 15+)",BGD,..,,,0,South Asia
+Bhutan,2011,"Mobile money account, urban (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2014,"Mobile money account, urban (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2017,"Mobile money account, urban (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2021,"Mobile money account, urban (% age 15+)",BTN,..,,,0,South Asia
+Bhutan,2022,"Mobile money account, urban (% age 15+)",BTN,..,,,0,South Asia
+Cambodia,2011,"Mobile money account, urban (% age 15+)",KHM,..,,,0,ASEAN
+Cambodia,2014,"Mobile money account, urban (% age 15+)",KHM,..,,,0,ASEAN
+Cambodia,2017,"Mobile money account, urban (% age 15+)",KHM,..,,,0,ASEAN
+Cambodia,2021,"Mobile money account, urban (% age 15+)",KHM,14.31,,,0,ASEAN
+Cambodia,2022,"Mobile money account, urban (% age 15+)",KHM,..,,,0,ASEAN
+India,2011,"Mobile money account, urban (% age 15+)",IND,..,,,0,South Asia
+India,2014,"Mobile money account, urban (% age 15+)",IND,..,,,0,South Asia
+India,2017,"Mobile money account, urban (% age 15+)",IND,..,,,0,South Asia
+India,2021,"Mobile money account, urban (% age 15+)",IND,14.17,,,0,South Asia
+India,2022,"Mobile money account, urban (% age 15+)",IND,..,,,0,South Asia
+Indonesia,2011,"Mobile money account, urban (% age 15+)",IDN,..,,,0,ASEAN
+Indonesia,2014,"Mobile money account, urban (% age 15+)",IDN,..,,,0,ASEAN
+Indonesia,2017,"Mobile money account, urban (% age 15+)",IDN,..,,,0,ASEAN
+Indonesia,2021,"Mobile money account, urban (% age 15+)",IDN,11.62,,,0,ASEAN
+Indonesia,2022,"Mobile money account, urban (% age 15+)",IDN,..,,,0,ASEAN
+Lao PDR,2011,"Mobile money account, urban (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2014,"Mobile money account, urban (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2017,"Mobile money account, urban (% age 15+)",LAO,..,,,0,ASEAN
+Lao PDR,2021,"Mobile money account, urban (% age 15+)",LAO,13.59,,,0,ASEAN
+Lao PDR,2022,"Mobile money account, urban (% age 15+)",LAO,..,,,0,ASEAN
+Malaysia,2011,"Mobile money account, urban (% age 15+)",MYS,..,,,0,ASEAN
+Malaysia,2014,"Mobile money account, urban (% age 15+)",MYS,..,,,0,ASEAN
+Malaysia,2017,"Mobile money account, urban (% age 15+)",MYS,..,,,0,ASEAN
+Malaysia,2021,"Mobile money account, urban (% age 15+)",MYS,30.4,,,0,ASEAN
+Malaysia,2022,"Mobile money account, urban (% age 15+)",MYS,..,,,0,ASEAN
+Myanmar,2011,"Mobile money account, urban (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2014,"Mobile money account, urban (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2017,"Mobile money account, urban (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2021,"Mobile money account, urban (% age 15+)",MMR,..,,,0,ASEAN
+Myanmar,2022,"Mobile money account, urban (% age 15+)",MMR,..,,,0,ASEAN
+Nepal,2011,"Mobile money account, urban (% age 15+)",NPL,..,,,0,South Asia
+Nepal,2014,"Mobile money account, urban (% age 15+)",NPL,..,,,0,South Asia
+Nepal,2017,"Mobile money account, urban (% age 15+)",NPL,..,,,0,South Asia
+Nepal,2021,"Mobile money account, urban (% age 15+)",NPL,9.5,,,0,South Asia
+Nepal,2022,"Mobile money account, urban (% age 15+)",NPL,..,,,0,South Asia
+Pakistan,2011,"Mobile money account, urban (% age 15+)",PAK,..,,,0,South Asia
+Pakistan,2014,"Mobile money account, urban (% age 15+)",PAK,..,,,0,South Asia
+Pakistan,2017,"Mobile money account, urban (% age 15+)",PAK,..,,,0,South Asia
+Pakistan,2021,"Mobile money account, urban (% age 15+)",PAK,10.15,,,0,South Asia
+Pakistan,2022,"Mobile money account, urban (% age 15+)",PAK,..,,,0,South Asia
+Philippines,2011,"Mobile money account, urban (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2014,"Mobile money account, urban (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2017,"Mobile money account, urban (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2021,"Mobile money account, urban (% age 15+)",PHL,..,,,0,ASEAN
+Philippines,2022,"Mobile money account, urban (% age 15+)",PHL,..,,,0,ASEAN
+Singapore,2011,"Mobile money account, urban (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2014,"Mobile money account, urban (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2017,"Mobile money account, urban (% age 15+)",SGP,..,,,0,ASEAN
+Singapore,2021,"Mobile money account, urban (% age 15+)",SGP,30.6,,,0,ASEAN
+Singapore,2022,"Mobile money account, urban (% age 15+)",SGP,..,,,0,ASEAN
+South Asia,2011,"Mobile money account, urban (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2014,"Mobile money account, urban (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2017,"Mobile money account, urban (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2021,"Mobile money account, urban (% age 15+)",(South Asia),..,,,0,Other
+South Asia,2022,"Mobile money account, urban (% age 15+)",(South Asia),..,,,0,Other
+Southeast Asia,2011,"Mobile money account, urban (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2014,"Mobile money account, urban (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2017,"Mobile money account, urban (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2021,"Mobile money account, urban (% age 15+)",(Southeast Asia),..,,,0,Other
+Southeast Asia,2022,"Mobile money account, urban (% age 15+)",(Southeast Asia),..,,,0,Other
+Sri Lanka,2011,"Mobile money account, urban (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2014,"Mobile money account, urban (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2017,"Mobile money account, urban (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2021,"Mobile money account, urban (% age 15+)",LKA,..,,,0,South Asia
+Sri Lanka,2022,"Mobile money account, urban (% age 15+)",LKA,..,,,0,South Asia
+Thailand,2011,"Mobile money account, urban (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2014,"Mobile money account, urban (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2017,"Mobile money account, urban (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2021,"Mobile money account, urban (% age 15+)",THA,..,,,0,ASEAN
+Thailand,2022,"Mobile money account, urban (% age 15+)",THA,..,,,0,ASEAN
+Vietnam,2011,"Mobile money account, urban (% age 15+)",VNM,..,,,0,Other
+Vietnam,2014,"Mobile money account, urban (% age 15+)",VNM,..,,,0,Other
+Vietnam,2017,"Mobile money account, urban (% age 15+)",VNM,..,,,0,Other
+Vietnam,2021,"Mobile money account, urban (% age 15+)",VNM,..,,,0,Other
+Vietnam,2022,"Mobile money account, urban (% age 15+)",VNM,..,,,0,Other
+World,2011,"Mobile money account, urban (% age 15+)",WLD,..,,,0,Other
+World,2014,"Mobile money account, urban (% age 15+)",WLD,..,,,0,Other
+World,2017,"Mobile money account, urban (% age 15+)",WLD,..,,,0,Other
+World,2021,"Mobile money account, urban (% age 15+)",WLD,..,,,0,Other
+World,2022,"Mobile money account, urban (% age 15+)",WLD,..,,,0,Other
+Bangladesh,2011,Own a mobile phone (% age 15+),BGD,..,,,0,South Asia
+Bangladesh,2014,Own a mobile phone (% age 15+),BGD,..,,,0,South Asia
+Bangladesh,2017,Own a mobile phone (% age 15+),BGD,..,,,0,South Asia
+Bangladesh,2021,Own a mobile phone (% age 15+),BGD,78.94,,,0,South Asia
+Bangladesh,2022,Own a mobile phone (% age 15+),BGD,..,,,0,South Asia
+Bhutan,2011,Own a mobile phone (% age 15+),BTN,..,,,0,South Asia
+Bhutan,2014,Own a mobile phone (% age 15+),BTN,..,,,0,South Asia
+Bhutan,2017,Own a mobile phone (% age 15+),BTN,..,,,0,South Asia
+Bhutan,2021,Own a mobile phone (% age 15+),BTN,..,,,0,South Asia
+Bhutan,2022,Own a mobile phone (% age 15+),BTN,..,,,0,South Asia
+Cambodia,2011,Own a mobile phone (% age 15+),KHM,..,,,0,ASEAN
+Cambodia,2014,Own a mobile phone (% age 15+),KHM,..,,,0,ASEAN
+Cambodia,2017,Own a mobile phone (% age 15+),KHM,..,,,0,ASEAN
+Cambodia,2021,Own a mobile phone (% age 15+),KHM,81.44,,,0,ASEAN
+Cambodia,2022,Own a mobile phone (% age 15+),KHM,..,,,0,ASEAN
+India,2011,Own a mobile phone (% age 15+),IND,..,,,0,South Asia
+India,2014,Own a mobile phone (% age 15+),IND,..,,,0,South Asia
+India,2017,Own a mobile phone (% age 15+),IND,..,,,0,South Asia
+India,2021,Own a mobile phone (% age 15+),IND,65.57,,,0,South Asia
+India,2022,Own a mobile phone (% age 15+),IND,..,,,0,South Asia
+Indonesia,2011,Own a mobile phone (% age 15+),IDN,..,,,0,ASEAN
+Indonesia,2014,Own a mobile phone (% age 15+),IDN,..,,,0,ASEAN
+Indonesia,2017,Own a mobile phone (% age 15+),IDN,..,,,0,ASEAN
+Indonesia,2021,Own a mobile phone (% age 15+),IDN,73.17,,,0,ASEAN
+Indonesia,2022,Own a mobile phone (% age 15+),IDN,..,,,0,ASEAN
+Lao PDR,2011,Own a mobile phone (% age 15+),LAO,..,,,0,ASEAN
+Lao PDR,2014,Own a mobile phone (% age 15+),LAO,..,,,0,ASEAN
+Lao PDR,2017,Own a mobile phone (% age 15+),LAO,..,,,0,ASEAN
+Lao PDR,2021,Own a mobile phone (% age 15+),LAO,82.8,,,0,ASEAN
+Lao PDR,2022,Own a mobile phone (% age 15+),LAO,..,,,0,ASEAN
+Malaysia,2011,Own a mobile phone (% age 15+),MYS,..,,,0,ASEAN
+Malaysia,2014,Own a mobile phone (% age 15+),MYS,..,,,0,ASEAN
+Malaysia,2017,Own a mobile phone (% age 15+),MYS,..,,,0,ASEAN
+Malaysia,2021,Own a mobile phone (% age 15+),MYS,91.69,,,0,ASEAN
+Malaysia,2022,Own a mobile phone (% age 15+),MYS,..,,,0,ASEAN
+Myanmar,2011,Own a mobile phone (% age 15+),MMR,..,,,0,ASEAN
+Myanmar,2014,Own a mobile phone (% age 15+),MMR,..,,,0,ASEAN
+Myanmar,2017,Own a mobile phone (% age 15+),MMR,..,,,0,ASEAN
+Myanmar,2021,Own a mobile phone (% age 15+),MMR,96.17,,,0,ASEAN
+Myanmar,2022,Own a mobile phone (% age 15+),MMR,..,,,0,ASEAN
+Nepal,2011,Own a mobile phone (% age 15+),NPL,..,,,0,South Asia
+Nepal,2014,Own a mobile phone (% age 15+),NPL,..,,,0,South Asia
+Nepal,2017,Own a mobile phone (% age 15+),NPL,..,,,0,South Asia
+Nepal,2021,Own a mobile phone (% age 15+),NPL,79.57,,,0,South Asia
+Nepal,2022,Own a mobile phone (% age 15+),NPL,..,,,0,South Asia
+Pakistan,2011,Own a mobile phone (% age 15+),PAK,..,,,0,South Asia
+Pakistan,2014,Own a mobile phone (% age 15+),PAK,..,,,0,South Asia
+Pakistan,2017,Own a mobile phone (% age 15+),PAK,..,,,0,South Asia
+Pakistan,2021,Own a mobile phone (% age 15+),PAK,62.99,,,0,South Asia
+Pakistan,2022,Own a mobile phone (% age 15+),PAK,..,,,0,South Asia
+Philippines,2011,Own a mobile phone (% age 15+),PHL,..,,,0,ASEAN
+Philippines,2014,Own a mobile phone (% age 15+),PHL,..,,,0,ASEAN
+Philippines,2017,Own a mobile phone (% age 15+),PHL,..,,,0,ASEAN
+Philippines,2021,Own a mobile phone (% age 15+),PHL,92.11,,,0,ASEAN
+Philippines,2022,Own a mobile phone (% age 15+),PHL,..,,,0,ASEAN
+Singapore,2011,Own a mobile phone (% age 15+),SGP,..,,,0,ASEAN
+Singapore,2014,Own a mobile phone (% age 15+),SGP,..,,,0,ASEAN
+Singapore,2017,Own a mobile phone (% age 15+),SGP,..,,,0,ASEAN
+Singapore,2021,Own a mobile phone (% age 15+),SGP,96.81,,,0,ASEAN
+Singapore,2022,Own a mobile phone (% age 15+),SGP,..,,,0,ASEAN
+South Asia,2011,Own a mobile phone (% age 15+),(South Asia),..,,,0,Other
+South Asia,2014,Own a mobile phone (% age 15+),(South Asia),..,,,0,Other
+South Asia,2017,Own a mobile phone (% age 15+),(South Asia),..,,,0,Other
+South Asia,2021,Own a mobile phone (% age 15+),(South Asia),..,,,0,Other
+South Asia,2022,Own a mobile phone (% age 15+),(South Asia),..,,,0,Other
+Southeast Asia,2011,Own a mobile phone (% age 15+),(Southeast Asia),..,,,0,Other
+Southeast Asia,2014,Own a mobile phone (% age 15+),(Southeast Asia),..,,,0,Other
+Southeast Asia,2017,Own a mobile phone (% age 15+),(Southeast Asia),..,,,0,Other
+Southeast Asia,2021,Own a mobile phone (% age 15+),(Southeast Asia),..,,,0,Other
+Southeast Asia,2022,Own a mobile phone (% age 15+),(Southeast Asia),..,,,0,Other
+Sri Lanka,2011,Own a mobile phone (% age 15+),LKA,..,,,0,South Asia
+Sri Lanka,2014,Own a mobile phone (% age 15+),LKA,..,,,0,South Asia
+Sri Lanka,2017,Own a mobile phone (% age 15+),LKA,..,,,0,South Asia
+Sri Lanka,2021,Own a mobile phone (% age 15+),LKA,95.94,,,0,South Asia
+Sri Lanka,2022,Own a mobile phone (% age 15+),LKA,..,,,0,South Asia
+Thailand,2011,Own a mobile phone (% age 15+),THA,..,,,0,ASEAN
+Thailand,2014,Own a mobile phone (% age 15+),THA,..,,,0,ASEAN
+Thailand,2017,Own a mobile phone (% age 15+),THA,..,,,0,ASEAN
+Thailand,2021,Own a mobile phone (% age 15+),THA,100,,,0,ASEAN
+Thailand,2022,Own a mobile phone (% age 15+),THA,..,,,0,ASEAN
+Vietnam,2011,Own a mobile phone (% age 15+),VNM,..,,,0,Other
+Vietnam,2014,Own a mobile phone (% age 15+),VNM,..,,,0,Other
+Vietnam,2017,Own a mobile phone (% age 15+),VNM,..,,,0,Other
+Vietnam,2021,Own a mobile phone (% age 15+),VNM,..,,,0,Other
+Vietnam,2022,Own a mobile phone (% age 15+),VNM,95.74,,,0,Other
+World,2011,Own a mobile phone (% age 15+),WLD,..,,,0,Other
+World,2014,Own a mobile phone (% age 15+),WLD,..,,,0,Other
+World,2017,Own a mobile phone (% age 15+),WLD,..,,,0,Other
+World,2021,Own a mobile phone (% age 15+),WLD,85.64,,,0,Other
+World,2022,Own a mobile phone (% age 15+),WLD,..,,,0,Other
+Bangladesh,2011,Owns a debit or credit card (% age 15+),BGD,2.49,,,0,South Asia
+Bangladesh,2014,Owns a debit or credit card (% age 15+),BGD,5.17,,,0,South Asia
+Bangladesh,2017,Owns a debit or credit card (% age 15+),BGD,6.2,,,0,South Asia
+Bangladesh,2021,Owns a debit or credit card (% age 15+),BGD,4.94,,,0,South Asia
+Bangladesh,2022,Owns a debit or credit card (% age 15+),BGD,..,,,0,South Asia
+Bhutan,2011,Owns a debit or credit card (% age 15+),BTN,..,,,0,South Asia
+Bhutan,2014,Owns a debit or credit card (% age 15+),BTN,17.45,,,0,South Asia
+Bhutan,2017,Owns a debit or credit card (% age 15+),BTN,..,,,0,South Asia
+Bhutan,2021,Owns a debit or credit card (% age 15+),BTN,..,,,0,South Asia
+Bhutan,2022,Owns a debit or credit card (% age 15+),BTN,..,,,0,South Asia
+Cambodia,2011,Owns a debit or credit card (% age 15+),KHM,2.95,,,0,ASEAN
+Cambodia,2014,Owns a debit or credit card (% age 15+),KHM,7.4,,,0,ASEAN
+Cambodia,2017,Owns a debit or credit card (% age 15+),KHM,7.56,,,0,ASEAN
+Cambodia,2021,Owns a debit or credit card (% age 15+),KHM,14.79,,,0,ASEAN
+Cambodia,2022,Owns a debit or credit card (% age 15+),KHM,..,,,0,ASEAN
+India,2011,Owns a debit or credit card (% age 15+),IND,9.13,,,0,South Asia
+India,2014,Owns a debit or credit card (% age 15+),IND,22.26,,,0,South Asia
+India,2017,Owns a debit or credit card (% age 15+),IND,33.5,,,0,South Asia
+India,2021,Owns a debit or credit card (% age 15+),IND,27.83,,,0,South Asia
+India,2022,Owns a debit or credit card (% age 15+),IND,..,,,0,South Asia
+Indonesia,2011,Owns a debit or credit card (% age 15+),IDN,10.68,,,0,ASEAN
+Indonesia,2014,Owns a debit or credit card (% age 15+),IDN,26.21,,,0,ASEAN
+Indonesia,2017,Owns a debit or credit card (% age 15+),IDN,30.85,,,0,ASEAN
+Indonesia,2021,Owns a debit or credit card (% age 15+),IDN,35.25,,,0,ASEAN
+Indonesia,2022,Owns a debit or credit card (% age 15+),IDN,..,,,0,ASEAN
+Lao PDR,2011,Owns a debit or credit card (% age 15+),LAO,8.31,,,0,ASEAN
+Lao PDR,2014,Owns a debit or credit card (% age 15+),LAO,..,,,0,ASEAN
+Lao PDR,2017,Owns a debit or credit card (% age 15+),LAO,12.81,,,0,ASEAN
+Lao PDR,2021,Owns a debit or credit card (% age 15+),LAO,23.45,,,0,ASEAN
+Lao PDR,2022,Owns a debit or credit card (% age 15+),LAO,..,,,0,ASEAN
+Malaysia,2011,Owns a debit or credit card (% age 15+),MYS,27.97,,,0,ASEAN
+Malaysia,2014,Owns a debit or credit card (% age 15+),MYS,48.19,,,0,ASEAN
+Malaysia,2017,Owns a debit or credit card (% age 15+),MYS,75.49,,,0,ASEAN
+Malaysia,2021,Owns a debit or credit card (% age 15+),MYS,83.57,,,0,ASEAN
+Malaysia,2022,Owns a debit or credit card (% age 15+),MYS,..,,,0,ASEAN
+Myanmar,2011,Owns a debit or credit card (% age 15+),MMR,..,,,0,ASEAN
+Myanmar,2014,Owns a debit or credit card (% age 15+),MMR,1.7,,,0,ASEAN
+Myanmar,2017,Owns a debit or credit card (% age 15+),MMR,4.88,,,0,ASEAN
+Myanmar,2021,Owns a debit or credit card (% age 15+),MMR,25.86,,,0,ASEAN
+Myanmar,2022,Owns a debit or credit card (% age 15+),MMR,..,,,0,ASEAN
+Nepal,2011,Owns a debit or credit card (% age 15+),NPL,4.07,,,0,South Asia
+Nepal,2014,Owns a debit or credit card (% age 15+),NPL,6.95,,,0,South Asia
+Nepal,2017,Owns a debit or credit card (% age 15+),NPL,9.11,,,0,South Asia
+Nepal,2021,Owns a debit or credit card (% age 15+),NPL,14.18,,,0,South Asia
+Nepal,2022,Owns a debit or credit card (% age 15+),NPL,..,,,0,South Asia
+Pakistan,2011,Owns a debit or credit card (% age 15+),PAK,3.17,,,0,South Asia
+Pakistan,2014,Owns a debit or credit card (% age 15+),PAK,3.03,,,0,South Asia
+Pakistan,2017,Owns a debit or credit card (% age 15+),PAK,8.44,,,0,South Asia
+Pakistan,2021,Owns a debit or credit card (% age 15+),PAK,7.74,,,0,South Asia
+Pakistan,2022,Owns a debit or credit card (% age 15+),PAK,..,,,0,South Asia
+Philippines,2011,Owns a debit or credit card (% age 15+),PHL,14.77,,,0,ASEAN
+Philippines,2014,Owns a debit or credit card (% age 15+),PHL,21.08,,,0,ASEAN
+Philippines,2017,Owns a debit or credit card (% age 15+),PHL,21.28,,,0,ASEAN
+Philippines,2021,Owns a debit or credit card (% age 15+),PHL,30.05,,,0,ASEAN
+Philippines,2022,Owns a debit or credit card (% age 15+),PHL,..,,,0,ASEAN
+Singapore,2011,Owns a debit or credit card (% age 15+),SGP,48.9,,,0,ASEAN
+Singapore,2014,Owns a debit or credit card (% age 15+),SGP,89.99,,,0,ASEAN
+Singapore,2017,Owns a debit or credit card (% age 15+),SGP,92.1,,,0,ASEAN
+Singapore,2021,Owns a debit or credit card (% age 15+),SGP,93.72,,,0,ASEAN
+Singapore,2022,Owns a debit or credit card (% age 15+),SGP,..,,,0,ASEAN
+South Asia,2011,Owns a debit or credit card (% age 15+),(South Asia),..,,,0,Other
+South Asia,2014,Owns a debit or credit card (% age 15+),(South Asia),..,,,0,Other
+South Asia,2017,Owns a debit or credit card (% age 15+),(South Asia),..,,,0,Other
+South Asia,2021,Owns a debit or credit card (% age 15+),(South Asia),..,,,0,Other
+South Asia,2022,Owns a debit or credit card (% age 15+),(South Asia),..,,,0,Other
+Southeast Asia,2011,Owns a debit or credit card (% age 15+),(Southeast Asia),..,,,0,Other
+Southeast Asia,2014,Owns a debit or credit card (% age 15+),(Southeast Asia),..,,,0,Other
+Southeast Asia,2017,Owns a debit or credit card (% age 15+),(Southeast Asia),..,,,0,Other
+Southeast Asia,2021,Owns a debit or credit card (% age 15+),(Southeast Asia),..,,,0,Other
+Southeast Asia,2022,Owns a debit or credit card (% age 15+),(Southeast Asia),..,,,0,Other
+Sri Lanka,2011,Owns a debit or credit card (% age 15+),LKA,10.97,,,0,South Asia
+Sri Lanka,2014,Owns a debit or credit card (% age 15+),LKA,24.94,,,0,South Asia
+Sri Lanka,2017,Owns a debit or credit card (% age 15+),LKA,32.44,,,0,South Asia
+Sri Lanka,2021,Owns a debit or credit card (% age 15+),LKA,52.85,,,0,South Asia
+Sri Lanka,2022,Owns a debit or credit card (% age 15+),LKA,..,,,0,South Asia
+Thailand,2011,Owns a debit or credit card (% age 15+),THA,43.43,,,0,ASEAN
+Thailand,2014,Owns a debit or credit card (% age 15+),THA,55.16,,,0,ASEAN
+Thailand,2017,Owns a debit or credit card (% age 15+),THA,60.64,,,0,ASEAN
+Thailand,2021,Owns a debit or credit card (% age 15+),THA,67.67,,,0,ASEAN
+Thailand,2022,Owns a debit or credit card (% age 15+),THA,..,,,0,ASEAN
+Vietnam,2011,Owns a debit or credit card (% age 15+),VNM,14.96,,,0,Other
+Vietnam,2014,Owns a debit or credit card (% age 15+),VNM,26.75,,,0,Other
+Vietnam,2017,Owns a debit or credit card (% age 15+),VNM,27.44,,,0,Other
+Vietnam,2021,Owns a debit or credit card (% age 15+),VNM,..,,,0,Other
+Vietnam,2022,Owns a debit or credit card (% age 15+),VNM,49.24,,,0,Other
+World,2011,Owns a debit or credit card (% age 15+),WLD,34.59,,,0,Other
+World,2014,Owns a debit or credit card (% age 15+),WLD,43.01,,,0,Other
+World,2017,Owns a debit or credit card (% age 15+),WLD,49.49,,,0,Other
+World,2021,Owns a debit or credit card (% age 15+),WLD,54.67,,,0,Other
+World,2022,Owns a debit or credit card (% age 15+),WLD,..,,,0,Other
