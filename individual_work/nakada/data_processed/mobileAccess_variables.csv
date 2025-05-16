@@ -1,0 +1,181 @@
+file,data_label,variable,variable_label
+NSS79CAMS_Member.dta,,ROUND,Round
+NSS79CAMS_Member.dta,,SCH,Schedule
+NSS79CAMS_Member.dta,,SAMPLE,Sample
+NSS79CAMS_Member.dta,,SEC,Sector
+NSS79CAMS_Member.dta,,ST,State Code
+NSS79CAMS_Member.dta,,NSS,NSS Region Code
+NSS79CAMS_Member.dta,,DIST,District Code
+NSS79CAMS_Member.dta,,STRM,Stratum
+NSS79CAMS_Member.dta,,SSTRM,Sub-stratum
+NSS79CAMS_Member.dta,,SR,Sub-round
+NSS79CAMS_Member.dta,,SRO,Sub-Region Code
+NSS79CAMS_Member.dta,,FC,Frame Code
+NSS79CAMS_Member.dta,,FSU,First Stage Unit
+NSS79CAMS_Member.dta,,SSS,Second Stage Stratum
+NSS79CAMS_Member.dta,,SSU,Sample Sub Unit
+NSS79CAMS_Member.dta,,SRL,Serial no. of the Person
+NSS79CAMS_Member.dta,,BL31C3,Relationship code of the member
+NSS79CAMS_Member.dta,,BL31C4,Gender of the member
+NSS79CAMS_Member.dta,,BL31C5,Age of the member
+NSS79CAMS_Member.dta,,BL31C6,Marital Status
+NSS79CAMS_Member.dta,,BL31C7,Whether Ever Enrolled (Enlisted) In Formal Education /Training
+NSS79CAMS_Member.dta,,BL31C8,Whether Involved/ Engaged In Any Economic Activity For At Least One Hour During 
+NSS79CAMS_Member.dta,,BL31C9,Whether Having An Account Individually Or Jointly In Any Bank/Other Financial In
+NSS79CAMS_Member.dta,,BL31C10,Type Of Account Held
+NSS79CAMS_Member.dta,,BL31C11,Whether Indebted To Any InstituTional/ Non InstituTional Agency
+NSS79CAMS_Member.dta,,BL31C12,Whether Received Birth Certificate Ever
+NSS79CAMS_Member.dta,,BL31C13,Whether Registered With Civil Authority For Birth Certificate
+NSS79CAMS_Member.dta,,BL32C3,Whether Able To Use Mobile Telephone
+NSS79CAMS_Member.dta,,BL32C4,Whether Uses Any Mobile Telephone (Including Smart Phone) With Active Sim Card F
+NSS79CAMS_Member.dta,,BL32C5,What Is The Type Of Mobile Technology Mainly Used
+NSS79CAMS_Member.dta,,BL32C6,Whether Able To Use Any Of: Desktop Computer/ Laptop/ Tablet/ Palmtop/ Notebook 
+NSS79CAMS_Member.dta,,BL32C7,Whether Able To Use Internet With/Via Mobile Telephone/ Smart Phone/ Desktop Com
+NSS79CAMS_Member.dta,,BL32C8,Whether Used Internet At Least Once During Last 3 Months
+NSS79CAMS_Member.dta,,BL32C81,Whether Used Internet At Least Once During Last 12 Months
+NSS79CAMS_Member.dta,,BL32C9,Whether Able To Send Or Receive Emails
+NSS79CAMS_Member.dta,,BL32C10,Whether Able To Use Any Of: Mobile Phone/Smart Phone/Desktop Computer/Laptop/ Ta
+NSS79CAMS_Member.dta,,BL33C3,"Use Copy And Paste Tools To Duplicate Or Move Data, Information, Documents Etc"
+NSS79CAMS_Member.dta,,BL33C4,"Send Messages (E.G. E-Mail, Messaging Service, Sms) With Attached Files (E.G. Do"
+NSS79CAMS_Member.dta,,BL33C5,Use Basic Arithmetic Formulae In A SpreadSheet (Excel)
+NSS79CAMS_Member.dta,,BL33C6,"Connect And Install New Devices (E.G. Modem, Camera, Printer) Through Wired Or W"
+NSS79CAMS_Member.dta,,BL33C7,"Search, DownLoad, Install And Con Figure Software And Apps"
+NSS79CAMS_Member.dta,,BL33C8,"Create Electronic Presentations With Presentation Software (Including Text, Imag"
+NSS79CAMS_Member.dta,,BL33C9,"Transfer Files Or Applications Between Devices (Like Pc, Tablet, Pen Drive, Port"
+NSS79CAMS_Member.dta,,BL33C10,Set Up Effective Security Measures To Protect Devices And Online Accounts (E.G. 
+NSS79CAMS_Member.dta,,BL33C11,"Change Privacy Settings On Device, Account Or App To Limit The Sharing Of Person"
+NSS79CAMS_Member.dta,,BL33C12,Verify The Reliability Of Online Information
+NSS79CAMS_Member.dta,,BL33C13,"Write Programme Or Code To Develop/ Modify Software, Mobile App Etc"
+NSS79CAMS_Member.dta,,BL53C3,Major Reason For Never Being Enrolled In Formal Education (School)
+NSS79CAMS_Member.dta,,BL53C4,Whether Able To Both Read And Write A Short Simple Statement In Their Everyday L
+NSS79CAMS_Member.dta,,BL53C5,Whether Able To Make Simple Arithmetic Calculations
+NSS79CAMS_Member.dta,,BL53C6,Whether Participated In Any Youth/Adult Literacy Programme
+NSS79CAMS_Member.dta,,BL53C7,Whether Attending/ Attended Any NonFormal Education Courses
+NSS79CAMS_Member.dta,,BL53C8,Whether Attending/ Attended Any Vocational/Technical Training Like Driving Train
+NSS79CAMS_Member.dta,,BL512BI1,Whether Attended Any Course In Formal Education (Including Formal Training) Duri
+NSS79CAMS_Member.dta,,BL512BI2,Whether Currently Attending Any Course In Non-Formal Education
+NSS79CAMS_Member.dta,,BL512BI21,Whether Attended Any Course In Non-Formal Education
+NSS79CAMS_Member.dta,,MULT,Multiplier
+NSS79CAMS_Household.dta,,ROUND,Round
+NSS79CAMS_Household.dta,,SCH,Schedule
+NSS79CAMS_Household.dta,,SAMPLE,Sample
+NSS79CAMS_Household.dta,,SEC,Sector
+NSS79CAMS_Household.dta,,ST,State Code
+NSS79CAMS_Household.dta,,NSS,NSS Region Code
+NSS79CAMS_Household.dta,,DIST,District Code
+NSS79CAMS_Household.dta,,STRM,Stratum
+NSS79CAMS_Household.dta,,SSTRM,Sub-stratum
+NSS79CAMS_Household.dta,,SR,Sub-round
+NSS79CAMS_Household.dta,,SRO,Sub-Region Code
+NSS79CAMS_Household.dta,,FC,Frame Code
+NSS79CAMS_Household.dta,,FSU,First Stage Unit
+NSS79CAMS_Household.dta,,SSS,Second Stage Stratum
+NSS79CAMS_Household.dta,,SSU,Sample Sub Unit
+NSS79CAMS_Household.dta,,SVC,Survey Code
+NSS79CAMS_Household.dta,,REASON,Reason For Substitution/Casualty
+NSS79CAMS_Household.dta,,INF_SRL,Informant Srl No.
+NSS79CAMS_Household.dta,,RESPCODE,Response Code Of The Informant
+NSS79CAMS_Household.dta,,BL41I1,Household Size
+NSS79CAMS_Household.dta,,BL41I2,Religion
+NSS79CAMS_Household.dta,,BL41I3,Social Group
+NSS79CAMS_Household.dta,,BL41I4,Language Mainly Spoken At Home
+NSS79CAMS_Household.dta,,BL41I5,Source Of Drinking Water From Which Most Of The Drinking Water Is Obtained By Th
+NSS79CAMS_Household.dta,,BL41I6,Is Availability Of Drinking Water From The Principal Source Sufficient Throughou
+NSS79CAMS_Household.dta,,BL41I7,Type Of Access To The Principal Source Of Drinking Water
+NSS79CAMS_Household.dta,,BL41I8,Distance To The Principal Source Of Drinking Water
+NSS79CAMS_Household.dta,,BL41I9,Method Used By The Household For Treatment Of Drinking Water Received From Princ
+NSS79CAMS_Household.dta,,BL41I10,Type Of Access Of The Household To Latrine
+NSS79CAMS_Household.dta,,BL41I11,Type Of Latrine In Which The Household Has Access
+NSS79CAMS_Household.dta,,BL41I111,Whether Excreta From Septic Tank/Pit/Composting Latrine Have Ever Been Emptied?
+NSS79CAMS_Household.dta,,BL41I112,Place Of Disposal Of Excreta Last Time
+NSS79CAMS_Household.dta,,BL41I113,How Frequently Excreta Is Emptied
+NSS79CAMS_Household.dta,,BL41I12,Is Hand Washing Facility Available Within The Household Premises
+NSS79CAMS_Household.dta,,BL41I13,What Is The Primary Source Of Energy Used By The Household For Cooking
+NSS79CAMS_Household.dta,,BL41I14,What Is The Primary Source Of Energy Used By The Household For Lighting
+NSS79CAMS_Household.dta,,BL41I15,What Is The Primary Source Of Energy Used By The Household For Heating
+NSS79CAMS_Household.dta,,BL41I16,Is Electricity Used By The Household For Any Of Cooking/Lighting/Heating
+NSS79CAMS_Household.dta,,BL41I17,Whether An All-Weather Road (I.E. Usable During All Seasons) Is Within A Distanc
+NSS79CAMS_Household.dta,,BL41I18,"Whether The Nearest Low Capacity Public Transport System (E.G. Bus, Car, Taxi, A"
+NSS79CAMS_Household.dta,,BL41I19,"Whether The Nearest High Capacity Public Transport System (E.G. Train, Metro, Fe"
+NSS79CAMS_Household.dta,,BL41I20,"Distance To Nearest Open Public Space (Like Parks, Playgrounds, Riverfronts, Lak"
+NSS79CAMS_Household.dta,,BL42I1I,Number Of Items Possessed : Telephone (Including Landline)
+NSS79CAMS_Household.dta,,BL42I1II,Number Of Items Possessed : Mobile Phone (Including Smart Phone)
+NSS79CAMS_Household.dta,,BL42I1III,Number Of Items Possessed : Desktop Pc
+NSS79CAMS_Household.dta,,BL42I1IV,Number Of Items Possessed : Laptop
+NSS79CAMS_Household.dta,,BL42I1V,Number Of Items Possessed : Tablet/Palmtop
+NSS79CAMS_Household.dta,,BL42I1VI,Number Of Items Possessed : Television
+NSS79CAMS_Household.dta,,BL42I2,Whether The Household Has Access To Broadband Internet Facility Within The House
+NSS79CAMS_Household.dta,,BL43I11,Ab-Pmjay
+NSS79CAMS_Household.dta,,BL43I12,Jananisurakshayojana
+NSS79CAMS_Household.dta,,BL43I13,Esis/Esic
+NSS79CAMS_Household.dta,,BL43I14,"Cghs/Echs/Other Central Govt. Health Scheme (Of Railways, Etc)"
+NSS79CAMS_Household.dta,,BL43I15,State Health Insurance Scheme
+NSS79CAMS_Household.dta,,BL43I16,Other Health Insurance Through Employer/Medical Reimbursement By Employer
+NSS79CAMS_Household.dta,,BL43I17,Privately Purchased Commercial Insurances
+NSS79CAMS_Household.dta,,BL43I18,Other Insurances
+NSS79CAMS_Household.dta,,BL43I2,Whether Any Member Of The Household (Including Deceased Former Member(S) Of The 
+NSS79CAMS_Household.dta,,BL43I211,Package Component
+NSS79CAMS_Household.dta,,BL43I212,Doctors'S/ Surgeon'S Fees
+NSS79CAMS_Household.dta,,BL43I213,Medicines
+NSS79CAMS_Household.dta,,BL43I214,Diagnostic Tests
+NSS79CAMS_Household.dta,,BL43I215,"Other Medical Expenses (Attendant Charges, Physiotherapy, Personal Medical Appli"
+NSS79CAMS_Household.dta,,BL43I216,Medical Expenditure: Total ( Srl Nos. 1 To 5)
+NSS79CAMS_Household.dta,,BL43I217,Transport
+NSS79CAMS_Household.dta,,BL43I3,Whether Any Amount Was Reimbursed By Medical Insurance Company Or Employer For T
+NSS79CAMS_Household.dta,,BL43I31,What Is The Total Amount Reimbursed By Medical Insurance Company/Employer For Tr
+NSS79CAMS_Household.dta,,BL43I4,Whether There Was Any Member Of The Household (Including Deceased Former Member 
+NSS79CAMS_Household.dta,,BL43I411,Package Component
+NSS79CAMS_Household.dta,,BL43I412,DoctorS/ SurgeonS Fee (Hospital Staff/ Other Specialists)
+NSS79CAMS_Household.dta,,BL43I413,Medicines
+NSS79CAMS_Household.dta,,BL43I414,Diagnostic Tests
+NSS79CAMS_Household.dta,,BL43I415,Bed Charges
+NSS79CAMS_Household.dta,,BL43I416,"Other Medical Expenses (Attendant Charges, Physiotherapy, Personal Medical Appli"
+NSS79CAMS_Household.dta,,BL43I417,Medical Expenditure : Total (Srl. Nos. 1 To 6)
+NSS79CAMS_Household.dta,,BL43I418,Transport
+NSS79CAMS_Household.dta,,BL43I5,Whether Any Amount Was Reimbursed By Medical Insurance Company Or Employer For T
+NSS79CAMS_Household.dta,,BL43I51,What Is The Total Amount Reimbursed By Medical Insurance Company Or Employer For
+NSS79CAMS_Household.dta,,BL6I1,Usual Consumer Expenditure In A Month For Household Purposes Out Of Purchase (In
+NSS79CAMS_Household.dta,,BL6I2,"Imputed Value Of Usual Consumption In A Month From Home Grown Stock Like Rice, C"
+NSS79CAMS_Household.dta,,BL6I3,"Imputed Value Of Usual Consumption In A Month From Wages In Kind, Free Collectio"
+NSS79CAMS_Household.dta,,BL6I4,"Expenditure On Purchase (Including Online Purchase) Of Items Like Clothing, Foot"
+NSS79CAMS_Household.dta,,BL6I5,Expenditure On Purchase (Including Online Purchase) Of Household Durables During
+NSS79CAMS_Household.dta,,BL6I6,Usual Monthly Consumer Expenditure[A + B + C + ((D+E)/12)] (Make Entry In Rounde
+NSS79CAMS_Household.dta,,MULT,Mult
+NSS79CAMS_Course.dta,,ROUND,Round
+NSS79CAMS_Course.dta,,SCH,Schedule
+NSS79CAMS_Course.dta,,SAMPLE,Sample
+NSS79CAMS_Course.dta,,SEC,Sector
+NSS79CAMS_Course.dta,,ST,State Code
+NSS79CAMS_Course.dta,,NSS,Nss Region Code
+NSS79CAMS_Course.dta,,DIST,District Code
+NSS79CAMS_Course.dta,,STRM,Stratum
+NSS79CAMS_Course.dta,,SSTRM,Sub-Stratum
+NSS79CAMS_Course.dta,,SR,Sub-Round
+NSS79CAMS_Course.dta,,SRO,Sub-Region Code
+NSS79CAMS_Course.dta,,FC,Frame Code
+NSS79CAMS_Course.dta,,FSU,First Stage Unit
+NSS79CAMS_Course.dta,,SSS,Second Stage Stratum
+NSS79CAMS_Course.dta,,SSU,Sample Sub Unit
+NSS79CAMS_Course.dta,,SRL,Serial No. Of The Person
+NSS79CAMS_Course.dta,,BL51I4,Gender Of The Member
+NSS79CAMS_Course.dta,,BL51I3,Age Of The Member
+NSS79CAMS_Course.dta,,BL31I7,Whether Ever Enrolled (Enlisted) In Formal Education /Training
+NSS79CAMS_Course.dta,,BL51I151,Pre-Primary (Ecce Centre Of Aanganwadi/ Nursery/ Kg)
+NSS79CAMS_Course.dta,,BL51I152,School/ Junior College: Primary To Higher Secondary
+NSS79CAMS_Course.dta,,BL51I153,Vocational Courses After Completing Class 8 Or Above
+NSS79CAMS_Course.dta,,BL51I154,Open And Distance Education Courses Upto Higher Secondary Level Including Open S
+NSS79CAMS_Course.dta,,BL51I155,Open And Distance Education Courses Post Higher Secondary Leve
+NSS79CAMS_Course.dta,,BL51I156,College (Degree/ Diploma)
+NSS79CAMS_Course.dta,,BL51I157,College/ University (Post Graduate/ Phd/ Post Doctoral)
+NSS79CAMS_Course.dta,,BL51I158,Technical/Professional Degree Education After Higher Secondary/ Graduate/ Post G
+NSS79CAMS_Course.dta,,BL51I159,Technical/Professional Diploma Education After Higher Secondary/ Graduate/ Post 
+NSS79CAMS_Course.dta,,BL512AC1,Course Srl No.
+NSS79CAMS_Course.dta,,BL512AC2,Course Code
+NSS79CAMS_Course.dta,,BL512AC3,Level Of Attendence
+NSS79CAMS_Course.dta,,BL512AC4,No Of Years completed/attended excluding repeated years
+NSS79CAMS_Course.dta,,BL512AC5,Wheather School Or Inst. Recognised
+NSS79CAMS_Course.dta,,BL51AC6,Medium Of Institution Code(Only In Bl 5.1)
+NSS79CAMS_Course.dta,,BL512AC7,Type Of School In Which Currently/Last Enrolled
+NSS79CAMS_Course.dta,,BL51AC8,Wheather Class Of Enrollment Is Same As That Of Previous Academic Year
+NSS79CAMS_Course.dta,,BL52AC9,Whether Successfully Completed The Class In Which Last Enrolled? (Bl 5.2 Col 6)
+NSS79CAMS_Course.dta,,MULT,Mult
