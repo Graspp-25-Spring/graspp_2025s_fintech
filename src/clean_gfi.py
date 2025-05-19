@@ -26,7 +26,11 @@ target_indicators = [
     "Mobile money account, rural (% age 15+)",
     "Mobile money account, urban (% age 15+)",
     "Own a mobile phone (% age 15+)",
-    "Owns a debit or credit card (% age 15+)"
+    "Owns a debit or credit card (% age 15+)",
+    "Owns a debit or credit card, female (% age 15+)",
+    "Owns a debit or credit card, male (% age 15+)",
+    "Owns a debit or credit card, rural (% age 15+)",
+    "Owns a debit or credit card, urban (% age 15+)"
 ]
 
 df_filtered = df[df['Series Name'].isin(target_indicators)]
