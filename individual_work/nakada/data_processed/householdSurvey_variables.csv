@@ -1,0 +1,460 @@
+file,data_label,variable,variable_label
+LEVEL - 03.dta,,Survey_Name,Survey Name
+LEVEL - 03.dta,,Year,Year
+LEVEL - 03.dta,,FSU_Serial_No,FSU Serial No.
+LEVEL - 03.dta,,Sector,Sector
+LEVEL - 03.dta,,State,State
+LEVEL - 03.dta,,NSS_Region,NSS-Region
+LEVEL - 03.dta,,District,District
+LEVEL - 03.dta,,Stratum,Stratum
+LEVEL - 03.dta,,Sub_stratum,Sub-stratum
+LEVEL - 03.dta,,Panel,Panel
+LEVEL - 03.dta,,Sub_sample,Sub-sample
+LEVEL - 03.dta,,FOD_Sub_Region,FOD-Sub-Region
+LEVEL - 03.dta,,Sample_SU_No,Sample SU No.
+LEVEL - 03.dta,,Sample_Sub_Division_No,Sample Sub-division no.
+LEVEL - 03.dta,,Second_Stage_Stratum_No,Second-stage-stratum no.
+LEVEL - 03.dta,,Sample_Household_No,Sample hhld. No.
+LEVEL - 03.dta,,Questionnaire_No,Questionnaire No.
+LEVEL - 03.dta,,Level,Level
+LEVEL - 03.dta,,HH_Size_FDQ,HH Size (For FDQ)
+LEVEL - 03.dta,,Engaged_in_Economic_Activity_Las,Whether any household member (excluding those employed by the household and payi
+LEVEL - 03.dta,,NCO_2015_Code,NCO-2015 Code(3-digit)
+LEVEL - 03.dta,,NIC_2008_Code,NIC-2008 Code(5-digit)
+LEVEL - 03.dta,,Max_Income_Activity,Broad activities from which maximum income was derived by the household during l
+LEVEL - 03.dta,,Self_Employment_Source_Sector,Whether major source of income from self- employment was from agricultural / non
+LEVEL - 03.dta,,Regular_Wage_Source_Sector,Whether the major income from regular wage/salary earning from agricultural /non
+LEVEL - 03.dta,,Casual_Labour_Source_Sector,Whether the major income from casual labour was from agriculturalsector/ non- ag
+LEVEL - 03.dta,,Household_Type,Household Type
+LEVEL - 03.dta,,Religion_of_HH_Head,Religion of the head of the household
+LEVEL - 03.dta,,Social_Group_of_HH_Head,Social Group of the head of the household
+LEVEL - 03.dta,,Land_Ownership,Does the household own (owned & possessed or leased out) any land (within the co
+LEVEL - 03.dta,,Type_of_Land_Owned,Type of land owned
+LEVEL - 03.dta,,Total_Area_Land_Owned_Acres,What is the total area of all owned (owned and possessed or leased out) land (wi
+LEVEL - 03.dta,,Dwelling_Unit_Exists,Does the household have a dwelling unit at present place of enumeration?
+LEVEL - 03.dta,,Type_of_Dwelling_Unit,Type of Dwelling Unit
+LEVEL - 03.dta,,Energy_Source_Cooking,Primary source of energy of the household for cooking
+LEVEL - 03.dta,,Energy_Source_Lighting,Primary source of energy of the household for Lighting
+LEVEL - 03.dta,,Ration_Card_Type,Type of ration card possessed by the household as on the date of survey
+LEVEL - 03.dta,,Rent_Rate_Available_Rural,Prevailing rate of rent in the locality is available (FOR Rural only)
+LEVEL - 03.dta,,Benefitted_From_PMGKY,Benefitted from PMGKY as on the date on the survey
+LEVEL - 03.dta,,Multiplier,Multiplier
+LEVEL - 04 (Section 4.1).dta,,Survey_Name,Survey Name
+LEVEL - 04 (Section 4.1).dta,,Year,Year
+LEVEL - 04 (Section 4.1).dta,,FSU_Serial_No,FSU Serial No.
+LEVEL - 04 (Section 4.1).dta,,Sector,Sector
+LEVEL - 04 (Section 4.1).dta,,State,State
+LEVEL - 04 (Section 4.1).dta,,NSS_Region,NSS-Region
+LEVEL - 04 (Section 4.1).dta,,District,District
+LEVEL - 04 (Section 4.1).dta,,Stratum,Stratum
+LEVEL - 04 (Section 4.1).dta,,Sub_stratum,Sub-stratum
+LEVEL - 04 (Section 4.1).dta,,Panel,Panel
+LEVEL - 04 (Section 4.1).dta,,Sub_sample,Sub-sample
+LEVEL - 04 (Section 4.1).dta,,FOD_Sub_Region,FOD-Sub-Region
+LEVEL - 04 (Section 4.1).dta,,Sample_SU_No,Sample SU No.
+LEVEL - 04 (Section 4.1).dta,,Sample_Sub_Division_No,Sample Sub-division no.
+LEVEL - 04 (Section 4.1).dta,,Second_Stage_Stratum_No,Second-stage-stratum no.
+LEVEL - 04 (Section 4.1).dta,,Sample_Household_No,Sample hhld. No.
+LEVEL - 04 (Section 4.1).dta,,Questionnaire_No,Questionnaire No.
+LEVEL - 04 (Section 4.1).dta,,Level,Level
+LEVEL - 04 (Section 4.1).dta,,Ration_Any_Item_Last_30_Days,Whether the household procured any item using the ration card during the last 30
+LEVEL - 04 (Section 4.1).dta,,Ration_Rice,Which item procured using ration card during the last 30 days - Rice
+LEVEL - 04 (Section 4.1).dta,,Ration_Wheat,Which item procured using ration card during the last 30 days- Wheat
+LEVEL - 04 (Section 4.1).dta,,Ration_Coarse_Grain,Which item procured using ration card during the last 30 days - Coarse Grain
+LEVEL - 04 (Section 4.1).dta,,Ration_Sugar,Which item procured using ration card during the last 30 days - Sugar
+LEVEL - 04 (Section 4.1).dta,,Ration_Pulses,Which item procured using ration card during the last 30 days- Pulses
+LEVEL - 04 (Section 4.1).dta,,Ration_Edible_Oil,Which item procured using ration card during the last 30 days- Edible Oil
+LEVEL - 04 (Section 4.1).dta,,Ration_Other_Food_Items,Which item procured using ration card during the last 30 days- Other food item (
+LEVEL - 04 (Section 4.1).dta,,Online_Groceries,Whether any online purchase/payment has been made during the reference period to
+LEVEL - 04 (Section 4.1).dta,,Online_Milk,Whether any online purchase/payment has been made during the reference period to
+LEVEL - 04 (Section 4.1).dta,,Online_Vegetables,Whether any online purchase/payment has been made during the reference period to
+LEVEL - 04 (Section 4.1).dta,,Online_Fresh_Fruits,Whether any online purchase/payment has been made during the reference period to
+LEVEL - 04 (Section 4.1).dta,,Online_Dry_Fruits,Whether any online purchase/payment has been made during the reference period to
+LEVEL - 04 (Section 4.1).dta,,Online_Egg_Fish_Meat,Whether any online purchase/payment has been made during the reference period to
+LEVEL - 04 (Section 4.1).dta,,Online_Served_Processed_Food,Whether any online purchase/payment has been made during the reference period to
+LEVEL - 04 (Section 4.1).dta,,Online_Packed_Processed_Food,Whether any online purchase/payment has been made during the reference period to
+LEVEL - 04 (Section 4.1).dta,,Online_Other_Food_Items,Whether any online purchase/payment has been made during the reference period to
+LEVEL - 04 (Section 4.1).dta,,Ceremony_Performed_Last_30_Days,Ceremony Pereformed during last 30 days
+LEVEL - 04 (Section 4.1).dta,,Meals_Served_to_Non_HH_Members,Meals served to non-household members during the last 30 days
+LEVEL - 04 (Section 4.1).dta,,Multiplier,Multiplier
+LEVEL - 05 ( Sec 5 & 6).dta,,Survey_Name,Survey Name
+LEVEL - 05 ( Sec 5 & 6).dta,,Year,Year
+LEVEL - 05 ( Sec 5 & 6).dta,,FSU_Serial_No,FSU Serial No.
+LEVEL - 05 ( Sec 5 & 6).dta,,Sector,Sector
+LEVEL - 05 ( Sec 5 & 6).dta,,State,State
+LEVEL - 05 ( Sec 5 & 6).dta,,NSS_Region,NSS-Region
+LEVEL - 05 ( Sec 5 & 6).dta,,District,District
+LEVEL - 05 ( Sec 5 & 6).dta,,Stratum,Stratum
+LEVEL - 05 ( Sec 5 & 6).dta,,Sub_stratum,Sub-stratum
+LEVEL - 05 ( Sec 5 & 6).dta,,Panel,Panel
+LEVEL - 05 ( Sec 5 & 6).dta,,Sub_sample,Sub-sample
+LEVEL - 05 ( Sec 5 & 6).dta,,FOD_Sub_Region,FOD-Sub-Region
+LEVEL - 05 ( Sec 5 & 6).dta,,Sample_SU_No,Sample SU No.
+LEVEL - 05 ( Sec 5 & 6).dta,,Sample_Sub_Division_No,Sample Sub-division no.
+LEVEL - 05 ( Sec 5 & 6).dta,,Second_Stage_Stratum_No,Second-stage-stratum no.
+LEVEL - 05 ( Sec 5 & 6).dta,,Sample_Household_No,Sample hhld. No.
+LEVEL - 05 ( Sec 5 & 6).dta,,Questionnaire_No,Questionnaire No.
+LEVEL - 05 ( Sec 5 & 6).dta,,Level,Level
+LEVEL - 05 ( Sec 5 & 6).dta,,Item_Code,Item Code
+LEVEL - 05 ( Sec 5 & 6).dta,,OutOfHome_Consumption_Quantity,Consumption out of home produce-Quantity(0.000)
+LEVEL - 05 ( Sec 5 & 6).dta,,OutOfHome_Consumption_Value,Consumption out of home produce-Value(Rs.)
+LEVEL - 05 ( Sec 5 & 6).dta,,Total_Consumption_Quantity,Total Consumption--Quantity(0.000)
+LEVEL - 05 ( Sec 5 & 6).dta,,Total_Consumption_Value,Total Consumption--Value(Rs.)
+LEVEL - 05 ( Sec 5 & 6).dta,,Source,Source
+LEVEL - 05 ( Sec 5 & 6).dta,,Multiplier,Multiplier
+LEVEL - 11 (Section 4.3).dta,,Survey_Name,Survey Name
+LEVEL - 11 (Section 4.3).dta,,Year,Year
+LEVEL - 11 (Section 4.3).dta,,FSU_Serial_No,FSU Serial No.
+LEVEL - 11 (Section 4.3).dta,,Sector,Sector
+LEVEL - 11 (Section 4.3).dta,,State,State
+LEVEL - 11 (Section 4.3).dta,,NSS_Region,NSS-Region
+LEVEL - 11 (Section 4.3).dta,,District,District
+LEVEL - 11 (Section 4.3).dta,,Stratum,Stratum
+LEVEL - 11 (Section 4.3).dta,,Sub_stratum,Sub-stratum
+LEVEL - 11 (Section 4.3).dta,,Panel,Panel
+LEVEL - 11 (Section 4.3).dta,,Sub_sample,Sub-sample
+LEVEL - 11 (Section 4.3).dta,,FOD_Sub_Region,FOD-Sub-Region
+LEVEL - 11 (Section 4.3).dta,,Sample_SU_No,Sample SU No.
+LEVEL - 11 (Section 4.3).dta,,Sample_Sub_Division_No,Sample Sub-division no.
+LEVEL - 11 (Section 4.3).dta,,Second_Stage_Stratum_No,Second-stage-stratum no.
+LEVEL - 11 (Section 4.3).dta,,Sample_Household_No,Sample hhld. No.
+LEVEL - 11 (Section 4.3).dta,,questionnaire_No,Questionnaire No.
+LEVEL - 11 (Section 4.3).dta,,Level,Level
+LEVEL - 11 (Section 4.3).dta,,Online_Clothing,Which online item purchased/Paid during last 365 days - Clothing
+LEVEL - 11 (Section 4.3).dta,,Online_Footwear,Which online item purchased/Paid during last 365 days- Footwear
+LEVEL - 11 (Section 4.3).dta,,Online_Furniture,Which online item purchased/Paid during last 365 days - Furniture & fixtures
+LEVEL - 11 (Section 4.3).dta,,Online_Mobile,Which online item purchased/Paid during last 365 days - Mobile handset
+LEVEL - 11 (Section 4.3).dta,,Online_PersonalGoods,Which online item purchased/Paid during last 365 days- Personal goods (laptop/PC
+LEVEL - 11 (Section 4.3).dta,,Online_RecreationGoods,"""Which online item purchased/Paid during last 365 days- Goods for recreation (TV"
+LEVEL - 11 (Section 4.3).dta,,Online_HouseholdAppliances,Which online item purchased/Paid during last 365 days -Cooking & other household
+LEVEL - 11 (Section 4.3).dta,,Online_Crockery,Which online item purchased/Paid during last 365 days - Crockery & utensils
+LEVEL - 11 (Section 4.3).dta,,Online_SportsGoods,Which online item purchased/Paid during last 365 days - Sports goods
+LEVEL - 11 (Section 4.3).dta,,Online_MedicalEquipment,Which online item purchased/Paid during last 365 days- Medical equipment
+LEVEL - 11 (Section 4.3).dta,,Online_Bedding,Which online item purchased/Paid during last 365 days- Bedding
+LEVEL - 11 (Section 4.3).dta,,Free_Laptop,[Checkbox] : Whether One or more member of the household received items free of 
+LEVEL - 11 (Section 4.3).dta,,Num_Free_Laptop,Total number of free Laptop/PC
+LEVEL - 11 (Section 4.3).dta,,Free_Tablet,[Checkbox] : Whether One or more member of the household received items free of 
+LEVEL - 11 (Section 4.3).dta,,Num_Free_Tablet,Total number of free Tablet
+LEVEL - 11 (Section 4.3).dta,,Free_Mobile,[Checkbox] : Whether One or more member of the household received items free of 
+LEVEL - 11 (Section 4.3).dta,,Num_Free_Mobile,Total number of free Mobile
+LEVEL - 11 (Section 4.3).dta,,Free_Bicycle,[Checkbox] : Whether One or more member of the household received items free of 
+LEVEL - 11 (Section 4.3).dta,,Num_Free_Bicycle,Total number of free Bicycle
+LEVEL - 11 (Section 4.3).dta,,Free_Scooter,[Checkbox] : Whether One or more member of the household received items free of 
+LEVEL - 11 (Section 4.3).dta,,Num_Free_Scooter,Total number of free Motorcycle/Scooty
+LEVEL - 11 (Section 4.3).dta,,Free_Clothing,[Checkbox] : Whether One or more member of the household received items free of 
+LEVEL - 11 (Section 4.3).dta,,Num_Free_Clothing,Total number of free Clothing (Schooling uniform etc.)
+LEVEL - 11 (Section 4.3).dta,,Free_Footwear,[Checkbox] : Whether One or more member of the household received items free of 
+LEVEL - 11 (Section 4.3).dta,,Num_Free_Footwear,Total number of free Footwear (School shoe etc.)
+LEVEL - 11 (Section 4.3).dta,,Free_Other,[Checkbox] : Whether One or more member of the household received items free of 
+LEVEL - 11 (Section 4.3).dta,,Num_Free_Other,Total number of free Other items
+LEVEL - 11 (Section 4.3).dta,,Possess_Television,Whether household possessed one or more item as on the date of the survey- Telev
+LEVEL - 11 (Section 4.3).dta,,Possess_Radio,Whether household possessed one or more item as on the date of the survey- Radio
+LEVEL - 11 (Section 4.3).dta,,Possess_Laptop,Whether household possessed one or more item as on the date of the survey - Lapt
+LEVEL - 11 (Section 4.3).dta,,Possess_Mobile,Whether household possessed one or more item as on the date of the survey- Mobil
+LEVEL - 11 (Section 4.3).dta,,Possess_Bicycle,Whether household possessed one or more item as on the date of the survey- Bicyc
+LEVEL - 11 (Section 4.3).dta,,Possess_Scooter,Whether household possessed one or more item as on the date of the survey- Motor
+LEVEL - 11 (Section 4.3).dta,,Possess_Car,Whether household possessed one or more item as on the date of the survey- Motor
+LEVEL - 11 (Section 4.3).dta,,Possess_Truck,Whether household possessed one or more item as on the date of the survey- Truck
+LEVEL - 11 (Section 4.3).dta,,Possess_AnimalCart,Whether household possessed one or more item as on the date of the survey - Anim
+LEVEL - 11 (Section 4.3).dta,,Possess_Refrigerator,Whether household possessed one or more item as on the date of the survey- Refri
+LEVEL - 11 (Section 4.3).dta,,Possess_WashingMachine,Whether household possessed one or more item as on the date of the survey- Washi
+LEVEL - 11 (Section 4.3).dta,,Possess_AirCooler,Whether household possessed one or more item as on the date of the survey- Air c
+LEVEL - 11 (Section 4.3).dta,,TV_Facility_Type,Type of multichannel television facility is used by the household as on the date
+LEVEL - 11 (Section 4.3).dta,,Multiplier,Multiplier
+LEVEL - 10 (Section 12).dta,,Survey_Name,Survey Name
+LEVEL - 10 (Section 12).dta,,Year,Year
+LEVEL - 10 (Section 12).dta,,FSU_Serial_No,FSU Serial No.
+LEVEL - 10 (Section 12).dta,,Sector,Sector
+LEVEL - 10 (Section 12).dta,,State,State
+LEVEL - 10 (Section 12).dta,,NSS_Region,NSS-Region
+LEVEL - 10 (Section 12).dta,,District,District
+LEVEL - 10 (Section 12).dta,,Stratum,Stratum
+LEVEL - 10 (Section 12).dta,,Sub_stratum,Sub-stratum
+LEVEL - 10 (Section 12).dta,,Panel,Panel
+LEVEL - 10 (Section 12).dta,,Sub_sample,Sub-sample
+LEVEL - 10 (Section 12).dta,,FOD_Sub_Region,FOD-Sub-Region
+LEVEL - 10 (Section 12).dta,,Sample_SU_No,Sample SU No.
+LEVEL - 10 (Section 12).dta,,Sample_Sub_Division_No,Sample Sub-division no.
+LEVEL - 10 (Section 12).dta,,Second_Stage_Stratum_No,Second-stage-stratum no.
+LEVEL - 10 (Section 12).dta,,Sample_Household_No,Sample hhld. No.
+LEVEL - 10 (Section 12).dta,,Questionnaire_No,Questionnaire No.
+LEVEL - 10 (Section 12).dta,,Level,Level
+LEVEL - 10 (Section 12).dta,,Item_Code_12_series,Item Code
+LEVEL - 10 (Section 12).dta,,OOHP_Quantity_12_series,Consumption out of home produce--Quantity(0.000)
+LEVEL - 10 (Section 12).dta,,OOHP_Value_12_series,Consumption out of home produce--Value(Rs.)
+LEVEL - 10 (Section 12).dta,,Total_Consumption_Quantity_12_se,Total Consumption--Quantity(0.000)
+LEVEL - 10 (Section 12).dta,,Total_Consumption_Value_12_serie,Total Consumption--Value(Rs.)
+LEVEL - 10 (Section 12).dta,,Source_12_series,Source
+LEVEL - 10 (Section 12).dta,,Multiplier,Multiplier
+"LEVEL - 14 (Section  A1,B1 & C1).dta",,Survey_Name,Survey Name
+"LEVEL - 14 (Section  A1,B1 & C1).dta",,Year,Year
+"LEVEL - 14 (Section  A1,B1 & C1).dta",,FSU_Serial_No,FSU Serial No.
+"LEVEL - 14 (Section  A1,B1 & C1).dta",,Sector,Sector
+"LEVEL - 14 (Section  A1,B1 & C1).dta",,State,State
+"LEVEL - 14 (Section  A1,B1 & C1).dta",,NSS_Region,NSS-Region
+"LEVEL - 14 (Section  A1,B1 & C1).dta",,District,District
+"LEVEL - 14 (Section  A1,B1 & C1).dta",,Stratum,Stratum
+"LEVEL - 14 (Section  A1,B1 & C1).dta",,Sub_stratum,Sub-stratum
+"LEVEL - 14 (Section  A1,B1 & C1).dta",,Panel,Panel
+"LEVEL - 14 (Section  A1,B1 & C1).dta",,Sub_sample,Sub-sample
+"LEVEL - 14 (Section  A1,B1 & C1).dta",,FOD_Sub_Region,FOD-Sub-Region
+"LEVEL - 14 (Section  A1,B1 & C1).dta",,Sample_SU_No,Sample SU No.
+"LEVEL - 14 (Section  A1,B1 & C1).dta",,Sample_Sub_Division_No,Sample Sub-division no.
+"LEVEL - 14 (Section  A1,B1 & C1).dta",,Second_Stage_Stratum_No,Second-stage-stratum no.
+"LEVEL - 14 (Section  A1,B1 & C1).dta",,Sample_Household_No,Sample hhld. No.
+"LEVEL - 14 (Section  A1,B1 & C1).dta",,Questionnaire_No,Questionnaire No.
+"LEVEL - 14 (Section  A1,B1 & C1).dta",,Level,Level
+"LEVEL - 14 (Section  A1,B1 & C1).dta",,SECTION,Section
+"LEVEL - 14 (Section  A1,B1 & C1).dta",,ITEM_CODE,Item Code
+"LEVEL - 14 (Section  A1,B1 & C1).dta",,VALUE_RS,Value (in Rs)
+"LEVEL - 14 (Section  A1,B1 & C1).dta",,MULTIPLIER,Multiplier
+LEVEL - 02 (Section 3).dta,,Survey_Name,Survey Name
+LEVEL - 02 (Section 3).dta,,Year,Year
+LEVEL - 02 (Section 3).dta,,FSU_Serial_No,FSU Serial No.
+LEVEL - 02 (Section 3).dta,,Sector,Sector
+LEVEL - 02 (Section 3).dta,,State,State
+LEVEL - 02 (Section 3).dta,,NSS_Region,NSS-Region
+LEVEL - 02 (Section 3).dta,,District,District
+LEVEL - 02 (Section 3).dta,,Stratum,Stratum
+LEVEL - 02 (Section 3).dta,,Sub_stratum,Sub-stratum
+LEVEL - 02 (Section 3).dta,,Panel,Panel
+LEVEL - 02 (Section 3).dta,,Sub_sample,Sub-sample
+LEVEL - 02 (Section 3).dta,,FOD_Sub_Region,FOD-Sub-Region
+LEVEL - 02 (Section 3).dta,,Sample_SU_No,Sample SU No.
+LEVEL - 02 (Section 3).dta,,Sample_Sub_Division_No,Sample Sub-division no.
+LEVEL - 02 (Section 3).dta,,Second_Stage_Stratum_No,Second-stage-stratum no.
+LEVEL - 02 (Section 3).dta,,Sample_Household_No,Sample hhld. No.
+LEVEL - 02 (Section 3).dta,,Questionnaire_No,Questionnaire No.
+LEVEL - 02 (Section 3).dta,,Level,Level
+LEVEL - 02 (Section 3).dta,,Person_Serial_No,Person Srl No.
+LEVEL - 02 (Section 3).dta,,Relation_to_Head,Relation to head (code)
+LEVEL - 02 (Section 3).dta,,Gender,Gender
+LEVEL - 02 (Section 3).dta,,Age,Age(in years)
+LEVEL - 02 (Section 3).dta,,Marital_Status,Marital Status (code)
+LEVEL - 02 (Section 3).dta,,Education_Level,Highest educational level attained (code)
+LEVEL - 02 (Section 3).dta,,Years_of_Education,Total year of education completed
+LEVEL - 02 (Section 3).dta,,Used_Internet_Last_30_Days,Whether used internet from any location during last 30 days
+LEVEL - 02 (Section 3).dta,,Days_Away_From_Home_Last_30_Days,No. of days stayed away from home during last 30 days
+LEVEL - 02 (Section 3).dta,,Meals_Usually_Taken_Per_Day,No. of meals usually taken in a day
+LEVEL - 02 (Section 3).dta,,Meals_From_School,"No. of meals taken during last 30 days from school, balwadi etc."
+LEVEL - 02 (Section 3).dta,,Meals_From_Employer,No. of meals taken during last 30 days from employer as perquisites or part of w
+LEVEL - 02 (Section 3).dta,,Meals_Other,No. of meals taken during last 30 days  others
+LEVEL - 02 (Section 3).dta,,Meals_On_Payment,No. of meals taken during last 30 days on payment
+LEVEL - 02 (Section 3).dta,,Meals_At_Home,No. of meals taken during last 30 days at home
+LEVEL - 02 (Section 3).dta,,Revisit_Status,Status of Member as on revisit
+LEVEL - 02 (Section 3).dta,,FDQ_Original_Member,FDQ original member(generated field)
+LEVEL - 02 (Section 3).dta,,Multiplier,Multiplier
+LEVEL - 06 (Section 7).dta,,Survey_Name,Survey Name
+LEVEL - 06 (Section 7).dta,,Year,Year
+LEVEL - 06 (Section 7).dta,,FSU_Serial_No,FSU Serial No.
+LEVEL - 06 (Section 7).dta,,Sector,Sector
+LEVEL - 06 (Section 7).dta,,State,State
+LEVEL - 06 (Section 7).dta,,NSS_Region,NSS-Region
+LEVEL - 06 (Section 7).dta,,District,District
+LEVEL - 06 (Section 7).dta,,Stratum,Stratum
+LEVEL - 06 (Section 7).dta,,Sub_stratum,Sub-stratum
+LEVEL - 06 (Section 7).dta,,Panel,Panel
+LEVEL - 06 (Section 7).dta,,Sub_sample,Sub-sample
+LEVEL - 06 (Section 7).dta,,FOD_Sub_Region,FOD-Sub-Region
+LEVEL - 06 (Section 7).dta,,Sample_SU_No,Sample SU No.
+LEVEL - 06 (Section 7).dta,,Sample_Sub_Division_No,Sample Sub-division no.
+LEVEL - 06 (Section 7).dta,,Second_Stage_Stratum_No,Second-stage-stratum no.
+LEVEL - 06 (Section 7).dta,,Sample_Household_No,Sample hhld. No.
+LEVEL - 06 (Section 7).dta,,Questionnaire_No,Questionnaire No.
+LEVEL - 06 (Section 7).dta,,Level,Level
+LEVEL - 06 (Section 7).dta,,Item_Code,Item Code
+LEVEL - 06 (Section 7).dta,,Total_Consumption_Quantity,Total Consumption-Quantity(0.000)
+LEVEL - 06 (Section 7).dta,,Total_Consumption_Value,Total Consumption-Value(Rs.)
+LEVEL - 06 (Section 7).dta,,Source,Source
+LEVEL - 06 (Section 7).dta,,Multiplier,Multiplier
+LEVEL - 01(Section 1 and 1.1).dta,,Survey_Name,Survey Name
+LEVEL - 01(Section 1 and 1.1).dta,,Year,Year
+LEVEL - 01(Section 1 and 1.1).dta,,FSU_Serial_No,FSU Serial No.
+LEVEL - 01(Section 1 and 1.1).dta,,Sector,Sector
+LEVEL - 01(Section 1 and 1.1).dta,,State,State
+LEVEL - 01(Section 1 and 1.1).dta,,NSS_Region,NSS-Region
+LEVEL - 01(Section 1 and 1.1).dta,,District,District
+LEVEL - 01(Section 1 and 1.1).dta,,Stratum,Stratum
+LEVEL - 01(Section 1 and 1.1).dta,,Sub_stratum,Sub-stratum
+LEVEL - 01(Section 1 and 1.1).dta,,Panel,Panel
+LEVEL - 01(Section 1 and 1.1).dta,,Sub_sample,Sub-sample
+LEVEL - 01(Section 1 and 1.1).dta,,FOD_Sub_Region,FOD-Sub-Region
+LEVEL - 01(Section 1 and 1.1).dta,,Sample_SU_No,Sample SU No.
+LEVEL - 01(Section 1 and 1.1).dta,,Sample_Sub_Division_No,Sample Sub-division no.
+LEVEL - 01(Section 1 and 1.1).dta,,Second_Stage_Stratum_No,Second-stage-stratum no.
+LEVEL - 01(Section 1 and 1.1).dta,,Sample_Household_No,Sample hhld. No.
+LEVEL - 01(Section 1 and 1.1).dta,,Questionnaire_No,Questionnaire No.
+LEVEL - 01(Section 1 and 1.1).dta,,Level,Level
+LEVEL - 01(Section 1 and 1.1).dta,,Survey_Code,Survey Code
+LEVEL - 01(Section 1 and 1.1).dta,,Reason_for_Substitution_Code,Reason for substitution Code
+LEVEL - 01(Section 1 and 1.1).dta,,Multiplier,Multiplier
+LEVEL - 08 (Section 8.1).dta,,Survey_Name,Survey Name
+LEVEL - 08 (Section 8.1).dta,,Year,Year
+LEVEL - 08 (Section 8.1).dta,,FSU_Serial_No,FSU Serial No.
+LEVEL - 08 (Section 8.1).dta,,Sector,Sector
+LEVEL - 08 (Section 8.1).dta,,State,State
+LEVEL - 08 (Section 8.1).dta,,NSS_Region,NSS-Region
+LEVEL - 08 (Section 8.1).dta,,District,District
+LEVEL - 08 (Section 8.1).dta,,Stratum,Stratum
+LEVEL - 08 (Section 8.1).dta,,Sub_stratum,Sub-stratum
+LEVEL - 08 (Section 8.1).dta,,Panel,Panel
+LEVEL - 08 (Section 8.1).dta,,Sub_sample,Sub-sample
+LEVEL - 08 (Section 8.1).dta,,FOD_Sub_Region,FOD-Sub-Region
+LEVEL - 08 (Section 8.1).dta,,Sample_SU_No,Sample SU No.
+LEVEL - 08 (Section 8.1).dta,,Sample_Sub_Division_No,Sample Sub-division no.
+LEVEL - 08 (Section 8.1).dta,,Second_Stage_Stratum_No,Second-stage-stratum no.
+LEVEL - 08 (Section 8.1).dta,,Sample_Household_No,Sample hhld. No.
+LEVEL - 08 (Section 8.1).dta,,Questionnaire_No,Questionnaire No.
+LEVEL - 08 (Section 8.1).dta,,Level,Level
+LEVEL - 08 (Section 8.1).dta,,Item_Code_8_1,Item Code
+LEVEL - 08 (Section 8.1).dta,,Out_of_home_qty_000,Consumption out of home produce--Quantity(0.000)
+LEVEL - 08 (Section 8.1).dta,,Out_of_home_value_rs,Consumption out of home produce--Value(Rs.)
+LEVEL - 08 (Section 8.1).dta,,Total_consumption_qty_000,Total Consumption--Quantity(0.000)
+LEVEL - 08 (Section 8.1).dta,,Total_consumption_value_rs,Total Consumption--Value(Rs.)
+LEVEL - 08 (Section 8.1).dta,,Source_8_1,Source
+LEVEL - 08 (Section 8.1).dta,,Multiplier,Multiplier
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,Survey_Name,Survey Name
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,Year,Year
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,FSU_Serial_No,FSU Serial No.
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,Sector,Sector
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,State,State
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,NSS_Region,NSS-Region
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,District,District
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,Stratum,Stratum
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,Sub_stratum,Sub-stratum
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,Panel,Panel
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,Sub_sample,Sub-sample
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,FOD_Sub_Region,FOD-Sub-Region
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,Sample_SU_No,Sample SU No.
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,Sample_Sub_Division_No,Sample Sub-division no.
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,Second_Stage_Stratum_No,Second-stage-stratum no.
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,Sample_Household_No,Sample hhld. No.
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,Questionnaire_No,Questionnaire No.
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,VISIT,Visit
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,LEVEL,Level
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,SECTION,Section
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,TIME_TAKEN,Time taken to canvass the questionnaire (in minutes)
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,MONTHLY_CONSUMPTION_EXP,Households usual consumption expenditure in a month (in Rs.)
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,ONLINE_EXPENDITURE,Total expenditure incurred on online purchase/payment in last 30 days
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,INFORMANT_CODE,Informant code
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,RESPONSE_CODE,Response code
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,HOUSEHOLD_SIZE,Household size
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,VISIT_MONTH,Visit Month
+"LEVEL - 15 (Section 1.1, A2,B2 & C2).dta",,MULTIPLIER,Multiplier
+LEVEL - 07 (Section 4.2).dta,,Survey_Name,Survey Name
+LEVEL - 07 (Section 4.2).dta,,Year,Year
+LEVEL - 07 (Section 4.2).dta,,FSU_Serial_No,FSU Serial No.
+LEVEL - 07 (Section 4.2).dta,,Sector,Sector
+LEVEL - 07 (Section 4.2).dta,,State,State
+LEVEL - 07 (Section 4.2).dta,,NSS_Region,NSS-Region
+LEVEL - 07 (Section 4.2).dta,,District,District
+LEVEL - 07 (Section 4.2).dta,,Stratum,Stratum
+LEVEL - 07 (Section 4.2).dta,,Sub_stratum,Sub-stratum
+LEVEL - 07 (Section 4.2).dta,,Panel,Panel
+LEVEL - 07 (Section 4.2).dta,,Sub_sample,Sub-sample
+LEVEL - 07 (Section 4.2).dta,,FOD_Sub_Region,FOD-Sub-Region
+LEVEL - 07 (Section 4.2).dta,,Sample_SU_No,Sample SU No.
+LEVEL - 07 (Section 4.2).dta,,Sample_Sub_Division_No,Sample Sub-division no.
+LEVEL - 07 (Section 4.2).dta,,Second_Stage_Stratum_No,Second-stage-stratum no.
+LEVEL - 07 (Section 4.2).dta,,Sample_Household_No,Sample hhld. No.
+LEVEL - 07 (Section 4.2).dta,,Questionnaire_No,Questionnaire No.
+LEVEL - 07 (Section 4.2).dta,,Level,Level
+LEVEL - 07 (Section 4.2).dta,,Kerosene_ration_card,Whether the household procured kerosene using ration card during last 30 days - 
+LEVEL - 07 (Section 4.2).dta,,LPG_subsidy_received,Whether household received subsidy on LPG cylinder during the last 3 months?
+LEVEL - 07 (Section 4.2).dta,,LPG_subsidized_cylinders,If yes in Q4.2.1 Number of subsidized LPG cylinder received during the last 3 mo
+LEVEL - 07 (Section 4.2).dta,,Free_electricity,Whether household received free electricity during the last 30 days
+LEVEL - 07 (Section 4.2).dta,,Any_member_attended_school,Whether any household member is attending/attended educational institution durin
+LEVEL - 07 (Section 4.2).dta,,Num_govt_school_attended,If Code 1 in Q4.2.3 Number attending /attended Govt. Institution ?
+LEVEL - 07 (Section 4.2).dta,,Num_private_school_attended,If Code 1 in Q4.2.3 Number  attending /attended Private Institution ?
+LEVEL - 07 (Section 4.2).dta,,Free_textbooks_received,[Checkbox] If Code 1 in Q4.2.3 whether any member of the household received foll
+LEVEL - 07 (Section 4.2).dta,,Total_textbooks,Total no. of free textbooks received
+LEVEL - 07 (Section 4.2).dta,,Free_stationery_received,[Checkbox] If Code 1 in Q4.2.3 whether any member of the household received foll
+LEVEL - 07 (Section 4.2).dta,,Total_stationery,Total no. of free stationaries received
+LEVEL - 07 (Section 4.2).dta,,Free_school_bag_received,[Checkbox] If Code 1 in Q4.2.3 whether any member of the household received foll
+LEVEL - 07 (Section 4.2).dta,,Total_school_bags,Total no. of free school bags received
+LEVEL - 07 (Section 4.2).dta,,Free_other_items_received,[Checkbox] If Code 1 in Q4.2.3 whether any member of the household received foll
+LEVEL - 07 (Section 4.2).dta,,Total_other_items,Total no. of free other items received
+LEVEL - 07 (Section 4.2).dta,,Fee_waiver_received,If Code 1 in Q4.2.3 Whether Any member received reimbursement/waiver of school/c
+LEVEL - 07 (Section 4.2).dta,,Num_fee_waiver_received,If Code 1 in Q4.2.6 Number of member received reimbursement/waiver  ?
+LEVEL - 07 (Section 4.2).dta,,Ayushman_beneficiary,Is one or more member of the household a benificiary of Pradhan Mantri Jan Aarog
+LEVEL - 07 (Section 4.2).dta,,Num_ayushman_beneficiaries,If Code 1 in Q4.2.7 Number of beneficiaries ?
+LEVEL - 07 (Section 4.2).dta,,Hospitalization_case,Whether there was any case of hospitalization in the household during last 365 d
+LEVEL - 07 (Section 4.2).dta,,Medical_benefit_received,Whether one or more member of the household has received benefits of medical tre
+LEVEL - 07 (Section 4.2).dta,,Num_medical_beneficiaries,If yes in Q4.2.9 number of member received benifit ?
+LEVEL - 07 (Section 4.2).dta,,Medical_benefit_amount,If yes in Q4.2.9 Amount ?
+LEVEL - 07 (Section 4.2).dta,,Online_purchase_fuel_light,Whether any online purchase/payment has been made during the reference period to
+LEVEL - 07 (Section 4.2).dta,,Online_purchase_toilet_articles,Whether any online purchase/payment has been made during the reference period to
+LEVEL - 07 (Section 4.2).dta,,Online_purchase_education,Whether any online purchase/payment has been made during the reference period to
+LEVEL - 07 (Section 4.2).dta,,Online_purchase_medicine,Whether any online purchase/payment has been made during the reference period to
+LEVEL - 07 (Section 4.2).dta,,Online_purchase_services,Whether any online purchase/payment has been made during the reference period to
+LEVEL - 07 (Section 4.2).dta,,Multiplier,Multiplier
+LEVEL - 12 (Section 13).dta,,Survey_Name,Survey Name
+LEVEL - 12 (Section 13).dta,,Year,Year
+LEVEL - 12 (Section 13).dta,,FSU_Serial_No,FSU Serial No.
+LEVEL - 12 (Section 13).dta,,Sector,Sector
+LEVEL - 12 (Section 13).dta,,State,State
+LEVEL - 12 (Section 13).dta,,NSS_Region,NSS-Region
+LEVEL - 12 (Section 13).dta,,District,District
+LEVEL - 12 (Section 13).dta,,Stratum,Stratum
+LEVEL - 12 (Section 13).dta,,Sub_stratum,Sub-stratum
+LEVEL - 12 (Section 13).dta,,Panel,Panel
+LEVEL - 12 (Section 13).dta,,Sub_sample,Sub-sample
+LEVEL - 12 (Section 13).dta,,FOD_Sub_Region,FOD-Sub-Region
+LEVEL - 12 (Section 13).dta,,Sample_SU_No,Sample SU No.
+LEVEL - 12 (Section 13).dta,,Sample_Sub_Division_No,Sample Sub-division no.
+LEVEL - 12 (Section 13).dta,,Second_Stage_Stratum_No,Second-stage-stratum no.
+LEVEL - 12 (Section 13).dta,,Sample_Household_No,Sample hhld. No.
+LEVEL - 12 (Section 13).dta,,Questionnaire_No,Questionnaire No.
+LEVEL - 12 (Section 13).dta,,Level,Level
+LEVEL - 12 (Section 13).dta,,ITEM_CODE,Item Code
+LEVEL - 12 (Section 13).dta,,QUANTITY,Quantity (0.00)
+LEVEL - 12 (Section 13).dta,,VALUE,Value (Rs.)
+LEVEL - 12 (Section 13).dta,,MULTIPLIER,Multiplier
+Level - 13 (Section 14).dta,,Survey_Name,Survey Name
+Level - 13 (Section 14).dta,,Year,Year
+Level - 13 (Section 14).dta,,FSU_Serial_No,FSU Serial No.
+Level - 13 (Section 14).dta,,Sector,Sector
+Level - 13 (Section 14).dta,,State,State
+Level - 13 (Section 14).dta,,NSS_Region,NSS-Region
+Level - 13 (Section 14).dta,,District,District
+Level - 13 (Section 14).dta,,Stratum,Stratum
+Level - 13 (Section 14).dta,,Sub_stratum,Sub-stratum
+Level - 13 (Section 14).dta,,Panel,Panel
+Level - 13 (Section 14).dta,,Sub_sample,Sub-sample
+Level - 13 (Section 14).dta,,FOD_Sub_Region,FOD-Sub-Region
+Level - 13 (Section 14).dta,,Sample_SU_No,Sample SU No.
+Level - 13 (Section 14).dta,,Sample_Sub_Division_No,Sample Sub-division no.
+Level - 13 (Section 14).dta,,Second_Stage_Stratum_No,Second-stage-stratum no.
+Level - 13 (Section 14).dta,,Sample_Household_No,Sample hhld. No.
+Level - 13 (Section 14).dta,,Questionnaire_No,Questionnaire No.
+Level - 13 (Section 14).dta,,Level,Level
+Level - 13 (Section 14).dta,,ITEM_CODE,Item Code
+Level - 13 (Section 14).dta,,FIRST_PURCHASE_NUMBER,First-hand purchase:number
+Level - 13 (Section 14).dta,,PURCHASED_ON_HIRE,Whether purchased on hire
+Level - 13 (Section 14).dta,,FIRST_PURCHASE_VALUE,First-hand purchase:Value(Rs.)
+Level - 13 (Section 14).dta,,REPAIR_COST,Cost of repair & maintenance /cost of raw material and services for construction
+Level - 13 (Section 14).dta,,SECOND_HAND_NUMBER,2nd-hand purchase:Number
+Level - 13 (Section 14).dta,,SECOND_HAND_VALUE,2nd-hand purchase:Value(Rs.)
+Level - 13 (Section 14).dta,,TOTAL_EXPENDITURE,Total expenditure(Rs.)
+Level - 13 (Section 14).dta,,MULTIPLIER,Multiplier
+LEVEL - 09 (Section 9 & 10 & 11).dta,,Survey_Name,Survey Name
+LEVEL - 09 (Section 9 & 10 & 11).dta,,Year,Year
+LEVEL - 09 (Section 9 & 10 & 11).dta,,FSU_Serial_No,FSU Serial No.
+LEVEL - 09 (Section 9 & 10 & 11).dta,,Sector,Sector
+LEVEL - 09 (Section 9 & 10 & 11).dta,,State,State
+LEVEL - 09 (Section 9 & 10 & 11).dta,,NSS_Region,NSS-Region
+LEVEL - 09 (Section 9 & 10 & 11).dta,,District,District
+LEVEL - 09 (Section 9 & 10 & 11).dta,,Stratum,Stratum
+LEVEL - 09 (Section 9 & 10 & 11).dta,,Sub_stratum,Sub-stratum
+LEVEL - 09 (Section 9 & 10 & 11).dta,,Panel,Panel
+LEVEL - 09 (Section 9 & 10 & 11).dta,,Sub_sample,Sub-sample
+LEVEL - 09 (Section 9 & 10 & 11).dta,,FOD_Sub_Region,FOD-Sub-Region
+LEVEL - 09 (Section 9 & 10 & 11).dta,,Sample_SU_No,Sample SU No.
+LEVEL - 09 (Section 9 & 10 & 11).dta,,Sample_Sub_Division_No,Sample Sub-division no.
+LEVEL - 09 (Section 9 & 10 & 11).dta,,Second_Stage_Stratum_No,Second-stage-stratum no.
+LEVEL - 09 (Section 9 & 10 & 11).dta,,Sample_Household_No,Sample hhld. No.
+LEVEL - 09 (Section 9 & 10 & 11).dta,,Questionnaire_No,Questionnaire No.
+LEVEL - 09 (Section 9 & 10 & 11).dta,,Level,Level
+LEVEL - 09 (Section 9 & 10 & 11).dta,,Item_Code_9_1_to_11_4,Item Code
+LEVEL - 09 (Section 9 & 10 & 11).dta,,Value_Rs_9_1_to_11_4,Value(Rs.)
+LEVEL - 09 (Section 9 & 10 & 11).dta,,Multiplier,Multiplier
