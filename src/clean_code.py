@@ -47,6 +47,7 @@ df_long = df_long.rename(columns={
 
 # [6] Extract only year
 df_long['date'] = df_long['date'].str.extract(r'(\d{4})')
+df_long = df_long.dropna(subset=['date'])  # remove rows where year extraction failed
 df_long['date'] = df_long['date'].astype(int)
 
 # [7] Select needed columns
@@ -76,8 +77,8 @@ def assign_region(country):
 
 df_clean['Region'] = df_clean['country'].apply(assign_region)
 
-# ✅ [10] Sort by indicator → country → date
-df_clean = df_clean.sort_values(by=['indicator', 'country', 'date'])
+# ✅ [10] Sort by country → indicator → date
+df_clean = df_clean.sort_values(by=['country', 'indicator', 'date'])
 
 # [11] Rearrange column order
 final_columns = [
@@ -90,4 +91,4 @@ df_final = df_clean[final_columns]
 processed_path = os.path.join(project_root, 'data', 'processed', 'gfi_final_output.csv')
 df_final.to_csv(processed_path, index=False)
 
-print(f"✅ Data successfully transformed and sorted by indicator → country → date. Saved to: {processed_path}")
+print(f"✅ Data successfully transformed and sorted by country → indicator → date. Saved to: {processed_path}")
