@@ -78,7 +78,7 @@ def assign_region(country):
 df_clean['Region'] = df_clean['country'].apply(assign_region)
 
 # ✅ [10] Sort by country → indicator → date
-df_clean = df_clean.sort_values(by=['country', 'indicator', 'date'])
+df_clean = df_clean.sort_values(by=['country', 'indicator', 'date'], ascending=[True, True, False])
 
 # [11] Rearrange column order
 final_columns = [
