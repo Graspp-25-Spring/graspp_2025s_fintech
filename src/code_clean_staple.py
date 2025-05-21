@@ -37,8 +37,9 @@ country_to_iso3.update(manual_mappings)
 # [4] Map 'Area' column values to ISO3 codes
 df['Area'] = df['Area'].map(country_to_iso3)
 
-# [5] Rename column: 'Area' → 'code'
-df = df.rename(columns={'Area': 'code'})
+# [5] Rename column
+df = df.rename(columns={'Area': 'country'})
+df = df.rename(columns={'Year': 'year'})
 
 # [6] Overwrite the original file with updated data
 df.to_csv(raw_data_path, index=False)

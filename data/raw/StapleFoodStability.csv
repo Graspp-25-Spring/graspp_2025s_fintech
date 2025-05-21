@@ -1,4 +1,4 @@
-Unnamed: 0,code,Year,Food supply quantity (kg/capita/yr)_Cereals - Excluding Beer,Food supply quantity (kg/capita/yr)_Starchy Roots,rolling_std
+Unnamed: 0,country,year,Food supply quantity (kg/capita/yr)_Cereals - Excluding Beer,Food supply quantity (kg/capita/yr)_Starchy Roots,rolling_std
 0,AFG,2010,202.73,6.69,
 1,AFG,2011,197.29,5.72,
 2,AFG,2012,190.31,6.4,
