@@ -1,0 +1,132 @@
+,type,non_missing,missing,nunique
+code,object,14,0,1
+year,int64,14,0,14
+FarmCredit,float64,0,14,0
+ICTPolicy,float64,2,12,2
+ProductionValue,float64,0,14,0
+ProcessingValue,float64,0,14,0
+Fertilizer,float64,0,14,0
+Rural Access to Electricity(Percent of Population),float64,0,14,0
+Mobile Cellular Subscriptions (per 100 people),float64,0,14,0
+Fixed Broadband Subsciptions (per 100 people),float64,0,14,0
+"Fertility rate, total (births per woman)",float64,13,1,13
+"GDP per capita, PPP (constant 2021 international $)",float64,13,1,13
+"Life expectancy at birth, total (years)",float64,13,1,13
+"Mortality rate, infant (per 1,000 live births)",float64,13,1,7
+Population density (people per sq. km of land area),float64,12,2,12
+Population growth (annual %),float64,13,1,13
+"Population, total",float64,13,1,13
+Poverty headcount ratio at national poverty lines (% of population),float64,4,10,4
+Rural population (% of total population),float64,13,1,13
+Urban population (% of total population),float64,13,1,13
+Account (% age 15+),object,5,9,5
+Account ownership at a financial institution or with a mobile-money-service provider (% of population ages 15+),object,14,0,5
+"Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)",object,14,0,5
+"Account ownership at a financial institution or with a mobile-money-service provider, male (% of population ages 15+)",object,14,0,5
+"Account ownership at a financial institution or with a mobile-money-service provider, older adults (% of population ages 25+)",object,14,0,5
+"Account ownership at a financial institution or with a mobile-money-service provider, poorest 40% (% of population ages 15+)",object,14,0,5
+"Account ownership at a financial institution or with a mobile-money-service provider, primary education or less (% of population ages 15+)",object,14,0,5
+"Account ownership at a financial institution or with a mobile-money-service provider, richest 60% (% of population ages 15+)",object,14,0,5
+"Account ownership at a financial institution or with a mobile-money-service provider, secondary education or more (% of population ages 15+)",object,14,0,5
+"Account ownership at a financial institution or with a mobile-money-service provider, young adults (% of population ages 15-24)",object,14,0,5
+"Account, female (% age 15+)",object,5,9,5
+"Account, male (% age 15+)",object,5,9,5
+"Account, rural (% age 15+)",object,5,9,1
+"Account, urban (% age 15+)",object,5,9,1
+Current account balance (% of GDP),object,14,0,14
+"Current account balance (BoP, current US$)",object,14,0,14
+Financial institution account (% age 15+),object,5,9,5
+"Financial institution account, female (% age 15+)",object,5,9,5
+"Financial institution account, male (% age 15+)",object,5,9,5
+"Financial institution account, rural (% age 15+)",object,5,9,1
+"Financial institution account, urban (% age 15+)",object,5,9,1
+"Made a deposit (% with a financial institution account, age 15+)",object,5,9,4
+Made a digital in-store merchant payment (age 15+),object,5,9,2
+Made a digital in-store merchant payment: using a mobile phone (% age 15+),object,5,9,2
+"Made a digital in-store merchant payment: using a mobile phone, female (% age 15+)",object,5,9,2
+"Made a digital in-store merchant payment: using a mobile phone, male (% age 15+)",object,5,9,2
+"Made a digital in-store merchant payment: using a mobile phone, rural (% age 15+)",object,5,9,1
+"Made a digital in-store merchant payment: using a mobile phone, urban (% age 15+)",object,5,9,1
+Made a digital merchant payment (% age 15+),object,5,9,2
+"Made a digital merchant payment, female (% age 15+)",object,5,9,2
+"Made a digital merchant payment, male (% age 15+)",object,5,9,2
+"Made a digital merchant payment, rural (% age 15+)",object,5,9,1
+"Made a digital merchant payment, urban (% age 15+)",object,5,9,1
+Made a digital online merchant payment for an online purchase (% age 15+),object,5,9,2
+Made a digital payment (% age 15+),object,5,9,4
+"Made a digital payment, female (% age 15+)",object,5,9,4
+"Made a digital payment, male (% age 15+)",object,5,9,4
+"Made a digital payment, rural (% age 15+)",object,5,9,1
+"Made a digital payment, urban (% age 15+)",object,5,9,1
+Made a utility payment (% age 15+),object,5,9,4
+"Made a utility payment, female (% age 15+)",object,5,9,4
+"Made a utility payment, male (% age 15+)",object,5,9,4
+"Made a utility payment, rural (% age 15+)",object,5,9,1
+"Made a utility payment, urban (% age 15+)",object,5,9,1
+Made a utility payment: using a financial institution account (% age 15+),object,5,9,4
+Made a utility payment: using a mobile phone (% age 15+),object,5,9,4
+"Made a withdrawal (% with a financial institution account, age 15+)",object,5,9,4
+Made or received a digital payment (% age 15+),object,5,9,4
+"Made or received a digital payment, female (% age 15+)",object,5,9,4
+"Made or received a digital payment, male (% age 15+)",object,5,9,4
+"Made or received a digital payment, rural (% age 15+)",object,5,9,1
+"Made or received a digital payment, urban (% age 15+)",object,5,9,1
+Mobile money account (% age 15+),object,5,9,4
+"Mobile money account, female (% age 15+)",object,5,9,4
+"Mobile money account, male (% age 15+)",object,5,9,4
+"Mobile money account, rural (% age 15+)",object,5,9,1
+"Mobile money account, urban (% age 15+)",object,5,9,1
+Own a mobile phone (% age 15+),object,5,9,2
+Owns a debit or credit card (% age 15+),object,5,9,5
+"Owns a debit or credit card, female (% age 15+)",object,5,9,5
+"Owns a debit or credit card, male (% age 15+)",object,5,9,5
+"Owns a debit or credit card, rural (% age 15+)",object,5,9,1
+"Owns a debit or credit card, urban (% age 15+)",object,5,9,1
+Received digital payments (% age 15+),object,5,9,4
+"Received digital payments, female (% age 15+)",object,5,9,4
+"Received digital payments, male (% age 15+)",object,5,9,4
+"Received digital payments, rural (% age 15+)",object,5,9,1
+"Received digital payments, urban (% age 15+)",object,5,9,1
+Saved at a financial institution or using a mobile money account (% age 15+),object,5,9,2
+"Saved at a financial institution or using a mobile money account, female (% age 15+)",object,5,9,2
+"Saved at a financial institution or using a mobile money account, male (% age 15+)",object,5,9,2
+"Saved at a financial institution or using a mobile money account, rural (% age 15+)",object,5,9,1
+"Saved at a financial institution or using a mobile money account, urban (% age 15+)",object,5,9,1
+Saved money using a mobile money account (% age 15+),object,5,9,2
+"Saved money using a mobile money account, female (% age 15+)",object,5,9,2
+"Saved money using a mobile money account, male (% age 15+)",object,5,9,2
+"Saved money using a mobile money account, rural (% age 15+)",object,5,9,1
+"Saved money using a mobile money account, urban (% age 15+)",object,5,9,1
+Store money using a financial institution or a mobile money account (% age 15+),object,5,9,2
+"Store money using a financial institution or a mobile money account (% with an account,  age 15+)",object,5,9,2
+Store money using a mobile money account (% age 15+),object,5,9,2
+"Store money using a mobile money account (% with a mobile money account acount, age 15+)",object,5,9,2
+"Use a mobile phone or the internet to make payments, buy things, or to send or receive money using a financial institution account (% age 15+)",object,5,9,2
+"Use a mobile phone or the internet to make payments, buy things, or to send or receive money using a financial institution account (% with a financial institution account, age 15+)",object,5,9,2
+Used a mobile phone or the internet to access a financial institution account (% age 15+),object,5,9,2
+"Used a mobile phone or the internet to access a financial institution account (% with a financial institution account, age 15+)",object,5,9,2
+"Used a mobile phone or the internet to access an account (% with an account, age 15+)",object,5,9,2
+Used a mobile phone or the internet to access an account(% age 15+),object,5,9,2
+"Used a mobile phone or the internet to access an account, female (% age 15+)",object,5,9,2
+"Used a mobile phone or the internet to access an account, male (% age 15+)",object,5,9,2
+"Used a mobile phone or the internet to access an account, rural (% age 15+)",object,5,9,1
+"Used a mobile phone or the internet to access an account, urban (% age 15+)",object,5,9,1
+Used a mobile phone or the internet to buy something online (% age 15+),object,5,9,3
+"Used a mobile phone or the internet to buy something online, female (% age 15+)",object,5,9,3
+"Used a mobile phone or the internet to buy something online, male (% age 15+)",object,5,9,3
+"Used a mobile phone or the internet to buy something online, rural (% age 15+)",object,5,9,1
+"Used a mobile phone or the internet to buy something online, urban (% age 15+)",object,5,9,1
+Used a mobile phone or the internet to check account balance(% age 15+),object,5,9,3
+"Used a mobile phone or the internet to check account balance(% with a financial institution account, age 15+)",object,5,9,3
+"Used a mobile phone or the internet to pay bills, female (% age 15+)",object,5,9,3
+"Used a mobile phone or the internet to pay bills, male (% age 15+)",object,5,9,3
+"Used a mobile phone or the internet to pay bills, rural (% age 15+)",object,5,9,1
+"Used a mobile phone or the internet to pay bills, urban (% age 15+)",object,5,9,1
+Used a mobile phone or the internet to send money (% age 15+),object,5,9,2
+"Used a mobile phone or the internet to send money, female (% age 15+)",object,5,9,2
+"Used a mobile phone or the internet to send money, male (% age 15+)",object,5,9,2
+"Used a mobile phone or the internet to send money, rural (% age 15+)",object,5,9,1
+"Used a mobile phone or the internet to send money, urban (% age 15+)",object,5,9,1
+Food supply quantity (kg/capita/yr)_Cereals - Excluding Beer,float64,12,2,12
+Food supply quantity (kg/capita/yr)_Starchy Roots,float64,12,2,12
+rolling_std,float64,12,2,12
