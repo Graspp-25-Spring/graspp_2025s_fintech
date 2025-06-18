@@ -214,6 +214,15 @@ indicators_v2 = [
         'name': 'GDP per capita, PPP (constant 2021 international $)'}
 ]
 
+faoCredit = {
+    'db': 'IC',
+    'dbName': 'Credit to Agriculture',
+    'element': {'Value US$, 2015 prices': '6179'},
+    'item': {'Credit to Agriculture, Forestry and Fishing': '23068'},
+    'area': {'-- Southern Asia > (List)': '5303>', '-- South-eastern Asia > (List)': '5304>'},
+    'year': [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+}
+
 for i in range(len(indicators_v1)):
     indicator_Id = indicators_v1[i]['indicator_ID']
     indicator_Name = indicators_v1[i]['name']
