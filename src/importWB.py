@@ -49,7 +49,7 @@ def importWB_v2(indicator_Id, indicator_Name, countries, startYear, endYear, sav
     #            'year': [2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024],
     #            }
     #######################################################################
-    
+
 def importFAO(db, myParam, pivot=False, savetoCsv=False):
 
     # Define parameters for importFAO: area, element, item, year using a dictionary
@@ -68,7 +68,7 @@ def importFAO(db, myParam, pivot=False, savetoCsv=False):
         return result
 
     # Set parameters for the FAO database
-    params = setParams(myParam) 
+    params = setParams(myParam)
 
     # Get the start and end year from the parameters
     startYear = min(myParam['year'])
@@ -222,6 +222,16 @@ faoCredit = {
     'area': {'-- Southern Asia > (List)': '5303>', '-- South-eastern Asia > (List)': '5304>'},
     'year': [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
 }
+
+faoAddedValue = {
+    'db': 'MK',
+    'dbName': 'Macro Indicators',
+    'element': {'Value US$, 2015 prices': '6179'},
+    'item': {'Value Added (Agriculture, Forestry and Fishing)': '22016', 'Value Added (Manufacture of food and beverages)': '22077'},
+    'area': {'-- Southern Asia > (List)': '5303>', '-- South-eastern Asia > (List)': '5304>'},
+    'year': [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+}
+
 
 for i in range(len(indicators_v1)):
     indicator_Id = indicators_v1[i]['indicator_ID']
