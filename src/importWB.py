@@ -49,7 +49,6 @@ def importWB_v2(indicator_Id, indicator_Name, countries, startYear, endYear, sav
     #            'year': [2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024],
     #            }
     #######################################################################
-
 def importFAO(db, myParam, pivot=False, savetoCsv=False):
 
     # Define parameters for importFAO: area, element, item, year using a dictionary
@@ -102,47 +101,14 @@ def importFAO(db, myParam, pivot=False, savetoCsv=False):
         return df_pivot
 
 
-def importWB_v1(database_id, indicator_Id, indicator_Name, countries, startYear, endYear, savetoCsv=False):
-    # connect countries to string
-    if isinstance(countries, list):
-        country_str = ';'.join(countries)
-    else:
-        country_str = countries
-
-    url = f"https://data360api.worldbank.org/data360/data?DATABASE_ID={database_id}&INDICATOR={indicator_Id}&REF_AREA={country_str}&timePeriodFrom={startYear}&timePeriodTo={endYear}&skip=0"
-
-    print(url)
-    response = requests.get(url)
-
-    # Parse the JSON response
-    data = response.json()
-    records = data['data']
-    df = pd.DataFrame(records)
-
-    # Extract only necessary columns
-    df = df[['REF_AREA', 'TIME_PERIOD', 'OBS_VALUE']]
-    df = df.rename(columns={'REF_AREA': 'country',
-                   'TIME_PERIOD': 'Year', 'OBS_VALUE': indicator_Name})
-    if savetoCsv:
-        root = 'Data/processed/'
-        df.to_csv(
-            f"{root}/temp/{indicator_Name}_{startYear}_{endYear}.csv", index=False)
-    return df
-
 
 # Importing World Bank data for various indicators across multiple countries
 all_countries_list = ['VNM', 'LAO', 'THA', 'KHM', 'MYS', 'SGP', 'MMR',
                       'PHL', 'BRN', 'IDN', 'BGD', 'IND', 'PAK', 'NPL', 'LKA', 'BTN']
+all_countries_list_fao = [704,418,764,116,458,702,104,608,96,360,50,356,586,524,144,64]
+all_countries_list_dic = dict(zip(all_countries_list, all_countries_list_fao))
 
-indicators_v1 = [
-    {'indicator_ID': 'FAO_IC_23068',
-        'name': 'Credit to Agriculture'},
-    {'indicator_ID': 'NV.AGR.TOTL.CD',
-        'name': 'Value Added (Agriculture, Forestry and Fishing)'},
-    {'indicator_ID': 'NV.MNF.FBTO.CD',
-        'name': 'Value Added (Manufacture of food and beverages)'},
-    {'indicator_ID': 'AG.CON.FERT.ZS',
-        'name': 'Fertilizer consumption (kilograms per hectare of arable land)'},
+indicators_imf = [
     {'indicator_ID': 'IMF_FAS_FCMT',
         'name': 'Use of Financial Services, Number of mobile money transactions (during the reference year)'},
     {'indicator_ID': 'IMF_FAS_FCMTV',
@@ -214,7 +180,7 @@ indicators_v2 = [
         'name': 'GDP per capita, PPP (constant 2021 international $)'}
 ]
 
-faoCredit = {
+indicators_faoCredit = {
     'db': 'IC',
     'dbName': 'Credit to Agriculture',
     'element': {'Value US$, 2015 prices': '6179'},
@@ -223,7 +189,7 @@ faoCredit = {
     'year': [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
 }
 
-faoAddedValue = {
+indicators_faoAddedValue = {
     'db': 'MK',
     'dbName': 'Macro Indicators',
     'element': {'Value US$, 2015 prices': '6179'},
@@ -232,15 +198,27 @@ faoAddedValue = {
     'year': [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
 }
 
+indicators_faoFertilizer = {
+    'db': 'RFN',
+    'dbName': 'Fertilizers by Nutrient',
+    'element': {'Use per area of cropland': '5159'},
+    'item': {'Nutrient nitrogen N (total)': '3102'},
+    'area': {'-- Southern Asia > (List)': '5303>', '-- South-eastern Asia > (List)': '5304>'},
+    'year': [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+}
 
-for i in range(len(indicators_v1)):
-    indicator_Id = indicators_v1[i]['indicator_ID']
-    indicator_Name = indicators_v1[i]['name']
-    database_id = indicators_v1[i]['dbName']
+
+# Importing indicators from World Bank v2
+for i in range(len(indicators_v2)):
+    indicator_Id = indicators_v2[i]['indicator_ID']
+    indicator_Name = indicators_v2[i]['name']
     print(f"Importing {indicator_Name} ({indicator_Id})")
-    df = importWB_v1(
-        database_id, indicator_Id, indicator_Name, all_countries_list, 2010, 2023, savetoCsv=True)
+    df = importWB_v2(
+        indicator_Id, indicator_Name, all_countries_list, 2010, 2023, savetoCsv=True)
     if not df.empty:
         print(df.head())
     else:
         print(f"No data found for {indicator_Name} ({indicator_Id})")
+
+# importing indicators from FAO
+

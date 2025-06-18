@@ -3,8 +3,10 @@ import csv
 from pathlib import Path
 import tkinter as tk
 from tkinter import filedialog
-import faostat
 import pandas as pd
+# you need to install the faostat package
+# pip install faostat
+import faostat 
 
 
 def getFileDialogue():
