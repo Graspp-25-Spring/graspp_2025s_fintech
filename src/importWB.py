@@ -2,10 +2,11 @@ import requests
 import pandas as pd
 import faostat
 
+# Set the root directory for saving data
+root = 'Data/processed/'
+
 
 def importWB_v2(indicator_Id, indicator_Name, countries, startYear, endYear, savetoCsv=False):
-    root = 'Data/processed/'
-
     # connect countries to string
     if isinstance(countries, list):
         country_str = ';'.join(countries)
@@ -39,7 +40,40 @@ def importWB_v2(indicator_Id, indicator_Name, countries, startYear, endYear, sav
 
 # importFAO function
 # this function imports data from FAO database using the faostat package and uses the parameters defined in setParams
-def importFAO(db, params, pivot=False, savetoCsv=False):
+    # # example parameters: FBSData  ####################################
+    # FBSdata = {'db': 'FBS',
+    #            'dbName': 'Food Balances (2010-)',
+    #            'element': {'Food supply quantity (kg/capita/yr)': '645'},
+    #            'item': {'Cereals - Excluding Beer + (Total)': '2905', 'Starchy Roots + (Total)': '2907'},
+    #            'area':  {'-- Southern Asia > (List)': '5303>', '-- South-eastern Asia > (List)': '5304>'},
+    #            'year': [2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024],
+    #            }
+    #######################################################################
+    
+def importFAO(db, myParam, pivot=False, savetoCsv=False):
+
+    # Define parameters for importFAO: area, element, item, year using a dictionary
+    def setParams(dbDictionary):
+        element_list = list(dbDictionary['element'].values())
+        item_list = list(dbDictionary['item'].values())
+        area_list = list(dbDictionary['area'].values())
+        year_list = dbDictionary['year']
+        result = {
+            # 'db': dbDictionary['db'],
+            'element': element_list,
+            'item': item_list,
+            'area': area_list,
+            'year': year_list
+        }
+        return result
+
+    # Set parameters for the FAO database
+    params = setParams(myParam) 
+
+    # Get the start and end year from the parameters
+    startYear = min(myParam['year'])
+    endYear = max(myParam['year'])
+
     # Download data as a pandas DataFrame
     df = faostat.get_data_df(db, pars=params)
 
