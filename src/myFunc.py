@@ -6,7 +6,7 @@ from tkinter import filedialog
 import pandas as pd
 # you need to install the faostat package
 # pip install faostat
-import faostat 
+import faostat
 
 
 def getFileDialogue():
@@ -221,6 +221,7 @@ def getUserChoiceFromList(myList, pageBy=20, multiSelect=False):
     # print(myResult)
 
 
+# Function to get database information from FAO
 def getDbInfo():
     # Get the list of available FAO databases
     dbParams = {}
@@ -251,6 +252,7 @@ def getDbInfo():
     return result
 
 
+# Function to import data from the World Bank API
 def importWB(database_id, indicator_id, year_from, year_to):
     import requests
     import pandas as pd
@@ -273,6 +275,33 @@ def importWB(database_id, indicator_id, year_from, year_to):
         print("No data available for the requested indicator and database.")
         return False
 
+
+# Function to save a DataFrame to a CSV file with an incremental number in the filename
+def save_csv_with_incremental_number(df, base_filename, directory='.'):
+    # ディレクトリが存在しなければ作成
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+
+    # 利用可能な番号を探す
+    number = 1
+    while True:
+        filename = f"{base_filename}_{number}.csv"
+        filepath = os.path.join(directory, filename)
+        if not os.path.exists(filepath):
+            break
+        number += 1
+
+    # DataFrameをCSVで保存
+    df.to_csv(filepath, index=False)
+    return filepath
+
+# 使用例
+# sample_data = {'Name': ['Alice', 'Bob'], 'Age': [25, 30]}
+# df = pd.DataFrame(sample_data)
+# saved_path = save_csv_with_incremental_number(df, 'sample')
+# print(saved_path)  # 例: ./sample-1.csv
+
+
 # example of function usage
 # mydf_ICTPolicy = importWB("ITU_ICT", "ITU_ICT_G5_DIG_ECON", "2000", "2025")
 # mydf_FarmCredit = importWB("FAO_IC", "FAO_IC_23068", "2000", "2025")
@@ -289,4 +318,4 @@ def importWB(database_id, indicator_id, year_from, year_to):
 # getDbParams('CP')
 # res = getDbInfo()
 # print(res)
-getDbInfo()
+# getDbInfo()

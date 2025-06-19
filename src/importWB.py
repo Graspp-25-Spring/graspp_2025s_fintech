@@ -1,19 +1,21 @@
 import requests
 import pandas as pd
 import faostat
+from datetime import date
+from myFunc import save_csv_with_incremental_number
 
 # Set the root directory for saving data
 root = 'Data/processed/'
 
 
-def importWB_v2(indicator_Id, indicator_Name, countries, startYear, endYear, savetoCsv=False):
+def importWB_v2(indicatorId, indicatorName, countries, startYear, endYear, savetoCsv=False):
     # connect countries to string
     if isinstance(countries, list):
         country_str = ';'.join(countries)
     else:
         country_str = countries
 
-    url = f"https://api.worldbank.org/v2/country/{country_str}/indicator/{indicator_Id}"
+    url = f"https://api.worldbank.org/v2/country/{country_str}/indicator/{indicatorId}"
     params = {
         'date': f"{startYear}:{endYear}",
         'format': 'json',
@@ -28,10 +30,10 @@ def importWB_v2(indicator_Id, indicator_Name, countries, startYear, endYear, sav
         # Extract only necessary columns
         df = df[['country', 'date', 'value']]
         df['country'] = df['country'].apply(lambda x: x['id'])
-        df = df.rename(columns={'date': 'Year', 'value': indicator_Name})
+        df = df.rename(columns={'date': 'Year', 'value': indicatorName})
         if savetoCsv:
             df.to_csv(
-                f"{root}/temp/{indicator_Name}_{startYear}_{endYear}.csv", index=False)
+                f"{root}/temp/{indicatorName}_{startYear}_{endYear}.csv", index=False)
         return df
     else:
         print("No data found.")
@@ -49,16 +51,17 @@ def importWB_v2(indicator_Id, indicator_Name, countries, startYear, endYear, sav
     #            'year': [2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024],
     #            }
     #######################################################################
-def importFAO(db, myParam, pivot=False, savetoCsv=False):
+def importFAO(myParam, pivot=False, savetoCsv=False):
 
     # Define parameters for importFAO: area, element, item, year using a dictionary
     def setParams(dbDictionary):
+        db = dbDictionary['db']
         element_list = list(dbDictionary['element'].values())
         item_list = list(dbDictionary['item'].values())
         area_list = list(dbDictionary['area'].values())
         year_list = dbDictionary['year']
         result = {
-            # 'db': dbDictionary['db'],
+            'db': db,
             'element': element_list,
             'item': item_list,
             'area': area_list,
@@ -69,18 +72,22 @@ def importFAO(db, myParam, pivot=False, savetoCsv=False):
     # Set parameters for the FAO database
     params = setParams(myParam)
 
-    # Get the start and end year from the parameters
-    startYear = min(myParam['year'])
-    endYear = max(myParam['year'])
+    # # Get the start and end year from the parameters
+    # startYear = min(myParam['year'])
+    # endYear = max(myParam['year'])
 
     # Download data as a pandas DataFrame
-    df = faostat.get_data_df(db, pars=params)
+    df = faostat.get_data_df(params['db'], pars=params)
 
     if pivot == False:
         # if pivot = false, return the raw data
         if savetoCsv:
-            df.to_csv(
-                f"{root}/temp/{indicator_Name}_{startYear}_{endYear}.csv", index=False)
+            today = date.today()
+            # Create a filename with the current date
+            save_csv_with_incremental_number(
+                df, f"fao_{today}", f"{root}/temp/")
+            # df.to_csv(
+            #     f"{root}/temp/{indicator_Name}_{startYear}_{endYear}.csv", index=False)
             return df
         else:
             return df
@@ -98,14 +105,24 @@ def importFAO(db, myParam, pivot=False, savetoCsv=False):
             columns='col_name',
             values='Value'
         ).reset_index()
-        return df_pivot
 
+        if savetoCsv:
+            today = date.today()
+            # Create a filename with the current date
+            save_csv_with_incremental_number(
+                df_pivot, f"fao_{today}", f"{root}/temp/")
+            # df.to_csv(
+            #     f"{root}/temp/{indicator_Name}_{startYear}_{endYear}.csv", index=False)
+            return df_pivot
+        else:
+            return df_pivot
 
 
 # Importing World Bank data for various indicators across multiple countries
 all_countries_list = ['VNM', 'LAO', 'THA', 'KHM', 'MYS', 'SGP', 'MMR',
                       'PHL', 'BRN', 'IDN', 'BGD', 'IND', 'PAK', 'NPL', 'LKA', 'BTN']
-all_countries_list_fao = [704,418,764,116,458,702,104,608,96,360,50,356,586,524,144,64]
+all_countries_list_fao = [704, 418, 764, 116, 458,
+                          702, 104, 608, 96, 360, 50, 356, 586, 524, 144, 64]
 all_countries_list_dic = dict(zip(all_countries_list, all_countries_list_fao))
 
 indicators_imf = [
@@ -208,17 +225,16 @@ indicators_faoFertilizer = {
 }
 
 
-# Importing indicators from World Bank v2
-for i in range(len(indicators_v2)):
-    indicator_Id = indicators_v2[i]['indicator_ID']
-    indicator_Name = indicators_v2[i]['name']
-    print(f"Importing {indicator_Name} ({indicator_Id})")
-    df = importWB_v2(
-        indicator_Id, indicator_Name, all_countries_list, 2010, 2023, savetoCsv=True)
-    if not df.empty:
-        print(df.head())
-    else:
-        print(f"No data found for {indicator_Name} ({indicator_Id})")
+# # Importing indicators from World Bank v2
+# for item in indicators_v2:
+#     indicator_Id = item['indicator_ID']
+#     indicator_Name = item['name']
+#     print(f"Importing {indicator_Name} ({indicator_Id})")
+#     df = importWB_v2(
+#         indicator_Id, indicator_Name, all_countries_list, 2010, 2023, savetoCsv=True)
+#     if not df.empty:
+#         print(df.head())
+#     else:
+#         print(f"No data found for {indicator_Name} ({indicator_Id})")
 
-# importing indicators from FAO
-
+# # importing indicators from FAO

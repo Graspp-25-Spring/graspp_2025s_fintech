@@ -1,0 +1,260 @@
+Area,Year,Use per area of cropland_Nutrient nitrogen N (total)
+Afghanistan,2010,1.63
+Afghanistan,2011,2.9
+Afghanistan,2012,2.16
+Afghanistan,2013,4.41
+Afghanistan,2014,9.34
+Afghanistan,2015,11.7
+Afghanistan,2016,12.22
+Afghanistan,2017,17.8
+Afghanistan,2018,15.06
+Afghanistan,2019,7.45
+Afghanistan,2020,5.36
+Afghanistan,2021,4.14
+Afghanistan,2022,3.23
+Bangladesh,2010,135.03
+Bangladesh,2011,149.49
+Bangladesh,2012,132.6
+Bangladesh,2013,130.67
+Bangladesh,2014,144.75
+Bangladesh,2015,154.28
+Bangladesh,2016,136.41
+Bangladesh,2017,144.45
+Bangladesh,2018,154.68
+Bangladesh,2019,150.93
+Bangladesh,2020,154.23
+Bangladesh,2021,173.31
+Bangladesh,2022,171.18
+Bhutan,2010,6.07
+Bhutan,2011,7.5
+Bhutan,2012,6.89
+Bhutan,2013,6.73
+Bhutan,2014,7.89
+Bhutan,2015,8.17
+Bhutan,2016,8.05
+Bhutan,2017,7.9
+Bhutan,2018,15.08
+Bhutan,2019,8.02
+Bhutan,2020,8.54
+Bhutan,2021,10.16
+Bhutan,2022,5.96
+Brunei Darussalam,2010,60.4
+Brunei Darussalam,2011,26.3
+Brunei Darussalam,2012,29.3
+Brunei Darussalam,2013,7.0
+Brunei Darussalam,2014,24.3
+Brunei Darussalam,2015,24.3
+Brunei Darussalam,2016,24.3
+Brunei Darussalam,2017,24.3
+Brunei Darussalam,2018,24.3
+Brunei Darussalam,2019,24.3
+Brunei Darussalam,2020,24.3
+Brunei Darussalam,2021,24.3
+Brunei Darussalam,2022,24.3
+Cambodia,2010,5.84
+Cambodia,2011,9.28
+Cambodia,2012,13.71
+Cambodia,2013,12.45
+Cambodia,2014,15.66
+Cambodia,2015,19.49
+Cambodia,2016,13.25
+Cambodia,2017,26.84
+Cambodia,2018,29.32
+Cambodia,2019,25.19
+Cambodia,2020,24.18
+Cambodia,2021,26.33
+Cambodia,2022,18.35
+India,2010,97.21
+India,2011,102.54
+India,2012,99.33
+India,2013,98.85
+India,2014,100.02
+India,2015,102.54
+India,2016,98.84
+India,2017,100.41
+India,2018,104.45
+India,2019,111.84
+India,2020,121.42
+India,2021,115.97
+India,2022,120.24
+Indonesia,2010,71.51
+Indonesia,2011,73.45
+Indonesia,2012,73.78
+Indonesia,2013,69.02
+Indonesia,2014,71.41
+Indonesia,2015,68.85
+Indonesia,2016,71.52
+Indonesia,2017,67.18
+Indonesia,2018,72.59
+Indonesia,2019,65.49
+Indonesia,2020,78.86
+Indonesia,2021,81.6
+Indonesia,2022,65.76
+Iran (Islamic Republic of),2010,55.31
+Iran (Islamic Republic of),2011,33.05
+Iran (Islamic Republic of),2012,39.97
+Iran (Islamic Republic of),2013,37.99
+Iran (Islamic Republic of),2014,42.58
+Iran (Islamic Republic of),2015,34.23
+Iran (Islamic Republic of),2016,34.28
+Iran (Islamic Republic of),2017,35.53
+Iran (Islamic Republic of),2018,41.84
+Iran (Islamic Republic of),2019,46.53
+Iran (Islamic Republic of),2020,51.46
+Iran (Islamic Republic of),2021,51.35
+Iran (Islamic Republic of),2022,51.35
+Lao People's Democratic Republic,2010,5.74
+Lao People's Democratic Republic,2011,6.28
+Lao People's Democratic Republic,2012,18.73
+Lao People's Democratic Republic,2013,12.63
+Lao People's Democratic Republic,2014,16.38
+Lao People's Democratic Republic,2015,16.17
+Lao People's Democratic Republic,2016,14.39
+Lao People's Democratic Republic,2017,14.96
+Lao People's Democratic Republic,2018,20.66
+Lao People's Democratic Republic,2019,25.81
+Lao People's Democratic Republic,2020,24.02
+Lao People's Democratic Republic,2021,24.0
+Lao People's Democratic Republic,2022,25.65
+Malaysia,2010,95.93
+Malaysia,2011,97.45
+Malaysia,2012,95.51
+Malaysia,2013,71.43
+Malaysia,2014,74.95
+Malaysia,2015,64.97
+Malaysia,2016,63.64
+Malaysia,2017,57.56
+Malaysia,2018,46.69
+Malaysia,2019,33.67
+Malaysia,2020,40.12
+Malaysia,2021,55.39
+Malaysia,2022,42.88
+Maldives,2010,21.53
+Maldives,2011,11.86
+Maldives,2012,56.08
+Maldives,2013,47.5
+Maldives,2014,37.62
+Maldives,2015,41.91
+Maldives,2016,62.72
+Maldives,2017,64.81
+Maldives,2018,75.2
+Maldives,2019,43.07
+Maldives,2020,45.19
+Maldives,2021,52.15
+Maldives,2022,35.52
+Myanmar,2010,4.2
+Myanmar,2011,9.47
+Myanmar,2012,10.7
+Myanmar,2013,15.06
+Myanmar,2014,19.15
+Myanmar,2015,9.39
+Myanmar,2016,12.01
+Myanmar,2017,20.38
+Myanmar,2018,21.55
+Myanmar,2019,28.27
+Myanmar,2020,37.8
+Myanmar,2021,25.22
+Myanmar,2022,7.76
+Nepal,2010,18.5
+Nepal,2011,23.49
+Nepal,2012,20.04
+Nepal,2013,34.62
+Nepal,2014,43.13
+Nepal,2015,47.8
+Nepal,2016,48.5
+Nepal,2017,42.57
+Nepal,2018,61.43
+Nepal,2019,59.47
+Nepal,2020,65.99
+Nepal,2021,65.21
+Nepal,2022,41.04
+Pakistan,2010,108.15
+Pakistan,2011,103.03
+Pakistan,2012,91.77
+Pakistan,2013,103.57
+Pakistan,2014,100.45
+Pakistan,2015,101.29
+Pakistan,2016,101.97
+Pakistan,2017,107.71
+Pakistan,2018,107.87
+Pakistan,2019,112.09
+Pakistan,2020,111.57
+Pakistan,2021,119.78
+Pakistan,2022,118.49
+Philippines,2010,55.96
+Philippines,2011,48.18
+Philippines,2012,43.0
+Philippines,2013,48.09
+Philippines,2014,54.15
+Philippines,2015,47.78
+Philippines,2016,56.81
+Philippines,2017,68.65
+Philippines,2018,58.46
+Philippines,2019,63.72
+Philippines,2020,67.25
+Philippines,2021,64.02
+Philippines,2022,71.45
+Singapore,2010,63.72
+Singapore,2011,62.57
+Singapore,2012,63.95
+Singapore,2013,69.68
+Singapore,2014,64.77
+Singapore,2015,61.05
+Singapore,2016,62.1
+Singapore,2017,64.98
+Singapore,2018,64.15
+Singapore,2019,58.03
+Singapore,2020,65.86
+Singapore,2021,65.15
+Singapore,2022,65.15
+Sri Lanka,2010,76.19
+Sri Lanka,2011,91.43
+Sri Lanka,2012,71.42
+Sri Lanka,2013,55.54
+Sri Lanka,2014,99.06
+Sri Lanka,2015,65.24
+Sri Lanka,2016,50.99
+Sri Lanka,2017,47.29
+Sri Lanka,2018,29.02
+Sri Lanka,2019,60.59
+Sri Lanka,2020,100.88
+Sri Lanka,2021,50.27
+Sri Lanka,2022,50.27
+Thailand,2010,72.97
+Thailand,2011,72.15
+Thailand,2012,73.53
+Thailand,2013,74.64
+Thailand,2014,70.02
+Thailand,2015,57.42
+Thailand,2016,67.22
+Thailand,2017,78.32
+Thailand,2018,64.54
+Thailand,2019,56.77
+Thailand,2020,64.6
+Thailand,2021,62.47
+Thailand,2022,50.75
+Timor-Leste,2010,0.05
+Timor-Leste,2012,0.46
+Timor-Leste,2013,0.44
+Timor-Leste,2014,0.02
+Timor-Leste,2015,0.8
+Timor-Leste,2016,0.4
+Timor-Leste,2017,0.13
+Timor-Leste,2018,0.23
+Timor-Leste,2019,0.68
+Timor-Leste,2020,0.37
+Timor-Leste,2021,0.41
+Timor-Leste,2022,0.43
+Viet Nam,2010,118.22
+Viet Nam,2011,97.71
+Viet Nam,2012,116.83
+Viet Nam,2013,159.47
+Viet Nam,2014,133.3
+Viet Nam,2015,147.38
+Viet Nam,2016,134.34
+Viet Nam,2017,135.62
+Viet Nam,2018,136.79
+Viet Nam,2019,133.9
+Viet Nam,2020,134.22
+Viet Nam,2021,134.22
+Viet Nam,2022,151.18
