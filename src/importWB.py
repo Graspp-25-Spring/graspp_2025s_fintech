@@ -2,6 +2,7 @@ import requests
 import pandas as pd
 import faostat
 from datetime import date
+import sdmx
 from myFunc import save_csv_with_incremental_number
 
 # Set the root directory for saving data
@@ -116,6 +117,63 @@ def importFAO(myParam, pivot=False, savetoCsv=False):
             return df_pivot
         else:
             return df_pivot
+
+# Importing IMF data for financial indicators
+# This function imports data from the IMF CompactData API for financial indicators.
+# It retrieves data for multiple countries and a specific indicator over a range of years.
+# The data is returned as a pandas DataFrame.
+def importIMF(dataflow_id, indicotor_code, countries, startYear, endYear, savetoCsv=False):
+    """
+    Import data from IMF using the CompactData API.
+    """
+    # 国コードを'+'で連結
+    country_str = '+'.join(countries)
+
+    # データ取得
+    client = sdmx.Client("IMF_DATA")
+    # data_response = client.get(
+    #     resource_type="data",
+    #     resource_id=dataflow_id,
+    #     key=f"A.{country_str}.{indicotor_code}",
+    #     params={"startPeriod": startYear, "endPeriod": endYear}
+    # )
+
+
+    data_msg = client.data('FAS', key='A.VNM.FA66N', params={'startPeriod': 2018, 'endPeriod': 2024})
+    cpi_df = sdmx.to_pandas(data_msg)
+    print(cpi_df)
+    return False
+
+    data_response = client.get(
+        resource_type="data",
+        resource_id="FAS",
+        key="A.VNM.FA66N",  # 頻度.国コード.指標ID
+        params={"startPeriod": "2010", "endPeriod": "2024"}
+    )
+
+    return False
+
+    # データ整形
+    records = []
+    for series_key, series in data_response.data:
+        country = series_key.get('REF_AREA')
+        for obs in series.obs:
+            year = obs.dimensions.get('TIME_PERIOD')
+            value = obs.value
+            if year and value is not None:
+                if int(year) >= startYear and int(year) <= endYear:
+                    records.append({'Country': country, 'Year': year, 'Value': value})
+
+    df = pd.DataFrame(records)
+    df = df.sort_values(['Country', 'Year']).reset_index(drop=True)
+
+    if savetoCsv:
+        today = date.today()
+        # Create a filename with the current date
+        save_csv_with_incremental_number(df,f"IMFData_{today}", f"{root}/temp/")
+
+    return df
+
 
 
 # Importing World Bank data for various indicators across multiple countries

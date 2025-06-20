@@ -1,6 +1,6 @@
 # import os
 # print(os.path.isfile('importWB.py'))  # Trueなら存在
-from importWB import importFAO
+from importWB import importFAO, importIMF
 
 # Importing World Bank data for various indicators across multiple countries
 all_countries_list = ['VNM', 'LAO', 'THA', 'KHM', 'MYS', 'SGP', 'MMR',
@@ -109,14 +109,28 @@ indicators_faoFertilizer = {
 }
 
 
-importFAO(
-    indicators_faoCredit, pivot=True, savetoCsv=True)
-print('imported Credit!')
+# importFAO(
+#     indicators_faoCredit, pivot=True, savetoCsv=True)
+# print('imported Credit!')
 
-importFAO(
-    indicators_faoAddedValue, pivot=True, savetoCsv=True)
-print('imported AddedValue!')
+# importFAO(
+#     indicators_faoAddedValue, pivot=True, savetoCsv=True)
+# print('imported AddedValue!')
 
-importFAO(
-    indicators_faoFertilizer, pivot=True, savetoCsv=True)
-print('imported fertilizer!')
+# importFAO(
+#     indicators_faoFertilizer, pivot=True, savetoCsv=True)
+# print('imported fertilizer!')
+
+
+
+importIMF(
+    'FAS', 'IMF_FAS_FCMT', all_countries_list, 2010, 2024, savetoCsv=True)
+print('imported IMF data: FA63N!')
+
+# importIMF(
+#     'FAS', 'IMF_FAS_FCMTV', all_countries_list, 2010, 2024, savetoCsv=True)
+# print('imported IMF data: FA65N!')
+
+# importIMF(
+#     'FAS', 'IMF_FAS_FCMAA', all_countries_list, 2010, 2024, savetoCsv=True)
+# print('imported IMF data: FA66N!')
