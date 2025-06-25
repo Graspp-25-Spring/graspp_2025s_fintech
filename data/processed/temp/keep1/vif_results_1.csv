@@ -1,0 +1,32 @@
+Variable,VIF
+Mobile Cellular Subscriptions (per 100 people),8.550405861795143
+Fixed Broadband Subsciptions (per 100 people),26.589246389208867
+Made a digital in-store merchant payment: using a mobile phone (% age 15+),15714.728936713433
+Made a utility payment: using a mobile phone (% age 15+),23.01272551324196
+Own a mobile phone (% age 15+),459.13640102754323
+"Use a mobile phone or the internet to make payments, buy things, or to send or receive money using a financial institution account (% age 15+)",37244.14208651785
+"Use a mobile phone or the internet to make payments, buy things, or to send or receive money using a financial institution account (% with a financial institution account, age 15+)",4848.869713742033
+Used a mobile phone or the internet to access a financial institution account (% age 15+),8007.890920153366
+"Used a mobile phone or the internet to access a financial institution account (% with a financial institution account, age 15+)",751.2960769402596
+"Used a mobile phone or the internet to access an account (% with an account, age 15+)",645.5720636241156
+Used a mobile phone or the internet to access an account(% age 15+),6195.993706359559
+Used a mobile phone or the internet to buy something online (% age 15+),126.20062163676835
+Used a mobile phone or the internet to check account balance(% age 15+),114.08990889005638
+"Used a mobile phone or the internet to check account balance(% with a financial institution account, age 15+)",49.50347301787532
+Used a mobile phone or the internet to send money (% age 15+),1235.3053180821635
+"GDP per capita, PPP (constant 2021 international $)",163.23615918179507
+Population density (people per sq. km of land area),1340.6883264468659
+Population growth (annual %),3.8651115907423566
+"Population, total",246.39015930817092
+"Agriculture, forestry, and fishing, value added (percent of GDP)",36.82706829935123
+Food supply quantity (kg/capita/yr)_Cereals - Excluding Beer,19.47528325207859
+Food supply quantity (kg/capita/yr)_Starchy Roots,44.78278561160762
+Crop production index (2014-2016 = 100),4.7138262215595494
+foodSupply_stability,inf
+rolling_std,inf
+Rural Access to Electricity(Percent of Population),16.032771764362657
+"Fertility rate, total (births per woman)",80.634700200875
+"Life expectancy at birth, total (years)",33.45317086547839
+"Mortality rate, infant (per 1,000 live births)",113.3946970640364
+Rural population (% of total population),16588.1216333717
+Urban population (% of total population),5986.473118840761
