@@ -1,5 +1,5 @@
 # 🤔 Research Question (Tentative)
-New: What is the impact of mobile cellular subscriptions on agricultural output in ASEAN and South Asian countries?
+New: What is the impact of fixed broadband subscriptions on digital payment in ASEAN and South Asian countries?
 
 Old: To what extent is having a digital presence linked with improvements in financial inclusion and outcomes among the agricultural poor?
 
@@ -12,7 +12,7 @@ Empirical Model:
 
 
 # 🤝 Our lovely Team Members (Alphabetical order) and Contributions
-- Heeyoung Kwon  
+- **Heeyoung Kwon**
     - Data collection for global digital inclusion and some indicators from world bank development indicators.
     - Data cleaning & merging.
     - Created code for forward fill and reinforced original data, tried regression for Milestone2.
@@ -20,7 +20,7 @@ Empirical Model:
     - Assist final video.
     - Updated readme.
     
-- Isabela Paredes 
+- **Isabela Paredes**
     - Contributed to research topic, region, and variable selection. 
     - Gathered & cleaned data from World Bank.
     - Created Milestone 1 Notebook & Dataset.
@@ -31,7 +31,7 @@ Empirical Model:
     - Assist final video.
     - Updated readme.
 
-- Nakada Shunichi  
+- **Nakada Shunichi**
     - Data collection, cleanup, and merging of agriculture related dataset and construction of final merged dataset. 
     - Created the correlation matrix for Milestone 2 and 3.
     - Merged Final Dataset.
@@ -40,7 +40,7 @@ Empirical Model:
     - Assist final video.
     - Updated readme.
 
-- Rachel Ho  
+- **Rachel Ho**
     - Ideated hypotheses around the research question and contributed to brainstorming. 
     - Fetched data of financial access from IMF. 
     - Supported meeting organization, complemented outputs with wording.
@@ -48,7 +48,7 @@ Empirical Model:
     - Assist final video.
     - Updated readme.
 
-- Wanzi Wang  
+- **Wanzi Wang**
     - Data collection, cleaning, merging of demographic variables fetched from WDI. 
     - Merged the initial 7 datasets. 
     - Made Regression model for Milestone 2.
@@ -59,8 +59,15 @@ Empirical Model:
 # 📒 Notebooks
 1) Milestone One - [Notebook here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone_1.ipynb)
 2) Milestone Two - [Notebook here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone_2.ipynb)
-                 - [Visualization here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Visualizations_One.ipynb)
-3) Milestone Three (WIP) - [Visualization here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone3Viz.ipynb)
+                 - [Merging here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone_2_Merging.ipynb)
+                 - [Visualization here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone_2_Visualizations.ipynb)
+3) Milestone Three 
+                 - [API fetching data here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone_3_API_for_import.ipynb)
+                 - [Visualization here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone_3_Vizualization.ipynb)
+                 - [Descriptive here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone_3_dash_descriptive.ipynb)
+                 - [Regression here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone_3_regression.ipynb)
+                 - [Multicollinearity testing here](https://github.com/Graspp-25-Spring/graspp_2025s_fintech/blob/main/notebooks/Milestone_3_multicollinearity_adjust.ipynb)
+
 
 
 # 💻 Data Files
